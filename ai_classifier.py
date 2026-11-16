@@ -7,7 +7,7 @@ import os
 import re
 import requests
 
-MODEL = 'gemini-2.5-flash-lite'
+MODEL = 'gemini-3.1-flash-lite'
 URL = 'https://generativelanguage.googleapis.com/v1beta/models/'+MODEL+':generateContent'
 DAILY_LIMIT = 24  # local hard limit per UTC date; Google/project limits can be lower
 BATCH_SIZE = 8
@@ -48,7 +48,7 @@ def validate(item,event):
 def process(events,old_ai,now=None):
     now=now or dt.datetime.now(dt.timezone.utc); iso=now.isoformat(); today=now.date().isoformat()
     state=old_ai if isinstance(old_ai,dict) else {}
-    state={'day_utc':today,'requests_today':int(state.get('requests_today',0)) if state.get('day_utc')==today and type(state.get('requests_today')) is int else 0,'cooldown_until':state.get('cooldown_until'),'last_success':state.get('last_success'),'last_attempt':state.get('last_attempt')}
+    state={'day_utc':today,'requests_today':int(state.get('requests_today',0)) if state.get('day_utc')==today and type(state.get('requests_today')) is int else 0,'cooldown_until':state.get('cooldown_until'),'last_success':state.get('last_success'),'last_attempt':state.get('last_attempt'),'last_error':state.get('last_error')}
     eligible=[x for x in events if x.get('excerpt') and (RELEVANT.search(x['excerpt']) or NEWS.search(x['excerpt'])) and not x.get('ai') and int(x.get('ai_attempts',0))<2]
     # Oldest detected first to avoid permanently starving the queue.
     eligible.sort(key=lambda x:x.get('observed_at',x.get('posted_at','')))
@@ -57,7 +57,7 @@ def process(events,old_ai,now=None):
     if not key:state.update(status='disabled',message='No Gemini key; rules only.');return state
     try:cooldown=dt.datetime.fromisoformat(state.get('cooldown_until') or '')
     except ValueError:cooldown=None
-    if cooldown and cooldown.tzinfo and now<cooldown:state.update(status='cooldown',message='AI paused after quota or service error. Rules remain available.');return state
+    if cooldown and cooldown.tzinfo and now<cooldown:state.update(status='cooldown',message='AI paused until '+str(state['cooldown_until'])+'; last error: '+str(state.get('last_error') or 'not recorded by previous version')+'. Rules remain available.');return state
     if state['requests_today']>=DAILY_LIMIT:state.update(status='daily_cap',message='Local daily AI request cap reached; rules remain available.');return state
     if not eligible:state.update(status='idle',message='No text shortlisted for AI.');return state
     batch=eligible[:BATCH_SIZE]; payload=[{'id':i,'text':str(x['excerpt'])[:700]} for i,x in enumerate(batch)]
@@ -66,10 +66,12 @@ def process(events,old_ai,now=None):
     try:
         r=requests.post(URL,headers={'x-goog-api-key':key,'Content-Type':'application/json'},json=body,timeout=(5,40),allow_redirects=False)
         if r.status_code==429:
-            state.update(status='rate_limited',cooldown_until=(now+dt.timedelta(hours=6)).isoformat(),message='Gemini quota/rate limit; paused 6 hours. Rules remain available.');return state
+            state.update(status='rate_limited',last_error='HTTP 429 quota/rate limit',cooldown_until=(now+dt.timedelta(hours=6)).isoformat(),message='Gemini HTTP 429 quota/rate limit; paused 6 hours. Rules remain available.');print('Gemini: HTTP 429; paused 6 hours.');return state
         if r.status_code in (401,403):
-            state.update(status='auth_error',cooldown_until=(now+dt.timedelta(hours=6)).isoformat(),message='Gemini key or project access rejected; check secret and project. Rules remain available.');return state
-        if r.status_code!=200:raise ValueError('API error')
+            state.update(status='auth_error',last_error='HTTP '+str(r.status_code)+' key/project access rejected',cooldown_until=(now+dt.timedelta(hours=6)).isoformat(),message='Gemini HTTP '+str(r.status_code)+' key or project access rejected; check secret and project.');print('Gemini: HTTP '+str(r.status_code)+'; check secret and project access.');return state
+        if r.status_code!=200:
+            state.update(status='error',last_error='HTTP '+str(r.status_code),cooldown_until=(now+dt.timedelta(hours=1)).isoformat(),message='Gemini HTTP '+str(r.status_code)+'; check API/model access. Rules remain available.')
+            print('Gemini: HTTP '+str(r.status_code)+'; no response body logged.');return state
         obj=r.json();candidates=obj.get('candidates',[])
         parts=candidates[0]['content']['parts']; raw=''.join(p.get('text','') for p in parts if isinstance(p,dict) and not p.get('thought'))
         if len(raw)>40000:raise ValueError('Response too large')
@@ -82,8 +84,10 @@ def process(events,old_ai,now=None):
         for i,e in enumerate(batch):
             e['ai_attempts']=int(e.get('ai_attempts',0))+1
             if found.get(i):e['ai']={**found[i],'model':MODEL,'processed_at':iso};count+=1
-        state.update(status='ok' if count else 'invalid',last_success=iso if count else state.get('last_success'),cooldown_until=None,message=f'AI processed {count}/{len(batch)} shortlisted posts; outputs unverified.')
-    except (requests.RequestException,ValueError,KeyError,IndexError,TypeError,AssertionError):
-        state.update(status='error',cooldown_until=(now+dt.timedelta(hours=1)).isoformat(),message='Gemini unavailable or invalid response; retry later. Rules remain available.')
+        state.update(status='ok' if count else 'invalid',last_success=iso if count else state.get('last_success'),cooldown_until=None,last_error=None if count else 'No valid AI items',message=f'AI processed {count}/{len(batch)} shortlisted posts; outputs unverified.')
+    except (requests.RequestException,ValueError,KeyError,IndexError,TypeError,AssertionError) as ex:
+        reason='Network timeout' if isinstance(ex,requests.Timeout) else 'Network/connection error' if isinstance(ex,requests.RequestException) else 'Invalid or incomplete model response'
+        state.update(status='error',last_error=reason,cooldown_until=(now+dt.timedelta(hours=1)).isoformat(),message='Gemini '+reason+'; retry later. Rules remain available.')
+        print('Gemini: '+reason+'; no API response body or credentials logged.')
     state['pending']=sum(1 for x in events if x.get('excerpt') and (RELEVANT.search(x['excerpt']) or NEWS.search(x['excerpt'])) and not x.get('ai') and int(x.get('ai_attempts',0))<2)
     return state

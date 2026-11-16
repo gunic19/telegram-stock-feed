@@ -52,7 +52,9 @@ def classify(text,media=False):
     if EXCLUDE_ADS.search(text):return None
     if not RELEVANT.search(text):
         if ai_classifier.NEWS.search(text):return {'category':'news','reason':'Possible company news; AI/name and original require verification.'}
-        return {'category':'review','reason':'Media attached; image contents not read. Open original.'} if media else None
+        # Keep otherwise unclear public text for human review; only obvious ads/greetings are discarded.
+        if re.fullmatch(r'(?i)(?:good\s+(?:morning|evening|night)|hello|hi|namaste|thanks?)[!.\s]*',text) or text.strip()=='[link]':return None
+        return {'category':'review','reason':'Unclassified public post; manual review required.'}
     # The regex intentionally accepts only an explicit BUY/SELL followed by
     # one uppercase token; every result is a candidate, not a verified signal.
     actions=list(ACTION.finditer(text))
