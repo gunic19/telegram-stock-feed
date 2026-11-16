@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T16:59:53.585996+00:00",
+  "updated_at": "2026-11-16T18:03:58.654614+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9628,8 +9628,8 @@
       "pages": 1,
       "newest_id": 137080,
       "gap_detected": false,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
-      "last_success": "2026-11-16T16:59:53.585996+00:00"
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
+      "last_success": "2026-11-16T18:03:58.654614+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,8 +9637,8 @@
       "pages": 1,
       "newest_id": 18528,
       "gap_detected": false,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
-      "last_success": "2026-11-16T16:59:53.585996+00:00"
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
+      "last_success": "2026-11-16T18:03:58.654614+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9646,8 +9646,8 @@
       "pages": 1,
       "newest_id": 44505,
       "gap_detected": false,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
-      "last_success": "2026-11-16T16:59:53.585996+00:00"
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
+      "last_success": "2026-11-16T18:03:58.654614+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9655,8 +9655,8 @@
       "pages": 1,
       "newest_id": 112891,
       "gap_detected": false,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
-      "last_success": "2026-11-16T16:59:53.585996+00:00"
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
+      "last_success": "2026-11-16T18:03:58.654614+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9664,8 +9664,8 @@
       "pages": 1,
       "newest_id": 155188,
       "gap_detected": false,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
-      "last_success": "2026-11-16T16:59:53.585996+00:00"
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
+      "last_success": "2026-11-16T18:03:58.654614+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9673,8 +9673,8 @@
       "pages": 1,
       "newest_id": 64782,
       "gap_detected": false,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
-      "last_success": "2026-11-16T16:59:53.585996+00:00"
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
+      "last_success": "2026-11-16T18:03:58.654614+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9682,8 +9682,8 @@
       "pages": 1,
       "newest_id": 13602,
       "gap_detected": false,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
-      "last_success": "2026-11-16T16:59:53.585996+00:00"
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
+      "last_success": "2026-11-16T18:03:58.654614+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,18 +9691,18 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-16T16:59:53.585996+00:00",
+      "checked_at": "2026-11-16T18:03:58.654614+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-16",
-    "requests_today": 4,
+    "requests_today": 5,
     "cooldown_until": null,
-    "last_success": "2026-11-16T16:59:53.585996+00:00",
-    "last_attempt": "2026-11-16T16:59:53.585996+00:00",
+    "last_success": "2026-11-16T18:03:58.654614+00:00",
+    "last_attempt": "2026-11-16T18:03:58.654614+00:00",
     "last_error": null,
-    "pending": 53,
+    "pending": 45,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
@@ -10453,7 +10453,18 @@
       "version": "72c4559ad2d7e0ea",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "NIFTY",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10486,7 +10497,18 @@
       "version": "8d61ea73311a64fe",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10508,7 +10530,18 @@
       "version": "b182c6272776037a",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10530,7 +10563,18 @@
       "version": "196ab6f108e68a6b",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "SAHAJANAND MEDICAL TECHNOLOGIES LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10541,7 +10585,18 @@
       "version": "9773fd4f0be1bb29",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "BHARTI AIRTEL LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10552,7 +10607,18 @@
       "version": "a4f430e80d83954b",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "BELRISE INDUSTRIES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10563,7 +10629,18 @@
       "version": "2481da2c824f8145",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "ITC LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10574,7 +10651,18 @@
       "version": "5e41b754ca904edd",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "A-ONE STEELS INDIA LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T18:03:58.654614+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
