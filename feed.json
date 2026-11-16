@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T15:10:26.779472+00:00",
+  "updated_at": "2026-11-16T15:50:32.185031+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9628,8 +9628,8 @@
       "pages": 1,
       "newest_id": 137077,
       "gap_detected": false,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
-      "last_success": "2026-11-16T15:10:26.779472+00:00"
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
+      "last_success": "2026-11-16T15:50:32.185031+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,8 +9637,8 @@
       "pages": 1,
       "newest_id": 18528,
       "gap_detected": false,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
-      "last_success": "2026-11-16T15:10:26.779472+00:00"
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
+      "last_success": "2026-11-16T15:50:32.185031+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9646,26 +9646,26 @@
       "pages": 1,
       "newest_id": 44505,
       "gap_detected": false,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
-      "last_success": "2026-11-16T15:10:26.779472+00:00"
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
+      "last_success": "2026-11-16T15:50:32.185031+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112888,
+      "newest_id": 112891,
       "gap_detected": false,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
-      "last_success": "2026-11-16T15:10:26.779472+00:00"
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
+      "last_success": "2026-11-16T15:50:32.185031+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155185,
+      "newest_id": 155187,
       "gap_detected": false,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
-      "last_success": "2026-11-16T15:10:26.779472+00:00"
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
+      "last_success": "2026-11-16T15:50:32.185031+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9673,8 +9673,8 @@
       "pages": 1,
       "newest_id": 64782,
       "gap_detected": false,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
-      "last_success": "2026-11-16T15:10:26.779472+00:00"
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
+      "last_success": "2026-11-16T15:50:32.185031+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9682,8 +9682,8 @@
       "pages": 1,
       "newest_id": 13602,
       "gap_detected": false,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
-      "last_success": "2026-11-16T15:10:26.779472+00:00"
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
+      "last_success": "2026-11-16T15:50:32.185031+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,22 +9691,77 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-16T15:10:26.779472+00:00",
+      "checked_at": "2026-11-16T15:50:32.185031+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-16",
-    "requests_today": 2,
-    "cooldown_until": null,
+    "requests_today": 3,
+    "cooldown_until": "2026-11-16T16:50:32.185031+00:00",
     "last_success": "2026-11-16T15:10:26.779472+00:00",
-    "last_attempt": "2026-11-16T15:10:26.779472+00:00",
-    "last_error": null,
-    "pending": 59,
-    "status": "ok",
-    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
+    "last_attempt": "2026-11-16T15:50:32.185031+00:00",
+    "last_error": "HTTP 503",
+    "pending": 61,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 112891,
+      "posted_at": "2026-11-16T15:46:17+00:00",
+      "excerpt": "Talked to some one who does commodity says gold likely to come to $ 3750 and silver $50 or $47",
+      "has_media": false,
+      "version": "b13934b2b2f5e916",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-16T15:50:32.185031+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112890,
+      "posted_at": "2026-11-16T15:45:45+00:00",
+      "excerpt": "Silver 🥈 will break $ 47 ???",
+      "has_media": false,
+      "version": "c96c30e8d0d3fd2f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-16T15:50:32.185031+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155187,
+      "posted_at": "2026-11-16T15:45:02+00:00",
+      "excerpt": "🏛️ FII / DII Activity — 16 Nov 2026 DII Buy: ₹11,752.03 CR | Sell: ₹15,271.08 CR 🔴 Net: ₹-3,519.05 CR FII/FPI Buy: ₹15,636.88 CR | Sell: ₹10,772.20 CR 🟢 Net: ₹+4,864.68 CR",
+      "has_media": false,
+      "version": "bb92c0c970f0c19d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-16T15:50:32.185031+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155186,
+      "posted_at": "2026-11-16T15:40:32+00:00",
+      "excerpt": "Another Great Day for Option Buyers BTST DIVIS LABS 11500CE 185 to 240 🔥 🔥 INTRADAY Kalyan 700CE 37 to 41 🔥 🔥 Apollo Hospital 8700CE 137 to 180 🔥 🔥 HDFC Life 600CE 12 to 14 🔥 🔥 Karur Vysya 385CE 10 to 12 🔥 🔥 SX 81900CE 575 to 640 🔥 🔥 Ashok 170CE 3.85 to 2.85 ❌ Some Small Small TGT in 2-3 Options but Profit is Profit",
+      "has_media": false,
+      "version": "4b8a2ca39200c4ce",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-16T15:50:32.185031+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112889,
+      "posted_at": "2026-11-16T15:24:32+00:00",
+      "excerpt": "WATER 💦 FALL IN SILVER",
+      "has_media": false,
+      "version": "99702902d61d620a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-16T15:50:32.185031+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 112888,
