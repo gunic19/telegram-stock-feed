@@ -1,5 +1,7 @@
 """Collect short public Telegram post excerpts and optionally process shortlisted text with Gemini."""
 import datetime as dt
+import csv
+import io
 import hashlib
 import json
 import os
@@ -107,6 +109,30 @@ def fetch_channel(channel,previous):
     except Exception as ex:
         return {'state':'error','message':str(ex)[:140],'pages':pages,'newest_id':max_seen,'observed':out}
 
+def collect_catalog(old, now):
+    """NSE EQ names only; no prices and no bundled snapshot. Cached max 24h."""
+    prev=old if isinstance(old,dict) else {}
+    try:
+        stamp=dt.datetime.fromisoformat(prev.get('fetched_at',''))
+        fresh=stamp.tzinfo is not None and dt.timedelta(0)<=now-stamp<dt.timedelta(hours=24) and len(prev.get('stocks',[]))>=1500
+    except (TypeError, ValueError):fresh=False
+    if fresh:return {**prev,'state':'ok'}
+    errors=[]
+    for url in ['https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv','https://archives.nseindia.com/content/equities/EQUITY_L.csv']:
+        try:
+            r=requests.get(url,headers=USER_AGENT,timeout=(5,15),allow_redirects=False)
+            if r.status_code!=200 or len(r.content)>2_000_000:raise ValueError('HTTP '+str(r.status_code))
+            reader=csv.DictReader(io.StringIO(r.content.decode('utf-8-sig'))); rows=[];seen=set()
+            for x in reader:
+                x={str(k).strip():v for k,v in x.items() if k is not None};sym=(x.get('SYMBOL') or '').strip().upper();name=(x.get('NAME OF COMPANY') or '').strip();series=(x.get('SERIES') or '').strip()
+                if series!='EQ' or not re.fullmatch(r'[A-Z0-9&.\-]{1,25}',sym) or not name or len(name)>120 or sym in seen:continue
+                rows.append({'sym':sym,'name':name});seen.add(sym)
+            if not 1500<=len(rows)<=5000:raise ValueError('Invalid or incomplete NSE EQ list')
+            return {'state':'ok','fetched_at':now.isoformat(),'source':'NSE EQUITY_L.csv EQ series','stocks':rows}
+        except Exception as ex:errors.append(type(ex).__name__)
+    # Retain with original timestamp and explicit warning; app rejects old data.
+    return {'state':'error','fetched_at':prev.get('fetched_at'),'source':prev.get('source'),'stocks':prev.get('stocks',[]),'message':'NSE EQ list unavailable; last successful catalog is dated.'}
+
 def run():
     now=dt.datetime.now(dt.timezone.utc);iso=now.isoformat()
     try:
@@ -137,7 +163,8 @@ def run():
     kept.sort(key=lambda x:(x['posted_at'],x.get('observed_at','')),reverse=True)
     kept=kept[:MAX_EVENTS]
     ai_state=ai_classifier.process(kept,old.get('ai_status',{}),now)
-    data={'schema':1,'updated_at':iso,'retention':'At most 30 days / 1600 records. Initial run collects only the latest public preview.','sources':{x:states[x] for x in CHANNELS},'ai_status':ai_state,'events':kept}
+    catalog=collect_catalog(old.get('catalog',{}),now)
+    data={'schema':1,'updated_at':iso,'catalog':catalog,'retention':'At most 30 days / 1600 records. Initial run collects only the latest public preview.','sources':{x:states[x] for x in CHANNELS},'ai_status':ai_state,'events':kept}
     tmp=OUTPUT.with_suffix('.tmp');tmp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');os.replace(tmp,OUTPUT)
     print('Collected',len(data['events']),'candidate/review versions;',', '.join(k+':'+states[k]['state'] for k in CHANNELS))
     if all(v['state']=='error' for v in states.values()):print('All sources failed; prior records retained.',file=sys.stderr)
