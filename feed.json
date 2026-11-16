@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T20:52:49.747943+00:00",
+  "updated_at": "2026-11-16T21:51:21.765741+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9628,8 +9628,8 @@
       "pages": 1,
       "newest_id": 137080,
       "gap_detected": false,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
-      "last_success": "2026-11-16T20:52:49.747943+00:00"
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
+      "last_success": "2026-11-16T21:51:21.765741+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,8 +9637,8 @@
       "pages": 1,
       "newest_id": 18528,
       "gap_detected": false,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
-      "last_success": "2026-11-16T20:52:49.747943+00:00"
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
+      "last_success": "2026-11-16T21:51:21.765741+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9646,8 +9646,8 @@
       "pages": 1,
       "newest_id": 44505,
       "gap_detected": false,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
-      "last_success": "2026-11-16T20:52:49.747943+00:00"
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
+      "last_success": "2026-11-16T21:51:21.765741+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9655,8 +9655,8 @@
       "pages": 1,
       "newest_id": 112891,
       "gap_detected": false,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
-      "last_success": "2026-11-16T20:52:49.747943+00:00"
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
+      "last_success": "2026-11-16T21:51:21.765741+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9664,8 +9664,8 @@
       "pages": 1,
       "newest_id": 155188,
       "gap_detected": false,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
-      "last_success": "2026-11-16T20:52:49.747943+00:00"
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
+      "last_success": "2026-11-16T21:51:21.765741+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9673,8 +9673,8 @@
       "pages": 1,
       "newest_id": 64782,
       "gap_detected": false,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
-      "last_success": "2026-11-16T20:52:49.747943+00:00"
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
+      "last_success": "2026-11-16T21:51:21.765741+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9682,8 +9682,8 @@
       "pages": 1,
       "newest_id": 13602,
       "gap_detected": false,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
-      "last_success": "2026-11-16T20:52:49.747943+00:00"
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
+      "last_success": "2026-11-16T21:51:21.765741+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,7 +9691,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-16T20:52:49.747943+00:00",
+      "checked_at": "2026-11-16T21:51:21.765741+00:00",
       "last_success": null
     }
   },
@@ -9703,8 +9703,8 @@
     "last_attempt": "2026-11-16T20:52:49.747943+00:00",
     "last_error": "Network timeout",
     "pending": 37,
-    "status": "error",
-    "message": "Gemini Network timeout; retry later. Rules remain available."
+    "status": "cooldown",
+    "message": "AI paused until 2026-11-16T21:52:49.747943+00:00; last error: Network timeout. Rules remain available."
   },
   "events": [
     {
