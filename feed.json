@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T18:57:47.234039+00:00",
+  "updated_at": "2026-11-16T19:58:17.573558+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9628,8 +9628,8 @@
       "pages": 1,
       "newest_id": 137080,
       "gap_detected": false,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
-      "last_success": "2026-11-16T18:57:47.234039+00:00"
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
+      "last_success": "2026-11-16T19:58:17.573558+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,8 +9637,8 @@
       "pages": 1,
       "newest_id": 18528,
       "gap_detected": false,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
-      "last_success": "2026-11-16T18:57:47.234039+00:00"
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
+      "last_success": "2026-11-16T19:58:17.573558+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9646,8 +9646,8 @@
       "pages": 1,
       "newest_id": 44505,
       "gap_detected": false,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
-      "last_success": "2026-11-16T18:57:47.234039+00:00"
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
+      "last_success": "2026-11-16T19:58:17.573558+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9655,8 +9655,8 @@
       "pages": 1,
       "newest_id": 112891,
       "gap_detected": false,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
-      "last_success": "2026-11-16T18:57:47.234039+00:00"
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
+      "last_success": "2026-11-16T19:58:17.573558+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9664,8 +9664,8 @@
       "pages": 1,
       "newest_id": 155188,
       "gap_detected": false,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
-      "last_success": "2026-11-16T18:57:47.234039+00:00"
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
+      "last_success": "2026-11-16T19:58:17.573558+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9673,8 +9673,8 @@
       "pages": 1,
       "newest_id": 64782,
       "gap_detected": false,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
-      "last_success": "2026-11-16T18:57:47.234039+00:00"
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
+      "last_success": "2026-11-16T19:58:17.573558+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9682,8 +9682,8 @@
       "pages": 1,
       "newest_id": 13602,
       "gap_detected": false,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
-      "last_success": "2026-11-16T18:57:47.234039+00:00"
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
+      "last_success": "2026-11-16T19:58:17.573558+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,20 +9691,20 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-16T18:57:47.234039+00:00",
+      "checked_at": "2026-11-16T19:58:17.573558+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-16",
-    "requests_today": 6,
-    "cooldown_until": "2026-11-16T19:57:47.234039+00:00",
-    "last_success": "2026-11-16T18:03:58.654614+00:00",
-    "last_attempt": "2026-11-16T18:57:47.234039+00:00",
-    "last_error": "Network timeout",
-    "pending": 45,
-    "status": "error",
-    "message": "Gemini Network timeout; retry later. Rules remain available."
+    "requests_today": 7,
+    "cooldown_until": null,
+    "last_success": "2026-11-16T19:58:17.573558+00:00",
+    "last_attempt": "2026-11-16T19:58:17.573558+00:00",
+    "last_error": null,
+    "pending": 37,
+    "status": "ok",
+    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
     {
@@ -10673,7 +10673,18 @@
       "version": "4914664e99016e13",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "MFSL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1340.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10684,7 +10695,18 @@
       "version": "289e57a18b0b63c9",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "HDFCLIFE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10717,7 +10739,18 @@
       "version": "d5093ea64e53c45e",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "SANDHAR TECH",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10739,7 +10772,18 @@
       "version": "d58e8e2d34f19ef1",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "TVS SUPPLY CHAIN (TVSSCS)",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 130.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10750,7 +10794,18 @@
       "version": "e1f0e497a0617c76",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "TVS SUPPLY CHAIN (TVSSCS)",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 130.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10761,7 +10816,18 @@
       "version": "cd4b21d62a47e9ef",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "KAYNES TECHNOLOGY",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10772,7 +10838,18 @@
       "version": "0eb4e37f111fcd12",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "RAJESH EXPORTS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10816,7 +10893,18 @@
       "version": "cb0b529b87de75ad",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-16T13:13:24.473123+00:00"
+      "observed_at": "2026-11-16T13:13:24.473123+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "PIRAMAL PHARMA",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-16T19:58:17.573558+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
