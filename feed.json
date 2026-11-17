@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T03:39:03.176346+00:00",
+  "updated_at": "2026-11-17T04:43:29.048147+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9626,10 +9626,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137084,
+      "newest_id": 137096,
       "gap_detected": false,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
-      "last_success": "2026-11-17T03:39:03.176346+00:00"
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
+      "last_success": "2026-11-17T04:43:29.048147+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,44 +9637,44 @@
       "pages": 1,
       "newest_id": 18529,
       "gap_detected": false,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
-      "last_success": "2026-11-17T03:39:03.176346+00:00"
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
+      "last_success": "2026-11-17T04:43:29.048147+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44509,
+      "newest_id": 44513,
       "gap_detected": false,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
-      "last_success": "2026-11-17T03:39:03.176346+00:00"
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
+      "last_success": "2026-11-17T04:43:29.048147+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112893,
+      "newest_id": 112901,
       "gap_detected": false,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
-      "last_success": "2026-11-17T03:39:03.176346+00:00"
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
+      "last_success": "2026-11-17T04:43:29.048147+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155189,
+      "newest_id": 155197,
       "gap_detected": false,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
-      "last_success": "2026-11-17T03:39:03.176346+00:00"
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
+      "last_success": "2026-11-17T04:43:29.048147+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64785,
+      "newest_id": 64794,
       "gap_detected": false,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
-      "last_success": "2026-11-17T03:39:03.176346+00:00"
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
+      "last_success": "2026-11-17T04:43:29.048147+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9682,8 +9682,8 @@
       "pages": 1,
       "newest_id": 13606,
       "gap_detected": false,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
-      "last_success": "2026-11-17T03:39:03.176346+00:00"
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
+      "last_success": "2026-11-17T04:43:29.048147+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,22 +9691,572 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "checked_at": "2026-11-17T04:43:29.048147+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-17",
-    "requests_today": 4,
+    "requests_today": 5,
     "cooldown_until": null,
-    "last_success": "2026-11-17T03:39:03.176346+00:00",
-    "last_attempt": "2026-11-17T03:39:03.176346+00:00",
+    "last_success": "2026-11-17T04:43:29.048147+00:00",
+    "last_attempt": "2026-11-17T04:43:29.048147+00:00",
     "last_error": null,
-    "pending": 0,
+    "pending": 10,
     "status": "ok",
-    "message": "AI processed 4/4 shortlisted posts; outputs unverified."
+    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155197,
+      "posted_at": "2026-11-17T04:41:40+00:00",
+      "excerpt": "All time high banknifty 🔥 🚀",
+      "has_media": false,
+      "version": "2fd58b055275924d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137096,
+      "posted_at": "2026-11-17T04:40:36+00:00",
+      "excerpt": "POSITIONAL TRADE ASIAN PAINTS Looks Good ABOVE 2625 SL 2590 Targets  01-20-25-30-40 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past…",
+      "has_media": false,
+      "version": "07cbcacbe9d0bc24",
+      "category": "watch",
+      "symbol_candidate": "PAINTS",
+      "stop_loss": 2590.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "ASIAN PAINTS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 2590.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44513,
+      "posted_at": "2026-11-17T04:40:33+00:00",
+      "excerpt": "🏢 TATA SONS IPO IN FOCUS 📅 17 NOVEMBER 2026 🚀 TATA STOCKS RALLY 🔹 Tata Chemicals surged 9%. 🔹 Tata Investment Corporation gained over 3%. 🔹 Tata Motors and Tata Motors PV rose around 2%. 📌 RBI'S BIG MOVE RBI has advised Tata Sons to comply with all applicable Upper Layer NBFC regulations, including mandatory listing requirements. 💰 TATA SONS STAKEHOLDING 🔹 Tata Chemicals holds 2.53% stake worth ₹30,052 Cr. 🔹 Tata Investment Corporation holds over ₹950 Cr worth of stake. 🔹 Tata Motors PV and Tata Steel each hold over 3%. ⚡️ IPO BUZZ RBI's latest communication has renewed speculation around the long-awaited Tata Sons IPO. 📌 MARKET TAKEAWAY Tata Sons listing developments could keep Tata Chemica",
+      "has_media": false,
+      "version": "71c4b3b988daa3e0",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "TATA SONS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64794,
+      "posted_at": "2026-11-17T04:38:28+00:00",
+      "excerpt": "Small cap index is trying to pick momentum.",
+      "has_media": false,
+      "version": "b1a227f3f8b907a7",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64793,
+      "posted_at": "2026-11-17T04:37:35+00:00",
+      "excerpt": "Bank nifty above 62k mark 😍 😍 But broder market stocks are sleeping 😴",
+      "has_media": true,
+      "version": "b48eaa32c3a5deec",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137095,
+      "posted_at": "2026-11-17T04:36:43+00:00",
+      "excerpt": "POSITIONAL TRADE ASIAN PAINTS Looks Good ABOVE 2625 SL 2590 Targets  01-20-25-30-40 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past…",
+      "has_media": false,
+      "version": "07cbcacbe9d0bc24",
+      "category": "watch",
+      "symbol_candidate": "PAINTS",
+      "stop_loss": 2590.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "ASIAN PAINTS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 2590.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64792,
+      "posted_at": "2026-11-17T04:35:07+00:00",
+      "excerpt": "Bank nifty New ATH 😍",
+      "has_media": false,
+      "version": "8e6f6e9bf06a5265",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112901,
+      "posted_at": "2026-11-17T04:34:31+00:00",
+      "excerpt": "EXPECTING REVERSAL AND BUYING IN IT STOCKS SOON",
+      "has_media": false,
+      "version": "60b726417922192c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112900,
+      "posted_at": "2026-11-17T04:33:59+00:00",
+      "excerpt": "bank nifty heading 62050 = future levels = no fresh buying advised",
+      "has_media": true,
+      "version": "9a666b695d510728",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44512,
+      "posted_at": "2026-11-17T04:33:29+00:00",
+      "excerpt": "🚛 ASHOK LEYLAND | SHARES RISE 2.5% 📅 17 NOVEMBER 2026 📈 STOCK ACTION Shares gained 2.5% to ₹171.70 in morning trade. 📊 Q2 FY27 PERFORMANCE 🔹 Net Profit up 13% to ₹869 Cr 🔹 Revenue jumps 39% to ₹13,364 Cr 🔹 CV volumes surge 32% to record 64,677 units. ⚠️ MARGIN PRESSURE EBITDA margin contracts 200 bps to 10.1% due to cost pressures. 📌 MARKET TAKEAWAY Strong commercial vehicle demand and record volumes support growth, but rising commodity costs remain a key margin concern. Source: Moneycontrol Date: 17 November 2026",
+      "has_media": false,
+      "version": "f60fc3167e979959",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "ASHOK LEYLAND",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137094,
+      "posted_at": "2026-11-17T04:30:54+00:00",
+      "excerpt": "❇️ Register for Today's LIVE Market Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗗𝗜𝗦𝗖𝗨𝗦𝗦𝗜𝗢𝗡 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Early Morning Stock Market Discussions…",
+      "has_media": false,
+      "version": "e7311ccd38e3cdae",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64790,
+      "posted_at": "2026-11-17T04:30:24+00:00",
+      "excerpt": "Heritage food is giving range BREAKOUT so it may pick momentum 👀 keep eyes CMP 392. Support:: 380",
+      "has_media": true,
+      "version": "e1dfd69840dfc2ff",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "Heritage food",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44511,
+      "posted_at": "2026-11-17T04:29:42+00:00",
+      "excerpt": "🏢 TATA CHEMICALS | RBI'S BIG MOVE 🔹 RBI tells Tata Sons to comply with applicable regulations including the listing requirement. 🔹 Tata Chemicals holds a 2.53% stake in Tata Sons. 🔹 Tata Chemicals shares surged 8% to ₹650.30 in early trade. 🔹 Tata Investment Corporation gained 3.3%. 📌 Tata Sons listing developments put Tata Group companies in focus. Source: Moneycontrol Date: 17 November 2026",
+      "has_media": false,
+      "version": "17766320bc339e13",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137093,
+      "posted_at": "2026-11-17T04:28:57+00:00",
+      "excerpt": "POSITIONAL TRADE IDFCFB Looks Good ABOVE 82.35 SL 80 Targets  0.5-1-1.5-2-2.5-3 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "4b2e4cc1cedfcf95",
+      "category": "watch",
+      "symbol_candidate": "IDFCFB",
+      "stop_loss": 80.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "IDFCFB",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 80.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44510,
+      "posted_at": "2026-11-17T04:24:47+00:00",
+      "excerpt": "🏦 BSE | BANKEX GETS US MARKET ACCESS 🔹 BSE Bankex becomes the first Indian sectoral index futures contract to receive US CFTC approval. 🔹 US investors can now gain exposure to India's banking sector through Bankex futures. 🔹 BSE shares gained over 2% to ₹3,980 in early trade. 📌 US approval could open new opportunities for BSE's derivatives business. Source: Economic Times Date: 17 November 2026",
+      "has_media": false,
+      "version": "d1661d40a2a5db82",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64789,
+      "posted_at": "2026-11-17T04:24:04+00:00",
+      "excerpt": "Dairy & food stocks up 🔥 🔥",
+      "has_media": true,
+      "version": "a51da09850c7613c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64788,
+      "posted_at": "2026-11-17T04:21:53+00:00",
+      "excerpt": "Dairy & food stocks up 🔥 🔥",
+      "has_media": false,
+      "version": "f3168adc36e725a3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137092,
+      "posted_at": "2026-11-17T04:18:49+00:00",
+      "excerpt": "POSITIONAL TRADE PARAG (PARAGMILK) Looks Good ABOVE 348 SL 340 Targets  353-355-358-360-375-380 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "bcc7f8aba11bdc33",
+      "category": "watch",
+      "symbol_candidate": "PARAGMILK",
+      "stop_loss": 340.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "PARAG (PARAGMILK)",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 340.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137091,
+      "posted_at": "2026-11-17T04:15:53+00:00",
+      "excerpt": "POSITIONAL TRADE PARAG (PARAGMILK) Looks Good ABOVE 348 SL 340 Targets  353-355-358-360-375-380 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "bcc7f8aba11bdc33",
+      "category": "watch",
+      "symbol_candidate": "PARAGMILK",
+      "stop_loss": 340.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "PARAG (PARAGMILK)",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 340.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T04:43:29.048147+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137090,
+      "posted_at": "2026-11-17T04:15:02+00:00",
+      "excerpt": "POSITIONAL TRADE PARAG (PARAGMILK) Looks Good ABOVE 348 SL 340 Targets  353-355-358-360-375-380 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "9a91df3843988169",
+      "category": "watch",
+      "symbol_candidate": "PARAGMILK",
+      "stop_loss": 340.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137089,
+      "posted_at": "2026-11-17T04:12:56+00:00",
+      "excerpt": "POSITIONAL TRADE GREAVES COTTON (GREAVESCOT) Looks Good ABOVE 206 SL 180 Targets  5-10-15-20-25 points from entry Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
+      "has_media": true,
+      "version": "965fc560da2dcd55",
+      "category": "watch",
+      "symbol_candidate": "GREAVESCOT",
+      "stop_loss": 180.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112899,
+      "posted_at": "2026-11-17T04:12:16+00:00",
+      "excerpt": "bank nifty heading 62050 = future levels = no fresh buying advised",
+      "has_media": false,
+      "version": "cad2aae1a9fae68f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112898,
+      "posted_at": "2026-11-17T04:10:21+00:00",
+      "excerpt": "gave opportunity around 186/188 now 218+",
+      "has_media": false,
+      "version": "b4a24c2d8c860b41",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155196,
+      "posted_at": "2026-11-17T04:10:13+00:00",
+      "excerpt": "DAY 1 of PRIME 🥂",
+      "has_media": true,
+      "version": "10b358ffc7644159",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112897,
+      "posted_at": "2026-11-17T04:07:29+00:00",
+      "excerpt": "gave opportunity around 186/188 now 218+",
+      "has_media": true,
+      "version": "14a07a7ef323319a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137088,
+      "posted_at": "2026-11-17T04:07:23+00:00",
+      "excerpt": "POSITIONAL TRADE RAYMOND LTD Looks Good ABOVE 1195 SL 1100 Targets  1250-1300-1350-1400 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with…",
+      "has_media": false,
+      "version": "29563357b5279669",
+      "category": "watch",
+      "symbol_candidate": "LTD",
+      "stop_loss": 1100.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137087,
+      "posted_at": "2026-11-17T04:06:45+00:00",
+      "excerpt": "POSITIONAL TRADE TVS SUPPLY CHAIN (TVSSCS) Looks Good ABOVE 140 SL 130 Targets  146-150-155-160 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
+      "has_media": true,
+      "version": "0c9152c8baf5f67d",
+      "category": "watch",
+      "symbol_candidate": "TVSSCS",
+      "stop_loss": 130.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155195,
+      "posted_at": "2026-11-17T04:06:36+00:00",
+      "excerpt": "kfintech 980 ce 22 support 15 view 29 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "f88ef0c7d1ff3d31",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155194,
+      "posted_at": "2026-11-17T04:02:33+00:00",
+      "excerpt": "BLS POLY STUDY This",
+      "has_media": true,
+      "version": "67f70dc98a8dc269",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155193,
+      "posted_at": "2026-11-17T04:02:26+00:00",
+      "excerpt": "kfintech 980 ce 22 support 15 view 29 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "f88ef0c7d1ff3d31",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64787,
+      "posted_at": "2026-11-17T04:02:04+00:00",
+      "excerpt": "Sandhar tech 5% jump",
+      "has_media": false,
+      "version": "abc6b1dbf3bb79c3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112896,
+      "posted_at": "2026-11-17T04:00:49+00:00",
+      "excerpt": "there is up grade by jefferies in Adani group stocks = focus on them = energy soln taking the lead",
+      "has_media": false,
+      "version": "87a4312d61e86dbe",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155192,
+      "posted_at": "2026-11-17T03:59:46+00:00",
+      "excerpt": "IPO SETUP BLS POLY SKYWAYS MUST WATCH",
+      "has_media": false,
+      "version": "3a6ca43d27303f6f",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155191,
+      "posted_at": "2026-11-17T03:59:33+00:00",
+      "excerpt": "Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "f4a38fa477106e64",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137086,
+      "posted_at": "2026-11-17T03:58:42+00:00",
+      "excerpt": "POSITIONAL TRADE RAYMOND LTD Looks Good ABOVE 1195 SL 1100 Targets  1250-1300-1350-1400 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with…",
+      "has_media": false,
+      "version": "29563357b5279669",
+      "category": "watch",
+      "symbol_candidate": "LTD",
+      "stop_loss": 1100.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155190,
+      "posted_at": "2026-11-17T03:56:13+00:00",
+      "excerpt": "In the Market of CE WE TOOK PE #️⃣ #PRIMEPOWER 💪",
+      "has_media": true,
+      "version": "ac68e98d22729f7f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137085,
+      "posted_at": "2026-11-17T03:54:54+00:00",
+      "excerpt": "POSITIONAL TRADE RAYMOND LTD Looks Good ABOVE 1195 SL 1100 Targets  1250-1300-1350-1400 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "bb9d4292cd0ef82b",
+      "category": "watch",
+      "symbol_candidate": "LTD",
+      "stop_loss": 1100.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64786,
+      "posted_at": "2026-11-17T03:47:56+00:00",
+      "excerpt": "Bank nifty New ATH 😍",
+      "has_media": false,
+      "version": "8e6f6e9bf06a5265",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112895,
+      "posted_at": "2026-11-17T03:42:11+00:00",
+      "excerpt": "buzz about tata sons ipo is back = tata chem / investment opening strong",
+      "has_media": false,
+      "version": "bd1e81c923578ac2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112894,
+      "posted_at": "2026-11-17T03:40:38+00:00",
+      "excerpt": "Sportking stock getting ready for break out",
+      "has_media": false,
+      "version": "33194a8dfa50b889",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+    },
     {
       "channel": "motilaloswalofficial",
       "message_id": 18529,
@@ -10990,8 +11540,8 @@
       "excerpt": "POSITIONAL TRADE MFSL Looks Good ABOVE 1350 SL 1340 Targets  5-10-15-20-25 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
       "has_media": false,
       "version": "4914664e99016e13",
-      "category": "review",
-      "reason": "Ambiguous or update/news; verify original post.",
+      "category": "watch",
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
       "observed_at": "2026-11-16T13:13:24.473123+00:00",
       "ai_attempts": 1,
       "ai": {
@@ -11003,7 +11553,9 @@
         "stop_loss": 1340.0,
         "model": "gemini-3.1-flash-lite",
         "processed_at": "2026-11-16T19:58:17.573558+00:00"
-      }
+      },
+      "symbol_candidate": "MFSL",
+      "stop_loss": 1340.0
     },
     {
       "channel": "stockpro_online",
@@ -11012,8 +11564,8 @@
       "excerpt": "POSITIONAL TRADE HDFCLIFE Looks Good ABOVE 609 SL 600 Targets  3-5-7-10 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
       "has_media": false,
       "version": "289e57a18b0b63c9",
-      "category": "review",
-      "reason": "Ambiguous or update/news; verify original post.",
+      "category": "watch",
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
       "observed_at": "2026-11-16T13:13:24.473123+00:00",
       "ai_attempts": 1,
       "ai": {
@@ -11025,7 +11577,9 @@
         "stop_loss": 600.0,
         "model": "gemini-3.1-flash-lite",
         "processed_at": "2026-11-16T19:58:17.573558+00:00"
-      }
+      },
+      "symbol_candidate": "HDFCLIFE",
+      "stop_loss": 600.0
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -11089,8 +11643,8 @@
       "excerpt": "POSITIONAL TRADE TVS SUPPLY CHAIN (TVSSCS) Looks Good ABOVE 140 SL 130 Targets  146-150-155-160 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
       "has_media": false,
       "version": "d58e8e2d34f19ef1",
-      "category": "review",
-      "reason": "Ambiguous or update/news; verify original post.",
+      "category": "watch",
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
       "observed_at": "2026-11-16T13:13:24.473123+00:00",
       "ai_attempts": 1,
       "ai": {
@@ -11102,7 +11656,9 @@
         "stop_loss": 130.0,
         "model": "gemini-3.1-flash-lite",
         "processed_at": "2026-11-16T19:58:17.573558+00:00"
-      }
+      },
+      "symbol_candidate": "TVSSCS",
+      "stop_loss": 130.0
     },
     {
       "channel": "stockpro_online",
@@ -11111,8 +11667,8 @@
       "excerpt": "POSITIONAL TRADE TVS SUPPLY CHAIN (TVSSCS) Looks Good ABOVE 140 SL 130 Targets  146-150-155-160 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
       "has_media": false,
       "version": "e1f0e497a0617c76",
-      "category": "review",
-      "reason": "Ambiguous or update/news; verify original post.",
+      "category": "watch",
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
       "observed_at": "2026-11-16T13:13:24.473123+00:00",
       "ai_attempts": 1,
       "ai": {
@@ -11124,7 +11680,9 @@
         "stop_loss": 130.0,
         "model": "gemini-3.1-flash-lite",
         "processed_at": "2026-11-16T19:58:17.573558+00:00"
-      }
+      },
+      "symbol_candidate": "TVSSCS",
+      "stop_loss": 130.0
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -11298,8 +11856,8 @@
       "excerpt": "POSITIONAL TRADE HD FIRE PRODUCTS (HDFIRE) Looks Good ABOVE 305 SL 280 Targets 310-315-320-325-330-335 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past…",
       "has_media": false,
       "version": "87a96e1deaf8b36a",
-      "category": "review",
-      "reason": "Ambiguous or update/news; verify original post.",
+      "category": "watch",
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
       "observed_at": "2026-11-16T13:13:24.473123+00:00",
       "ai_attempts": 1,
       "ai": {
@@ -11311,7 +11869,9 @@
         "stop_loss": 280.0,
         "model": "gemini-3.1-flash-lite",
         "processed_at": "2026-11-16T22:36:54.757191+00:00"
-      }
+      },
+      "symbol_candidate": "HDFIRE",
+      "stop_loss": 280.0
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -11353,8 +11913,8 @@
       "excerpt": "POSITIONAL TRADE SBIN Looks Good ABOVE 998 SL 985 Targets  5-10-15-20-25+30 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
       "has_media": true,
       "version": "4d76ea9f564d93ad",
-      "category": "review",
-      "reason": "Ambiguous or update/news; verify original post.",
+      "category": "watch",
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
       "observed_at": "2026-11-16T13:13:24.473123+00:00",
       "ai_attempts": 1,
       "ai": {
@@ -11366,7 +11926,9 @@
         "stop_loss": 985.0,
         "model": "gemini-3.1-flash-lite",
         "processed_at": "2026-11-16T22:36:54.757191+00:00"
-      }
+      },
+      "symbol_candidate": "SBIN",
+      "stop_loss": 985.0
     },
     {
       "channel": "motilaloswalofficial",
