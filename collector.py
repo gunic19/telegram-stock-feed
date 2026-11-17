@@ -50,6 +50,8 @@ def extract_number(pattern,text):
 def classify(text,media=False):
     if not text:return {'category':'review','reason':'Media or no readable text; open the original post.'} if media else None
     if EXCLUDE_ADS.search(text):return None
+    symbol=ai_classifier.looks_good_symbol(text)
+    if symbol:return {'category':'watch','symbol_candidate':symbol,'stop_loss':extract_number(r'\b(?:SL|STOP\s*LOSS)\b',text),'reason':'Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.'}
     if not RELEVANT.search(text):
         if ai_classifier.NEWS.search(text):return {'category':'news','reason':'Possible company news; AI/name and original require verification.'}
         # Keep otherwise unclear public text for human review; only obvious ads/greetings are discarded.
@@ -164,6 +166,12 @@ def run():
         except (ValueError,TypeError,KeyError):continue
     kept.sort(key=lambda x:(x['posted_at'],x.get('observed_at','')),reverse=True)
     kept=kept[:MAX_EVENTS]
+    # Apply the rule to existing retained versions too; preserve original text,
+    # observed_at, AI outputs and history without duplicating post versions.
+    for x in kept:
+        symbol=ai_classifier.looks_good_symbol(x.get('excerpt',''))
+        if symbol and not EXCLUDE_ADS.search(x.get('excerpt','')):
+            x.update(category='watch',symbol_candidate=symbol,stop_loss=extract_number(r'\b(?:SL|STOP\s*LOSS)\b',x['excerpt']),reason='Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.')
     ai_state=ai_classifier.process(kept,old.get('ai_status',{}),now)
     catalog=collect_catalog(old.get('catalog',{}),now)
     data={'schema':1,'updated_at':iso,'catalog':catalog,'retention':'At most 30 days / 1600 records. Initial run collects only the latest public preview.','sources':{x:states[x] for x in CHANNELS},'ai_status':ai_state,'events':kept}
