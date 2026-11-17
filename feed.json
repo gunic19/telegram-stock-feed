@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T14:44:14.683773+00:00",
+  "updated_at": "2026-11-17T15:39:03.886550+00:00",
   "catalog": {
     "state": "ok",
-    "fetched_at": "2026-11-16T15:10:26.779472+00:00",
+    "fetched_at": "2026-11-17T15:39:03.886550+00:00",
     "source": "NSE EQUITY_L.csv EQ series",
     "stocks": [
       {
@@ -4415,6 +4415,10 @@
         "name": "Kalyan Jewellers India Limited"
       },
       {
+        "sym": "KAMAHOLD",
+        "name": "Kama Holdings Limited"
+      },
+      {
         "sym": "KAMANWALA",
         "name": "Kamanwala Housing Construction Limited"
       },
@@ -5105,6 +5109,10 @@
       {
         "sym": "MAHLOG",
         "name": "Mahindra Logistics Limited"
+      },
+      {
+        "sym": "MAHSCOOTER",
+        "name": "Maharashtra Scooters Limited"
       },
       {
         "sym": "MAHSEAMLES",
@@ -6661,10 +6669,6 @@
       {
         "sym": "PROTEAN",
         "name": "Protean eGov Technologies Limited"
-      },
-      {
-        "sym": "PROZONER",
-        "name": "Prozone Realty Limited"
       },
       {
         "sym": "PRSMJOHNSN",
@@ -8767,10 +8771,6 @@
         "name": "Transrail Lighting Limited"
       },
       {
-        "sym": "TRANSWORLD",
-        "name": "TRANSWORLD SHIPPING LINES LIMITED"
-      },
-      {
         "sym": "TRAVELFOOD",
         "name": "Travel Food Services Limited"
       },
@@ -8857,6 +8857,10 @@
       {
         "sym": "TVSELECT",
         "name": "TVS Electronics Limited"
+      },
+      {
+        "sym": "TVSHLTD",
+        "name": "TVS Holdings Limited"
       },
       {
         "sym": "TVSMOTOR",
@@ -9628,8 +9632,8 @@
       "pages": 1,
       "newest_id": 137143,
       "gap_detected": false,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
-      "last_success": "2026-11-17T14:44:14.683773+00:00"
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
+      "last_success": "2026-11-17T15:39:03.886550+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18532,
       "gap_detected": false,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
-      "last_success": "2026-11-17T14:44:14.683773+00:00"
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
+      "last_success": "2026-11-17T15:39:03.886550+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9646,8 +9650,8 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
-      "last_success": "2026-11-17T14:44:14.683773+00:00"
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
+      "last_success": "2026-11-17T15:39:03.886550+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9655,17 +9659,17 @@
       "pages": 1,
       "newest_id": 112923,
       "gap_detected": false,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
-      "last_success": "2026-11-17T14:44:14.683773+00:00"
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
+      "last_success": "2026-11-17T15:39:03.886550+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155220,
+      "newest_id": 155222,
       "gap_detected": false,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
-      "last_success": "2026-11-17T14:44:14.683773+00:00"
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
+      "last_success": "2026-11-17T15:39:03.886550+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9673,17 +9677,17 @@
       "pages": 1,
       "newest_id": 64807,
       "gap_detected": false,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
-      "last_success": "2026-11-17T14:44:14.683773+00:00"
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
+      "last_success": "2026-11-17T15:39:03.886550+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13624,
+      "newest_id": 13625,
       "gap_detected": false,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
-      "last_success": "2026-11-17T14:44:14.683773+00:00"
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
+      "last_success": "2026-11-17T15:39:03.886550+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,22 +9695,55 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-17T14:44:14.683773+00:00",
+      "checked_at": "2026-11-17T15:39:03.886550+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-17",
-    "requests_today": 13,
-    "cooldown_until": null,
+    "requests_today": 14,
+    "cooldown_until": "2026-11-17T16:39:03.886550+00:00",
     "last_success": "2026-11-17T14:44:14.683773+00:00",
-    "last_attempt": "2026-11-17T14:44:14.683773+00:00",
-    "last_error": null,
-    "pending": 0,
-    "status": "ok",
-    "message": "AI processed 1/1 shortlisted posts; outputs unverified."
+    "last_attempt": "2026-11-17T15:39:03.886550+00:00",
+    "last_error": "Network timeout",
+    "pending": 1,
+    "status": "error",
+    "message": "Gemini Network timeout; retry later. Rules remain available."
   },
   "events": [
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13625,
+      "posted_at": "2026-11-17T15:28:00+00:00",
+      "excerpt": "ACME Solar Holdings Ltd – BESS PROJECT COMMISSIONING UPDATE Additional commissioning of Battery Energy Storage System (BESS) component: - Commissioned 52.32 MW / 209.28 MWh capacity at FDRE Project in Bikaner, Rajasthan - Commercial operation date (COD) set for November 19, 2026 - Cumulative commissioned BESS capacity reaches 247.67 MW / 990.68 MWh (Discharge Capacity) - Total installed capacity stands at 247.67 MW / 1321 MWh - Power Purchase Agreement (PPA) signed with SJVN Limited",
+      "has_media": false,
+      "version": "ac487ce5e6d1450b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T15:39:03.886550+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155222,
+      "posted_at": "2026-11-17T15:00:58+00:00",
+      "excerpt": "📊 INDEX RALLYING, BUT BROADER MARKET TELLS A DIFFERENT STORY! Indices are moving higher almost every day, largely driven by continuous FII buying in Large-Cap stocks. BANK NIFTY also made a NEW ALL-TIME HIGH today. 🚀 But the ground reality is different: • Midcap & Smallcap stocks are still facing selling pressure. • Even several fundamentally strong stocks haven't moved despite posting stellar earnings. • Market breadth remains a concern. ⚠️ STAY CAUTIOUS AT HIGHER LEVELS. If FIIs start aggressive selling, a sharp correction in NIFTY and BANK NIFTY cannot be ruled out. My suggestion: Stay light on the long side and trade with smaller quantities. Don't get carried away by the index rally. Cap",
+      "has_media": false,
+      "version": "aae4581493acc04d",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-17T15:39:03.886550+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155221,
+      "posted_at": "2026-11-17T14:55:17+00:00",
+      "excerpt": "Decent Day For Option Buyers BTST KAYNES 3000PE 165 to 200 🔥 🔥 INTRADAY KFIN 960CE 30 to 35 🔥 🔥 DLF 900CE 17 to 11 ❌ Nifty 25500CE 137 to 190 🔥 🔥 SX 82000CE 750 to 880 🔥 🔥 SX 82500CE 640 to 715 🔥 🔥 SX 82500CE 450 to 530 🔥 🔥 25400CE 72 to 44 ❌",
+      "has_media": false,
+      "version": "4ab9238fe1612625",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T15:39:03.886550+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137142,
