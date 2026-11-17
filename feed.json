@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T09:24:33.144606+00:00",
+  "updated_at": "2026-11-17T10:35:52.679095+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9626,10 +9626,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137127,
+      "newest_id": 137131,
       "gap_detected": false,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
-      "last_success": "2026-11-17T09:24:33.144606+00:00"
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
+      "last_success": "2026-11-17T10:35:52.679095+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,17 +9637,17 @@
       "pages": 1,
       "newest_id": 18531,
       "gap_detected": false,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
-      "last_success": "2026-11-17T09:24:33.144606+00:00"
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
+      "last_success": "2026-11-17T10:35:52.679095+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44520,
+      "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
-      "last_success": "2026-11-17T09:24:33.144606+00:00"
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
+      "last_success": "2026-11-17T10:35:52.679095+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9655,17 +9655,17 @@
       "pages": 1,
       "newest_id": 112923,
       "gap_detected": false,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
-      "last_success": "2026-11-17T09:24:33.144606+00:00"
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
+      "last_success": "2026-11-17T10:35:52.679095+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155213,
+      "newest_id": 155220,
       "gap_detected": false,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
-      "last_success": "2026-11-17T09:24:33.144606+00:00"
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
+      "last_success": "2026-11-17T10:35:52.679095+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9673,17 +9673,17 @@
       "pages": 1,
       "newest_id": 64805,
       "gap_detected": false,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
-      "last_success": "2026-11-17T09:24:33.144606+00:00"
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
+      "last_success": "2026-11-17T10:35:52.679095+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13621,
+      "newest_id": 13623,
       "gap_detected": false,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
-      "last_success": "2026-11-17T09:24:33.144606+00:00"
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
+      "last_success": "2026-11-17T10:35:52.679095+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,22 +9691,132 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-17T09:24:33.144606+00:00",
+      "checked_at": "2026-11-17T10:35:52.679095+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-17",
-    "requests_today": 9,
+    "requests_today": 10,
     "cooldown_until": null,
-    "last_success": "2026-11-17T09:24:33.144606+00:00",
-    "last_attempt": "2026-11-17T09:24:33.144606+00:00",
+    "last_success": "2026-11-17T10:35:52.679095+00:00",
+    "last_attempt": "2026-11-17T10:35:52.679095+00:00",
     "last_error": null,
-    "pending": 10,
+    "pending": 7,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44521,
+      "posted_at": "2026-11-17T09:52:08+00:00",
+      "excerpt": "🏦 AIRTEL PAYMENTS BANK | PROFIT JUMPS 139% 📅 17 NOVEMBER 2026 🚀 STRONG Q2 FY27 PERFORMANCE 🔹 Net Profit jumps 139% YoY to ₹28.2 Cr. 🔹 Quarterly Revenue rises 8.9% to ₹875.5 Cr. 🔹 Annualised Revenue crosses ₹3,500 Cr. 🔹 EBITDA surges 39.4% to ₹124.5 Cr. 📈 DIGITAL BANKING GROWTH 🔹 Monthly transacting savings users rise 21.1% to 31 Million. 🔹 Customer balances grow 10% to ₹4,385 Cr. 🔹 Annualised payment transactions reach $51 Billion. 📌 MARKET INSIGHT Strong profitability growth and rising digital banking adoption highlight Airtel Payments Bank's expanding business scale. Source: Moneycontrol Date: 17 November 2026",
+      "has_media": false,
+      "version": "42efe701dd0c3b29",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155220,
+      "posted_at": "2026-11-17T09:51:46+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155219,
+      "posted_at": "2026-11-17T09:51:03+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155218,
+      "posted_at": "2026-11-17T09:49:42+00:00",
+      "excerpt": "NIFTY 25350 CE ONLY AND ONLY ABOVE 76 SUPPORT 50 VIEW 100 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "ce5fed8b43d26863",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155217,
+      "posted_at": "2026-11-17T09:44:10+00:00",
+      "excerpt": "PING @Sg005 to join",
+      "has_media": false,
+      "version": "d87e7b63d9999b51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155216,
+      "posted_at": "2026-11-17T09:41:07+00:00",
+      "excerpt": "NIFTY 25350 CE ONLY AND ONLY ABOVE 76 SUPPORT 50 VIEW 100 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "ce5fed8b43d26863",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155215,
+      "posted_at": "2026-11-17T09:40:49+00:00",
+      "excerpt": "NIFTY 25350 CE ONLY AND ONLY ABOVE 76 SUPPORT 50 VIEW 100 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "ce5fed8b43d26863",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13623,
+      "posted_at": "2026-11-17T09:37:01+00:00",
+      "excerpt": "Adani power 🚀",
+      "has_media": true,
+      "version": "7e376b2d6945d1fa",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137128,
+      "posted_at": "2026-11-17T09:36:00+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155214,
+      "posted_at": "2026-11-17T09:35:01+00:00",
+      "excerpt": "NIFTY 25350 CE ONLY AND ONLY ABOVE 76 SUPPORT 50 VIEW 100 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "ce5fed8b43d26863",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T10:35:52.679095+00:00"
+    },
     {
       "channel": "stockmarketadviser91",
       "message_id": 13621,
@@ -9716,7 +9826,18 @@
       "version": "0f777253beed6e7c",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T09:24:33.144606+00:00"
+      "observed_at": "2026-11-17T09:24:33.144606+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Workshop Group",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -9738,7 +9859,18 @@
       "version": "9a8292e6148271bf",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-17T09:24:33.144606+00:00"
+      "observed_at": "2026-11-17T09:24:33.144606+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "motilaloswalofficial",
@@ -9754,7 +9886,18 @@
       "entry_as_posted": 2055.0,
       "first_target": 2185.0,
       "stop_loss": 1990.0,
-      "observed_at": "2026-11-17T09:24:33.144606+00:00"
+      "observed_at": "2026-11-17T09:24:33.144606+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "call",
+        "side": "BUY",
+        "stock_text": "COFORGE",
+        "entry_as_posted": 2055.0,
+        "first_target": 2185.0,
+        "stop_loss": 1990.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9844,7 +9987,18 @@
       "version": "69bfaa28b5c8dc88",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-17T09:24:33.144606+00:00"
+      "observed_at": "2026-11-17T09:24:33.144606+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "NIFTY 25400CE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9877,7 +10031,18 @@
       "version": "840a12b23098d6d8",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T09:24:33.144606+00:00"
+      "observed_at": "2026-11-17T09:24:33.144606+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "EICHER Motors",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 7600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9888,7 +10053,18 @@
       "version": "80bb997fce08498b",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T09:24:33.144606+00:00"
+      "observed_at": "2026-11-17T09:24:33.144606+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "KOTAK Bank",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 488.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9899,7 +10075,18 @@
       "version": "840a12b23098d6d8",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T09:24:33.144606+00:00"
+      "observed_at": "2026-11-17T09:24:33.144606+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "EICHER Motors",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 7600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10152,7 +10339,18 @@
       "version": "de040c114a880fff",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+      "observed_at": "2026-11-17T08:08:15.331114+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Hyundai",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T10:35:52.679095+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
