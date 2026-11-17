@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T05:44:44.170400+00:00",
+  "updated_at": "2026-11-17T06:50:20.767990+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9626,64 +9626,64 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137107,
+      "newest_id": 137115,
       "gap_detected": false,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
-      "last_success": "2026-11-17T05:44:44.170400+00:00"
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "last_success": "2026-11-17T06:50:20.767990+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18529,
+      "newest_id": 18530,
       "gap_detected": false,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
-      "last_success": "2026-11-17T05:44:44.170400+00:00"
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "last_success": "2026-11-17T06:50:20.767990+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44516,
+      "newest_id": 44517,
       "gap_detected": false,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
-      "last_success": "2026-11-17T05:44:44.170400+00:00"
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "last_success": "2026-11-17T06:50:20.767990+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112905,
+      "newest_id": 112912,
       "gap_detected": false,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
-      "last_success": "2026-11-17T05:44:44.170400+00:00"
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "last_success": "2026-11-17T06:50:20.767990+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155200,
+      "newest_id": 155208,
       "gap_detected": false,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
-      "last_success": "2026-11-17T05:44:44.170400+00:00"
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "last_success": "2026-11-17T06:50:20.767990+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64801,
+      "newest_id": 64803,
       "gap_detected": false,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
-      "last_success": "2026-11-17T05:44:44.170400+00:00"
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "last_success": "2026-11-17T06:50:20.767990+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13608,
+      "newest_id": 13611,
       "gap_detected": false,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
-      "last_success": "2026-11-17T05:44:44.170400+00:00"
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "last_success": "2026-11-17T06:50:20.767990+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,22 +9691,326 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-17T05:44:44.170400+00:00",
+      "checked_at": "2026-11-17T06:50:20.767990+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-17",
-    "requests_today": 6,
+    "requests_today": 7,
     "cooldown_until": null,
-    "last_success": "2026-11-17T05:44:44.170400+00:00",
-    "last_attempt": "2026-11-17T05:44:44.170400+00:00",
+    "last_success": "2026-11-17T06:50:20.767990+00:00",
+    "last_attempt": "2026-11-17T06:50:20.767990+00:00",
     "last_error": null,
-    "pending": 10,
+    "pending": 14,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155208,
+      "posted_at": "2026-11-17T06:49:41+00:00",
+      "excerpt": "PRIME TRADE 🔥 🔥 🔥 🔥 FOR YOU 💪 [link]",
+      "has_media": false,
+      "version": "3792bba87d38d3f8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155207,
+      "posted_at": "2026-11-17T06:49:11+00:00",
+      "excerpt": "ANOTHER REMARKABLE DAY BACK TO BACK PRIME HITS 🔥 ✔️ SET YOUR DAILY GOAL REAL EXPECTATIONS ACCEPT THE RISK AND PRIME TECHNICALS",
+      "has_media": false,
+      "version": "3f51be77ff865bcd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44517,
+      "posted_at": "2026-11-17T06:45:55+00:00",
+      "excerpt": "🏥 MAX HEALTHCARE | 5-DAY RALLY CONTINUES 📅 17 NOVEMBER 2026 🚀 STOCK IN ACTION 🔹 Shares rise 3% to ₹1,039 for the 5th consecutive session. 🔹 Stock gains nearly 12% in the last 5 trading sessions. 🔹 Q2 FY27 Network Revenue jumps 20% to ₹3,219 Cr. 🔹 Network PAT rises 10.34% to ₹448 Cr. 📈 WHY THE RALLY? Healthcare stocks see sustained buying amid expectations that hospitals may increase prices of other services to offset the impact of oncology drug price caps. ⚡️ EBITDA impact from price caps could reduce from an estimated 7% to around 2%. 📌 MARKET INSIGHT Strong Q2 earnings and expectations of limited margin impact are keeping Max Healthcare in focus. Source: Moneycontrol Date: 17 November 2026",
+      "has_media": false,
+      "version": "cd635b5eab5cd739",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155206,
+      "posted_at": "2026-11-17T06:42:18+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155205,
+      "posted_at": "2026-11-17T06:30:48+00:00",
+      "excerpt": "Sensex Sensex 82700 ce 540-560 support 300 view 700 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "04efe89c3489dbdd",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155204,
+      "posted_at": "2026-11-17T06:29:16+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155203,
+      "posted_at": "2026-11-17T06:28:25+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137113,
+      "posted_at": "2026-11-17T06:19:10+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155202,
+      "posted_at": "2026-11-17T06:19:10+00:00",
+      "excerpt": "Indhotel Indhotel .indhotel cash above 910 support 890 view 935 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "176d59c4cb1d6225",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64803,
+      "posted_at": "2026-11-17T06:16:29+00:00",
+      "excerpt": "panic Retailers sold ₹22,000 Cr worth of equities in November highest selling in 2.5 yrs.. 😳 Reason why Index up stocks down.. FII bought 79000 cr in 8 session 🥸",
+      "has_media": false,
+      "version": "a58119c168209657",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13611,
+      "posted_at": "2026-11-17T06:10:57+00:00",
+      "excerpt": "MONOPOLY STOCK ISKO THODA ALLOCATION DENA BANTA HAI",
+      "has_media": true,
+      "version": "81377a23d82f104b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137112,
+      "posted_at": "2026-11-17T06:09:54+00:00",
+      "excerpt": "RAYMOND LIMITED ✅ 𝟏𝟔/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟐𝟎𝟏 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟏𝟐𝟑𝟕.𝟖 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "a8b08fbbed613271",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137111,
+      "posted_at": "2026-11-17T06:09:38+00:00",
+      "excerpt": "TONBO IMAGING INDIA LTD ✅ 𝟏𝟔/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟔𝟒𝟓 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟏𝟔𝟕𝟑.𝟑 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "a99da343f44b77c9",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137110,
+      "posted_at": "2026-11-17T06:09:21+00:00",
+      "excerpt": "BLS POLYMERS LIMITED ✅ 𝟏𝟔/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟐𝟕𝟗 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟐𝟖𝟖 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "e1e956de46669285",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137109,
+      "posted_at": "2026-11-17T06:09:08+00:00",
+      "excerpt": "LE TRAVENUES TECHNOLOGY LIMITED ✅ 𝟎𝟓/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟔𝟔 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟏𝟕𝟗.𝟓𝟕 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "9d5ba0e210b72dbb",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18530,
+      "posted_at": "2026-11-17T06:06:17+00:00",
+      "excerpt": "Conviction Delivery Idea BUY CDSL CMP 1458 SL 1408 TGT 1558 - Outperformance in Capital Market theme, stock has given a breakout from consolidation phase Disclaimer- [link]",
+      "has_media": true,
+      "version": "ffd28db9adb9fe90",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "CDSL",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 1458.0,
+      "first_target": 1558.0,
+      "stop_loss": 1408.0,
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112912,
+      "posted_at": "2026-11-17T06:02:22+00:00",
+      "excerpt": "BSE HEADING 4000+",
+      "has_media": false,
+      "version": "4cff74726a6a1276",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112911,
+      "posted_at": "2026-11-17T06:00:47+00:00",
+      "excerpt": "BOB = BANK OF BARODA 278/80 CROSSED CAN SEE 282/84/88/90+ AND ABOVE 292/96 can see 304/310+ = cash",
+      "has_media": false,
+      "version": "dce5479f392ddafd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112910,
+      "posted_at": "2026-11-17T05:55:36+00:00",
+      "excerpt": "after bank nifty = now its turned of nifty to see ATH soon",
+      "has_media": false,
+      "version": "1c7de9d178f46773",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112909,
+      "posted_at": "2026-11-17T05:53:51+00:00",
+      "excerpt": "Good example ☝️ why make railway station and airport dropping overcrowding",
+      "has_media": false,
+      "version": "cbf19d50ffb9bc2b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64802,
+      "posted_at": "2026-11-17T05:53:25+00:00",
+      "excerpt": "panic Retailers sold ₹22,000 Cr worth of equities in November highest selling in 2.5 yrs.. 😳 Reason why Index up stocks down.. FII bought 79000 cr in 8 session 🥸",
+      "has_media": true,
+      "version": "417bb6da896098ca",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155201,
+      "posted_at": "2026-11-17T05:50:18+00:00",
+      "excerpt": "NIFTY 25400CE CMP 85-88 Watch this",
+      "has_media": false,
+      "version": "69bfaa28b5c8dc88",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112907,
+      "posted_at": "2026-11-17T05:49:20+00:00",
+      "excerpt": "now heavy weights joins the rally",
+      "has_media": false,
+      "version": "ad18ae8110a0a37a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112906,
+      "posted_at": "2026-11-17T05:48:50+00:00",
+      "excerpt": "800 points on sensex ?",
+      "has_media": false,
+      "version": "fd7d3db604f645b7",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137108,
+      "posted_at": "2026-11-17T05:48:03+00:00",
+      "excerpt": "POSITIONAL TRADE PACE DIGITECH (PACEDIGITK) Looks Good ABOVE 178.5 SL 160 Targets  185-190-195-200-210 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past…",
+      "has_media": false,
+      "version": "e9e6fc0f88fc5b97",
+      "category": "watch",
+      "symbol_candidate": "PACEDIGITK",
+      "stop_loss": 160.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13610,
+      "posted_at": "2026-11-17T05:44:59+00:00",
+      "excerpt": "⚡ KPI GREEN ENERGY – Q2 Business Update and future growth forecasts Share India Securities has maintained its BUY recommendation on KPI Green Energy. 📍 CMP: ₹315 | Resistance : ₹480–₹500 | 📊 Q2 FY27 Highlights: - Revenue grew 15% YoY to ₹727 Cr. - EBITDA surged 22% YoY to ₹283 Cr. - EBITDA margin improved to 38.2%. - PAT stood at ₹92 Cr. 🌿 What’s Driving the Growth Story? - 508 MW Gujarat wind asset acquisition worth ₹2,410 Cr. - Renewable portfolio scaled up to 8.33 GW. - H1 IPP generation surpassed FY26 full-year generation by 31%. - BESS portfolio reached 565 MW / 1,130 MWh. - ₹2,646 Cr worth of new solar EPC orders secured. 📈 Projected Growth (FY26–FY28E): Revenue CAGR: ~40% PAT CAGR: ~3",
+      "has_media": true,
+      "version": "ed3693fb16ffffac",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13609,
+      "posted_at": "2026-11-17T05:44:47+00:00",
+      "excerpt": "NUPUR RECYCLERS – REVENUE & LFP RECYCLING EXPANSION FY27 revenue target: ₹400+ Cr. FY28 revenue target: ₹700–800 Cr. FY29 revenue target: ₹1,000 Cr. Targets 7–8% PAT margin. 6,000 MTPA LFP recycling plant expected to commence operations in Q4 FY27.",
+      "has_media": false,
+      "version": "55098806c5827b26",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
     {
       "channel": "stockmarketadviser91",
       "message_id": 13608,
@@ -9760,7 +10064,18 @@
       "version": "2d8ed0a0382510d7",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "ASIAN PAINTs",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9817,7 +10132,18 @@
       "symbol_candidate": "PACEDIGITK",
       "stop_loss": 160.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "PACE DIGITECH (PACEDIGITK)",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 160.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9828,7 +10154,18 @@
       "version": "c23174ef58061650",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "BLUESTARCO",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9885,7 +10222,18 @@
       "symbol_candidate": "SBIN",
       "stop_loss": 985.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "SBIN",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 985.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9909,7 +10257,18 @@
       "symbol_candidate": "MFSL",
       "stop_loss": 1340.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "MFSL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1340.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -9931,7 +10290,18 @@
       "version": "37819c981d571c03",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "GROWW",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10580,7 +10950,18 @@
       "symbol_candidate": "LTD",
       "stop_loss": 1100.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "RAYMOND LTD",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1100.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10604,7 +10985,18 @@
       "symbol_candidate": "LTD",
       "stop_loss": 1100.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-17T04:43:29.048147+00:00"
+      "observed_at": "2026-11-17T04:43:29.048147+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "RAYMOND LTD",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1100.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T06:50:20.767990+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
