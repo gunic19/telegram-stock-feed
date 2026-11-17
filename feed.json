@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T02:40:05.896309+00:00",
+  "updated_at": "2026-11-17T03:39:03.176346+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9628,26 +9628,26 @@
       "pages": 1,
       "newest_id": 137084,
       "gap_detected": false,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
-      "last_success": "2026-11-17T02:40:05.896309+00:00"
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "last_success": "2026-11-17T03:39:03.176346+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18528,
+      "newest_id": 18529,
       "gap_detected": false,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
-      "last_success": "2026-11-17T02:40:05.896309+00:00"
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "last_success": "2026-11-17T03:39:03.176346+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44507,
+      "newest_id": 44509,
       "gap_detected": false,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
-      "last_success": "2026-11-17T02:40:05.896309+00:00"
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "last_success": "2026-11-17T03:39:03.176346+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9655,8 +9655,8 @@
       "pages": 1,
       "newest_id": 112893,
       "gap_detected": false,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
-      "last_success": "2026-11-17T02:40:05.896309+00:00"
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "last_success": "2026-11-17T03:39:03.176346+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9664,26 +9664,26 @@
       "pages": 1,
       "newest_id": 155189,
       "gap_detected": false,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
-      "last_success": "2026-11-17T02:40:05.896309+00:00"
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "last_success": "2026-11-17T03:39:03.176346+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64784,
+      "newest_id": 64785,
       "gap_detected": false,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
-      "last_success": "2026-11-17T02:40:05.896309+00:00"
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "last_success": "2026-11-17T03:39:03.176346+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13602,
+      "newest_id": 13606,
       "gap_detected": false,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
-      "last_success": "2026-11-17T02:40:05.896309+00:00"
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
+      "last_success": "2026-11-17T03:39:03.176346+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,22 +9691,154 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-17T02:40:05.896309+00:00",
+      "checked_at": "2026-11-17T03:39:03.176346+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-17",
-    "requests_today": 3,
+    "requests_today": 4,
     "cooldown_until": null,
-    "last_success": "2026-11-17T02:40:05.896309+00:00",
-    "last_attempt": "2026-11-17T02:40:05.896309+00:00",
+    "last_success": "2026-11-17T03:39:03.176346+00:00",
+    "last_attempt": "2026-11-17T03:39:03.176346+00:00",
     "last_error": null,
     "pending": 0,
     "status": "ok",
-    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
+    "message": "AI processed 4/4 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18529,
+      "posted_at": "2026-11-17T03:31:26+00:00",
+      "excerpt": "📊 3 Things That Will Decide the Market Today 🔴 GIFT NIFTY (Gift City Cues) Gift Nifty is flat to positive, indicating a muted-to-positive opening. Sentiment is supported by strong FII buying of ₹84,167 crore over ten sessions, Brent crude falling below $92/bbl and encouraging Q2 earnings. BSE’s BANKEX has received US CFTC approval, making it the first Indian sectoral index futures contract cleared for US investors. 🌍 Macro / Global Cues US markets fell sharply, with the Nasdaq down 2.5% and Dow 1.5%, amid selling in technology stocks ahead of Nvidia’s results and hawkish Fed commentary. Asian markets are lower by up to 1.5%, while European markets were mixed. Gold slipped to a 15-month low n",
+      "has_media": false,
+      "version": "a936a5f87e69f003",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T03:39:03.176346+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44509,
+      "posted_at": "2026-11-17T02:50:26+00:00",
+      "excerpt": "🌍 GLOBAL MARKET UPDATE 📅 17 NOVEMBER 2026 🔴 GIFT NIFTY 25,282 | -13 pts Indian markets may see a muted opening. 🇺🇸 US MARKETS Nasdaq plunged 2.49% S&P 500 fell 1.92% Dow Jones declined 1.41% 🌏 ASIAN MARKETS KOSPI down 2% Nikkei down 1.3% Global tech stocks under pressure. 🛢 CRUDE OIL Brent slips to $92 per barrel amid supply surplus concerns. 🇮🇳 INDIAN MARKET Sensex: 82,102.90 (+510 pts) Nifty: 25,291.10 (+147 pts) FII: +₹4,864 Cr DII: -₹3,519 Cr 📌 MARKET TAKEAWAY Weak global cues may limit today's upside. Falling crude prices and continued FII buying could provide some support. Source: Moneycontrol Date: 17 November 2026",
+      "has_media": false,
+      "version": "43e7db7357605b9e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13606,
+      "posted_at": "2026-11-17T02:47:51+00:00",
+      "excerpt": "🚀 MAJOR CONTRACT WINS – NOVEMBER 16, 2026 ▲ CONTRACT WINS • KPIL – ₹2,610 Cr international power transmission EPC order. • MARINE – ₹233.21 Cr power distribution & automation orders. • ACMESOLAR – 220 MW solar BESS project with 25-year PPA. • ARSSINFRA – ₹131.10 Cr railway bridge construction project. • PACEDIGITK – ₹2,691.3 Cr BESS order from NTPC Green Energy. • MARKOLINES – 3 infrastructure projects worth ₹194.83 Cr. • CAPACITE – ₹670.43 Cr housing project from CIDCO. • MVELECTRO – ₹325.26 Cr propulsion systems order. • SHAYONAENG – Engineering component orders worth ₹2.5 Cr. • HIRECT – ₹133.38 Cr railway propulsion systems order. • SEAMECLTD – USD 3.7 Mn diving services contract. • ARTEF",
+      "has_media": false,
+      "version": "12982a2b571565aa",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T03:39:03.176346+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13605,
+      "posted_at": "2026-11-17T02:47:15+00:00",
+      "excerpt": "ACME SOLAR – 220 MW SOLAR + BESS PPA SIGNED Executed a Power Purchase Agreement (PPA) with Rewa Ultra Mega Solar Limited (RUMSL) through subsidiary ACME Greentech Sixteen Pvt. Ltd. Project to be developed at Morena Solar Park, Madhya Pradesh. Project capacity: 220 MW Solar with BESS (Unit II). Tariff: ₹2.764 per unit. Scheduled Commercial Operation Date: December 31, 2027. Project tenure: 25 years from the date of signing the PPA.",
+      "has_media": false,
+      "version": "ed3701a96a36794b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13603,
+      "posted_at": "2026-11-17T02:46:50+00:00",
+      "excerpt": "💐 GOOD MORNING 😊 🙏 🌄",
+      "has_media": false,
+      "version": "f064367430620c51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13604,
+      "posted_at": "2026-11-17T02:46:50+00:00",
+      "excerpt": "SEBI SOCIAL MEDIA MANDATE & MANDATORY DISCLAIMER AS REQUIRED BY SEBI KIND ATTENTION OF ALL MEMBERS Disclaimer from Admins as per SEBI norms: Equity Investment are subject to 100% market risks. Refer your financial consultant advice before Investing. This group/channel is only for Educational and Learning, Knowledge Purposes. Admins have no responsibility for your intended decision & financial losses. Keep calculated & always analyzed your cash position and risk bearing capacity before following msg of our group postings. Stock market investments are VERY RISKY and being part of this group, you agree that you understand the Market risks involved. Profits and Losses are part of Share market. K",
+      "has_media": false,
+      "version": "10b65f956b8430d8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T03:39:03.176346+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64785,
+      "posted_at": "2026-11-17T02:46:14+00:00",
+      "excerpt": "Fiis buying continues in the Indian market while selling in the AI & Tech stocks in the global market. Nifty & banknifty is showing strength because of small short covering and Fiis buying. Brent crude 92$ is good for the Indian market. Retailers are in a selling mood after seeing the global market scenario that's why the broader market is not participating with main indices. Today is a nifty weekly expiry so voltality we may see. Selected stocks will perform. If Nifty falls then more fall we may see in small & midcap stocks 😒",
+      "has_media": false,
+      "version": "273ce66728370619",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44508,
+      "posted_at": "2026-11-17T02:43:55+00:00",
+      "excerpt": "📌 STOCKS TO WATCH TODAY 📅 17 NOVEMBER 2026 🔹 SENCO GOLD Record festive sales of ₹2,426 Cr with 26% YoY growth. Strong performance despite high gold prices. 🔹 ARSS INFRASTRUCTURE Received ₹131.10 Cr work order from Northern Railway for bridge construction. 🔹 SML MAHINDRA Approved ₹1,450 Cr rights issue at ₹3,506 per share. Record date: 20 November. 🔹 HERO MOTORS Acquiring additional stake in UK-based Hewland Engineering. Holding may increase from 51% to 90%. 🔹 QIP UPDATES Aegis Logistics raised ₹3,500 Cr while Bajaj Finance raised ₹11,700 Cr through QIP. 🔹 CIPLA DRI conducted searches at Mumbai office and Bhiwandi depot. Company says no material impact on operations or financials. 📍 ALSO IN F",
+      "has_media": false,
+      "version": "458f5721837efa51",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-17T03:39:03.176346+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T03:39:03.176346+00:00"
+      }
+    },
     {
       "channel": "GHANSHYAMTECH",
       "message_id": 44507,
