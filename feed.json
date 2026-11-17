@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T06:50:20.767990+00:00",
+  "updated_at": "2026-11-17T08:08:15.331114+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-16T15:10:26.779472+00:00",
@@ -9628,8 +9628,8 @@
       "pages": 1,
       "newest_id": 137115,
       "gap_detected": false,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
-      "last_success": "2026-11-17T06:50:20.767990+00:00"
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
+      "last_success": "2026-11-17T08:08:15.331114+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9637,35 +9637,35 @@
       "pages": 1,
       "newest_id": 18530,
       "gap_detected": false,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
-      "last_success": "2026-11-17T06:50:20.767990+00:00"
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
+      "last_success": "2026-11-17T08:08:15.331114+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44517,
+      "newest_id": 44519,
       "gap_detected": false,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
-      "last_success": "2026-11-17T06:50:20.767990+00:00"
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
+      "last_success": "2026-11-17T08:08:15.331114+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112912,
+      "newest_id": 112914,
       "gap_detected": false,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
-      "last_success": "2026-11-17T06:50:20.767990+00:00"
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
+      "last_success": "2026-11-17T08:08:15.331114+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155208,
+      "newest_id": 155210,
       "gap_detected": false,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
-      "last_success": "2026-11-17T06:50:20.767990+00:00"
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
+      "last_success": "2026-11-17T08:08:15.331114+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9673,17 +9673,17 @@
       "pages": 1,
       "newest_id": 64803,
       "gap_detected": false,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
-      "last_success": "2026-11-17T06:50:20.767990+00:00"
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
+      "last_success": "2026-11-17T08:08:15.331114+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13611,
+      "newest_id": 13619,
       "gap_detected": false,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
-      "last_success": "2026-11-17T06:50:20.767990+00:00"
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
+      "last_success": "2026-11-17T08:08:15.331114+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9691,22 +9691,176 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-17T06:50:20.767990+00:00",
+      "checked_at": "2026-11-17T08:08:15.331114+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-17",
-    "requests_today": 7,
+    "requests_today": 8,
     "cooldown_until": null,
-    "last_success": "2026-11-17T06:50:20.767990+00:00",
-    "last_attempt": "2026-11-17T06:50:20.767990+00:00",
+    "last_success": "2026-11-17T08:08:15.331114+00:00",
+    "last_attempt": "2026-11-17T08:08:15.331114+00:00",
     "last_error": null,
-    "pending": 14,
+    "pending": 8,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13619,
+      "posted_at": "2026-11-17T07:57:09+00:00",
+      "excerpt": "Aether Industries Ltd – FACILITY DEVELOPMENT AND SUPPLY AGREEMENT FOR DRAG REDUCING AGENTS Aether Industries has entered into a long-term Facility Development and Supply Agreement with Baker Petrolite LLC, a Baker Hughes company, to establish India’s first dedicated manufacturing facility for Drag Reducing Agents (DRAs): - Aether will set up and operate a dedicated manufacturing plant at its Site Magnum (Site 5) in Panoli, Gujarat. - Under the agreement, Aether will serve as the exclusive manufacturing supplier for Baker Petrolite’s DRA program. - The partnership aims to strengthen domestic manufacturing capabilities for high-value specialty chemicals used in crude oil and refined product pi",
+      "has_media": false,
+      "version": "999a9a94e435d4ed",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13618,
+      "posted_at": "2026-11-17T07:56:15+00:00",
+      "excerpt": "Reuters Story Summary on SEBI new rules exp India's markets regulator is considering curbs on leveraged stock purchases as margin-funded bets swell to record ​levels, raising concerns that a market downturn could hurt retail investors, two people with direct knowledge of the matter ‌said. Margin-funded stock buys concentrated in small-, mid-cap stocks Leveraged bets can amplify market selling, lead to instability Limits and thresholds are still being finalised, sources say",
+      "has_media": false,
+      "version": "fd7e6f0506402822",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13617,
+      "posted_at": "2026-11-17T07:56:01+00:00",
+      "excerpt": "NEGATIVE NEWS FOR EXCHANGES BROKERS SEBI CONSIDERS LINKING LIMITS ON NEW MARGIN-FUNDED PURCHASES TO A STOCK'S FREE FLOAT, SOURCES SAY (EXCLUSIVE) SEBI SAID TO TIGHTEN RULES FOR LEVERAGE STOCK BETS: REUTERS #BREAKING",
+      "has_media": false,
+      "version": "0c3e07d1c5855fee",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13616,
+      "posted_at": "2026-11-17T07:54:20+00:00",
+      "excerpt": "#AD 🎊 DIWALI OFFER Prime WhatsApp Community ⬇️ 🟩 Daily insider stocks 🟩 Intraday & Swing Setups 🟩 Live market support 🟩 Pre Market News TODAY’S OFFER : FREE FREE [link]",
+      "has_media": false,
+      "version": "48ea10f4ef595ba8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155210,
+      "posted_at": "2026-11-17T07:53:06+00:00",
+      "excerpt": "LICHOUSINH BREAKOUT",
+      "has_media": true,
+      "version": "09f8d83aa9e3e346",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44519,
+      "posted_at": "2026-11-17T07:38:42+00:00",
+      "excerpt": "⚠️ SEBI MAY TIGHTEN MTF RULES 📅 17 NOVEMBER 2026 🏦 NSE | BSE | GROWW IN FOCUS 🔹 SEBI may restrict fresh margin-funded stock purchases when leverage crosses a threshold linked to a stock's free float. 📊 MTF EXPOSURE SURGES 🔹 Outstanding MTF positions hit ₹1.53 Lakh Cr. 🔹 Up 29% YoY and nearly double since December 2024. 🔹 Around 2/3rd of leverage concentrated in Smallcap & Midcap stocks. ⚡️ KEY DATA 🔹 36 stocks have MTF exposure above 10% of free float. 🔹 220+ stocks exceed 5%. 📉 STOCK MARKET REACTION NSE, BSE and Groww pared early gains following the report. 📌 MARKET INSIGHT SEBI's focus is on controlling excessive leverage and protecting retail investors from sudden market volatility. Howev",
+      "has_media": false,
+      "version": "ca13a5642abb6a1f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44518,
+      "posted_at": "2026-11-17T07:33:24+00:00",
+      "excerpt": "🚀 INDIAN MARKETS ON FIRE! 📅 17 NOVEMBER 2026 🔥 SENSEX JUMPS 700+ POINTS 🔹 Nifty crosses 25,500 and hits 9-month high. 🔹 BSE market cap increases by ₹3 lakh Cr. 🔹 Bank Nifty hits fresh all-time high of 61,979. 📈 4 BIG REASONS BEHIND THE RALLY 1️⃣ CRUDE OIL BELOW $92 Easing oil prices improve India's macro outlook. 2️⃣ FII BUYING CONTINUES FIIs net bought ₹4,604 Cr on Monday. Buying streak extends to 11 consecutive sessions with over ₹94,000 Cr inflows. 3️⃣ RUPEE STRENGTHENS Indian Rupee rises to a near 7-month high on strong foreign inflows. 4️⃣ BANKING STOCKS RALLY PSU banks lead the charge with strong buying across financial stocks. 📌 MARKET INSIGHT FII inflows + Falling crude + Strong bank",
+      "has_media": false,
+      "version": "0d42ed5daef7de6f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13615,
+      "posted_at": "2026-11-17T07:32:11+00:00",
+      "excerpt": "NEGATIVE NEWS FOR EXCHANGES BROKERS SEBI CONSIDERS LINKING LIMITS ON NEW MARGIN-FUNDED PURCHASES TO A STOCK'S FREE FLOAT, SOURCES SAY (EXCLUSIVE) SEBI SAID TO TIGHTEN RULES FOR LEVERAGE STOCK BETS: REUTERS #BREAKING",
+      "has_media": false,
+      "version": "0c3e07d1c5855fee",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13614,
+      "posted_at": "2026-11-17T07:31:53+00:00",
+      "excerpt": "SUPREME COURT STAYS ₹1.97-BN ELECTRICITY TAX DEMAND ON NTPC Supreme Court stays Delhi civic body's 1.97-billion electricity tax demand on NTPC SC directs Delhi civic body not to encash NTPC's ₹1.97-billion demand draft SC asks NTPC to deposit 820 million towards the principal amount with the court within two weeks Supreme Court issues notice to Delhi civic body on NTPC's plea Next hearing scheduled for February 9",
+      "has_media": false,
+      "version": "d6822082b36ecf95",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13613,
+      "posted_at": "2026-11-17T07:31:42+00:00",
+      "excerpt": "ETERNAL trades at a RECORD HIGH, with a market cap of ₹3.6 lakh crore. SWIGGY trades near RECORD LOW, with a market cap of ₹52,000 crore. SWIGGY trades at an 86% LOWER VALUATION than ETERNAL.",
+      "has_media": false,
+      "version": "52707035f9e0f19c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112914,
+      "posted_at": "2026-11-17T07:26:16+00:00",
+      "excerpt": "Now no more Shortage Silver from Ev / Data centre theme is back to kaju katli PEOPLE especially retailers are fooled by stories and narratives",
+      "has_media": false,
+      "version": "09e4b62c6203df8b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112913,
+      "posted_at": "2026-11-17T07:25:21+00:00",
+      "excerpt": "Commodities Off from 2026 highs !! #Gold : From $5608 to $3860 Now #Silver : $121.64 -- $47 an oz #Copper : $6.85 -- $5.85 #Platinum : $2920 -- $1470 /oz #Aluminum : $3780 -- $2990 /ton #Zinc : $4040 -- $3680 /ton #Nickel : $19635 -- $15900 /ton",
+      "has_media": false,
+      "version": "8758cc69f8becef6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155209,
+      "posted_at": "2026-11-17T07:12:32+00:00",
+      "excerpt": "Hyundai . Hyundai cash 2150 support 2120 view 2180 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "de040c114a880fff",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13612,
+      "posted_at": "2026-11-17T06:51:36+00:00",
+      "excerpt": "#AD 🎊 DIWALI OFFER Prime WhatsApp Community ⬇️ 🟩 Daily insider stocks 🟩 Intraday & Swing Setups 🟩 Live market support 🟩 Pre Market News TODAY’S OFFER : FREE FREE [link]",
+      "has_media": false,
+      "version": "48ea10f4ef595ba8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155208,
@@ -9717,6 +9871,17 @@
       "category": "review",
       "reason": "Unclassified public post; manual review required.",
       "observed_at": "2026-11-17T06:50:20.767990+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155207,
+      "posted_at": "2026-11-17T06:49:11+00:00",
+      "excerpt": "ANOTHER REMARKABLE DAY BACK TO BACK PRIME HITS 🔥 ✔️ SET YOUR DAILY GOAL ✔️ REAL EXPECTATIONS ✔️ ACCEPT THE RISK AND ✔️ PRIME TECHNICALS",
+      "has_media": false,
+      "version": "bf960faf15df2ecd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-17T08:08:15.331114+00:00"
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9738,7 +9903,18 @@
       "version": "cd635b5eab5cd739",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+      "observed_at": "2026-11-17T06:50:20.767990+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "MAX HEALTHCARE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9760,7 +9936,18 @@
       "version": "04efe89c3489dbdd",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+      "observed_at": "2026-11-17T06:50:20.767990+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Sensex",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9804,7 +9991,18 @@
       "version": "176d59c4cb1d6225",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+      "observed_at": "2026-11-17T06:50:20.767990+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Indhotel",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9837,7 +10035,18 @@
       "version": "a8b08fbbed613271",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+      "observed_at": "2026-11-17T06:50:20.767990+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "RAYMOND LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9848,7 +10057,18 @@
       "version": "a99da343f44b77c9",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+      "observed_at": "2026-11-17T06:50:20.767990+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "TONBO IMAGING INDIA LTD",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9987,7 +10207,18 @@
       "symbol_candidate": "PACEDIGITK",
       "stop_loss": 160.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-17T06:50:20.767990+00:00"
+      "observed_at": "2026-11-17T06:50:20.767990+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "PACE DIGITECH",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 160.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -10312,7 +10543,18 @@
       "version": "1332f991f5e7475f",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "CRYSTAL CROP PROTECTION",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10325,7 +10567,18 @@
       "symbol_candidate": "BANCOINDIA",
       "stop_loss": 600.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-17T05:44:44.170400+00:00"
+      "observed_at": "2026-11-17T05:44:44.170400+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "BANCO",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-17T08:08:15.331114+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
