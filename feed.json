@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T06:06:14.679265+00:00",
+  "updated_at": "2026-11-18T07:21:53.793961+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-17T15:39:03.886550+00:00",
@@ -9630,19 +9630,19 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137162,
+      "newest_id": 137167,
       "gap_detected": false,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
-      "last_success": "2026-11-18T06:06:14.679265+00:00"
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "last_success": "2026-11-18T07:21:53.793961+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18534,
+      "newest_id": 18535,
       "gap_detected": false,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
-      "last_success": "2026-11-18T06:06:14.679265+00:00"
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "last_success": "2026-11-18T07:21:53.793961+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,26 +9650,26 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
-      "last_success": "2026-11-18T06:06:14.679265+00:00"
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "last_success": "2026-11-18T07:21:53.793961+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112939,
+      "newest_id": 112947,
       "gap_detected": false,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
-      "last_success": "2026-11-18T06:06:14.679265+00:00"
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "last_success": "2026-11-18T07:21:53.793961+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155231,
+      "newest_id": 155234,
       "gap_detected": false,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
-      "last_success": "2026-11-18T06:06:14.679265+00:00"
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "last_success": "2026-11-18T07:21:53.793961+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9677,8 +9677,8 @@
       "pages": 1,
       "newest_id": 64816,
       "gap_detected": false,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
-      "last_success": "2026-11-18T06:06:14.679265+00:00"
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "last_success": "2026-11-18T07:21:53.793961+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9686,8 +9686,8 @@
       "pages": 1,
       "newest_id": 13630,
       "gap_detected": false,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
-      "last_success": "2026-11-18T06:06:14.679265+00:00"
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "last_success": "2026-11-18T07:21:53.793961+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,156 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "checked_at": "2026-11-18T07:21:53.793961+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-18",
-    "requests_today": 4,
-    "cooldown_until": null,
+    "requests_today": 5,
+    "cooldown_until": "2026-11-18T08:21:53.793961+00:00",
     "last_success": "2026-11-18T06:06:14.679265+00:00",
-    "last_attempt": "2026-11-18T06:06:14.679265+00:00",
-    "last_error": null,
-    "pending": 2,
-    "status": "ok",
-    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
+    "last_attempt": "2026-11-18T07:21:53.793961+00:00",
+    "last_error": "HTTP 503",
+    "pending": 6,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 112947,
+      "posted_at": "2026-11-18T07:16:50+00:00",
+      "excerpt": "heavy selling in CDSL / MCX / BSE / NSE",
+      "has_media": false,
+      "version": "5a07a5fd9808978e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112946,
+      "posted_at": "2026-11-18T07:16:37+00:00",
+      "excerpt": "BLOOD BATH IN CAPITAL MARKET THEME STOCKS NOW",
+      "has_media": false,
+      "version": "020f175a6721d232",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112945,
+      "posted_at": "2026-11-18T07:15:42+00:00",
+      "excerpt": "Forwarded as received ☝️",
+      "has_media": false,
+      "version": "e49534412958d555",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112944,
+      "posted_at": "2026-11-18T07:15:36+00:00",
+      "excerpt": "BLOOMBERG REPORTS Revenue officials reviewing proposals to raise taxes on stock derivatives. 🚨 🚨",
+      "has_media": false,
+      "version": "b703876e8f3f4606",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155234,
+      "posted_at": "2026-11-18T06:57:05+00:00",
+      "excerpt": "Sensex Sensex 82000.pe 330 support 200 view 430 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "e193e87c9d162332",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155233,
+      "posted_at": "2026-11-18T06:37:51+00:00",
+      "excerpt": "Midco 14200 pe 160-170 support 70 view 240 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "c97056460ff9d37f",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137167,
+      "posted_at": "2026-11-18T06:35:49+00:00",
+      "excerpt": "POSITIONAL TRADE TATA CONSUMER Looks Good ABOVE 1118 SL 1108 Targets  5-10-15-20 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "eeb52aaf6db93346",
+      "category": "watch",
+      "symbol_candidate": "CONSUMER",
+      "stop_loss": 1108.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112943,
+      "posted_at": "2026-11-18T06:26:25+00:00",
+      "excerpt": "just like metals you may see melt down in capital market stocks like Angel One, BSE, NSE , CDSL , NSDL etc",
+      "has_media": false,
+      "version": "4ea13d972bb1f701",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137163,
+      "posted_at": "2026-11-18T06:22:28+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155232,
+      "posted_at": "2026-11-18T06:12:42+00:00",
+      "excerpt": "MOMENTUM STOCK SWING VIEW SHUKRA PHARMA CMP 74 Support 60 For 90-118",
+      "has_media": true,
+      "version": "9d2791bca0f25c52",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112942,
+      "posted_at": "2026-11-18T06:11:08+00:00",
+      "excerpt": "selling across Defense stocks now BDL / HAL / BEL ETC",
+      "has_media": false,
+      "version": "604067c36ab05628",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112941,
+      "posted_at": "2026-11-18T06:09:29+00:00",
+      "excerpt": "Hahahaha 😂 ☝️",
+      "has_media": false,
+      "version": "36c7d4ffba4d5be5",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 112939,
