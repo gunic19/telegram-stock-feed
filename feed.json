@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T14:57:44.452279+00:00",
+  "updated_at": "2026-11-18T16:00:36.009736+00:00",
   "catalog": {
     "state": "ok",
-    "fetched_at": "2026-11-17T15:39:03.886550+00:00",
+    "fetched_at": "2026-11-18T16:00:36.009736+00:00",
     "source": "NSE EQUITY_L.csv EQ series",
     "stocks": [
       {
@@ -2307,10 +2307,6 @@
         "name": "D P Wires Limited"
       },
       {
-        "sym": "DRAGARWQ",
-        "name": "Dr Agarwals Eye Hospital Limited"
-      },
-      {
         "sym": "DRCSYSTEMS",
         "name": "DRC Systems India Limited"
       },
@@ -2485,10 +2481,6 @@
       {
         "sym": "ELLEN",
         "name": "Ellenbarrie Industrial Gases Limited"
-      },
-      {
-        "sym": "ELPROINTL",
-        "name": "Elpro International Limited"
       },
       {
         "sym": "EMAMILTD",
@@ -2973,6 +2965,10 @@
       {
         "sym": "GESHIP",
         "name": "The Great Eastern Shipping Company Limited"
+      },
+      {
+        "sym": "GFLLIMITED",
+        "name": "GFL Limited"
       },
       {
         "sym": "GHCL",
@@ -5687,10 +5683,6 @@
         "name": "Narmada Agrobase Limited"
       },
       {
-        "sym": "NATCAPSUQ",
-        "name": "Natural Capsules Limited"
-      },
-      {
         "sym": "NATCOPHARM",
         "name": "Natco Pharma Limited"
       },
@@ -5977,6 +5969,10 @@
       {
         "sym": "NRL",
         "name": "Nupur Recyclers Limited"
+      },
+      {
+        "sym": "NSIL",
+        "name": "Nalwa Sons Investments Limited"
       },
       {
         "sym": "NSLNISP",
@@ -6417,6 +6413,10 @@
       {
         "sym": "PIIND",
         "name": "PI Industries Limited"
+      },
+      {
+        "sym": "PILANIINVS",
+        "name": "Pilani Investment and Industries Corporation Limited"
       },
       {
         "sym": "PILITA",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137189,
+      "newest_id": 137191,
       "gap_detected": false,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
-      "last_success": "2026-11-18T14:57:44.452279+00:00"
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
+      "last_success": "2026-11-18T16:00:36.009736+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18537,
       "gap_detected": false,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
-      "last_success": "2026-11-18T14:57:44.452279+00:00"
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
+      "last_success": "2026-11-18T16:00:36.009736+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,17 +9650,17 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
-      "last_success": "2026-11-18T14:57:44.452279+00:00"
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
+      "last_success": "2026-11-18T16:00:36.009736+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112954,
+      "newest_id": 112959,
       "gap_detected": false,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
-      "last_success": "2026-11-18T14:57:44.452279+00:00"
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
+      "last_success": "2026-11-18T16:00:36.009736+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9668,8 +9668,8 @@
       "pages": 1,
       "newest_id": 155240,
       "gap_detected": false,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
-      "last_success": "2026-11-18T14:57:44.452279+00:00"
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
+      "last_success": "2026-11-18T16:00:36.009736+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9677,8 +9677,8 @@
       "pages": 1,
       "newest_id": 64823,
       "gap_detected": false,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
-      "last_success": "2026-11-18T14:57:44.452279+00:00"
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
+      "last_success": "2026-11-18T16:00:36.009736+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9686,8 +9686,8 @@
       "pages": 1,
       "newest_id": 13631,
       "gap_detected": false,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
-      "last_success": "2026-11-18T14:57:44.452279+00:00"
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
+      "last_success": "2026-11-18T16:00:36.009736+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,7 +9695,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T14:57:44.452279+00:00",
+      "checked_at": "2026-11-18T16:00:36.009736+00:00",
       "last_success": null
     }
   },
@@ -9707,10 +9707,54 @@
     "last_attempt": "2026-11-18T14:57:44.452279+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "ok",
-    "message": "AI processed 1/1 shortlisted posts; outputs unverified."
+    "status": "idle",
+    "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 112959,
+      "posted_at": "2026-11-18T15:31:27+00:00",
+      "excerpt": "Responsive industries ... consolidation happened 138 to 148 levels ... today crossed 150/54 ... above 158/64 can see moves towards 172/78/86/92/204+ downside 138/32 broken can see 126/22/116/108/100/96",
+      "has_media": true,
+      "version": "a8e1e2bb06ad98b0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T16:00:36.009736+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112958,
+      "posted_at": "2026-11-18T15:28:43+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-18T16:00:36.009736+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112957,
+      "posted_at": "2026-11-18T15:07:25+00:00",
+      "excerpt": "Rally in silver started from $ 33 so it should retrace to that LEVELS????",
+      "has_media": false,
+      "version": "222a9159af25aff1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T16:00:36.009736+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112955,
+      "posted_at": "2026-11-18T15:04:05+00:00",
+      "excerpt": "Silver to break $ 45",
+      "has_media": false,
+      "version": "76316fa7560d8423",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T16:00:36.009736+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137186,
