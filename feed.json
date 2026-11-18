@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T07:21:53.793961+00:00",
+  "updated_at": "2026-11-18T08:35:55.484678+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-17T15:39:03.886550+00:00",
@@ -9630,19 +9630,19 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137167,
+      "newest_id": 137171,
       "gap_detected": false,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
-      "last_success": "2026-11-18T07:21:53.793961+00:00"
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
+      "last_success": "2026-11-18T08:35:55.484678+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18535,
+      "newest_id": 18536,
       "gap_detected": false,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
-      "last_success": "2026-11-18T07:21:53.793961+00:00"
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
+      "last_success": "2026-11-18T08:35:55.484678+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,8 +9650,8 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
-      "last_success": "2026-11-18T07:21:53.793961+00:00"
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
+      "last_success": "2026-11-18T08:35:55.484678+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9659,17 +9659,17 @@
       "pages": 1,
       "newest_id": 112947,
       "gap_detected": false,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
-      "last_success": "2026-11-18T07:21:53.793961+00:00"
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
+      "last_success": "2026-11-18T08:35:55.484678+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155234,
+      "newest_id": 155236,
       "gap_detected": false,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
-      "last_success": "2026-11-18T07:21:53.793961+00:00"
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
+      "last_success": "2026-11-18T08:35:55.484678+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9677,8 +9677,8 @@
       "pages": 1,
       "newest_id": 64816,
       "gap_detected": false,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
-      "last_success": "2026-11-18T07:21:53.793961+00:00"
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
+      "last_success": "2026-11-18T08:35:55.484678+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9686,8 +9686,8 @@
       "pages": 1,
       "newest_id": 13630,
       "gap_detected": false,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
-      "last_success": "2026-11-18T07:21:53.793961+00:00"
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
+      "last_success": "2026-11-18T08:35:55.484678+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,88 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T07:21:53.793961+00:00",
+      "checked_at": "2026-11-18T08:35:55.484678+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-18",
-    "requests_today": 5,
-    "cooldown_until": "2026-11-18T08:21:53.793961+00:00",
-    "last_success": "2026-11-18T06:06:14.679265+00:00",
-    "last_attempt": "2026-11-18T07:21:53.793961+00:00",
-    "last_error": "HTTP 503",
-    "pending": 6,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "requests_today": 6,
+    "cooldown_until": null,
+    "last_success": "2026-11-18T08:35:55.484678+00:00",
+    "last_attempt": "2026-11-18T08:35:55.484678+00:00",
+    "last_error": null,
+    "pending": 0,
+    "status": "ok",
+    "message": "AI processed 7/7 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18536,
+      "posted_at": "2026-11-18T08:32:14+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T08:35:55.484678+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155236,
+      "posted_at": "2026-11-18T08:22:23+00:00",
+      "excerpt": "Sector overview",
+      "has_media": true,
+      "version": "f24da976197d2a72",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T08:35:55.484678+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155235,
+      "posted_at": "2026-11-18T07:50:42+00:00",
+      "excerpt": "Mahabank breakout at 96 support 95",
+      "has_media": true,
+      "version": "d96a2f9fc7189472",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T08:35:55.484678+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Mahabank",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T08:35:55.484678+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137171,
+      "posted_at": "2026-11-18T07:40:07+00:00",
+      "excerpt": "✅ For the 1st time we are introducing our reliable & exclusive Algos which is Empanelled with NSE and have around 90% past success rate and now we are making it LIVE for public earlier that was available only for StockPro Course members, Now you can also Register…",
+      "has_media": false,
+      "version": "7e609cc59e007a46",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T08:35:55.484678+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137170,
+      "posted_at": "2026-11-18T07:39:39+00:00",
+      "excerpt": "✅ For the 1st time we are introducing our reliable & exclusive Algos which is Empanelled with NSE and have around 90% past success rate and now we are making it LIVE for public earlier that was available only for StockPro Course members, Now you can also Register For Today's Session and Understand How it works ✅ THE WEALTH ON AUTOPILOT (2.0) WORKSHOP (TODAY) 💸 A Prelaunch Event: You can join and you can invite your friends & family members also (Only Last 200 Seats Left our of 800 seats) 🎟 (18th NOV 2026-TODAY | 7:00 PM- 8:30 PM).** Those who walked the path early have seen their harvest grow by 8-10% in 3 WEEKS 📈 . You can still seek entry to the TODAY'S session. ✅ Click Here to Pay ₹49 her",
+      "has_media": true,
+      "version": "d69f9a2d4ed94ece",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T08:35:55.484678+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 112947,
@@ -9753,7 +9819,18 @@
       "version": "b703876e8f3f4606",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+      "observed_at": "2026-11-18T07:21:53.793961+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T08:35:55.484678+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9764,7 +9841,18 @@
       "version": "e193e87c9d162332",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+      "observed_at": "2026-11-18T07:21:53.793961+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Sensex",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T08:35:55.484678+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9775,7 +9863,18 @@
       "version": "c97056460ff9d37f",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+      "observed_at": "2026-11-18T07:21:53.793961+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Midco",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T08:35:55.484678+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9788,7 +9887,18 @@
       "symbol_candidate": "CONSUMER",
       "stop_loss": 1108.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-18T07:21:53.793961+00:00"
+      "observed_at": "2026-11-18T07:21:53.793961+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "TATA CONSUMER",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1108.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T08:35:55.484678+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9920,7 +10030,18 @@
       "version": "e193e87c9d162332",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+      "observed_at": "2026-11-18T06:06:14.679265+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Sensex",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T08:35:55.484678+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9966,7 +10087,18 @@
       "version": "c97056460ff9d37f",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+      "observed_at": "2026-11-18T06:06:14.679265+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Midco",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T08:35:55.484678+00:00"
+      }
     },
     {
       "channel": "Equiideas",
