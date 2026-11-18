@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T11:44:05.093319+00:00",
+  "updated_at": "2026-11-18T12:45:48.363317+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-17T15:39:03.886550+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137178,
+      "newest_id": 137180,
       "gap_detected": false,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
-      "last_success": "2026-11-18T11:44:05.093319+00:00"
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "last_success": "2026-11-18T12:45:48.363317+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18537,
       "gap_detected": false,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
-      "last_success": "2026-11-18T11:44:05.093319+00:00"
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "last_success": "2026-11-18T12:45:48.363317+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,8 +9650,8 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
-      "last_success": "2026-11-18T11:44:05.093319+00:00"
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "last_success": "2026-11-18T12:45:48.363317+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9659,8 +9659,8 @@
       "pages": 1,
       "newest_id": 112948,
       "gap_detected": false,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
-      "last_success": "2026-11-18T11:44:05.093319+00:00"
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "last_success": "2026-11-18T12:45:48.363317+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9668,17 +9668,17 @@
       "pages": 1,
       "newest_id": 155240,
       "gap_detected": false,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
-      "last_success": "2026-11-18T11:44:05.093319+00:00"
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "last_success": "2026-11-18T12:45:48.363317+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64816,
+      "newest_id": 64821,
       "gap_detected": false,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
-      "last_success": "2026-11-18T11:44:05.093319+00:00"
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "last_success": "2026-11-18T12:45:48.363317+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9686,8 +9686,8 @@
       "pages": 1,
       "newest_id": 13630,
       "gap_detected": false,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
-      "last_success": "2026-11-18T11:44:05.093319+00:00"
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "last_success": "2026-11-18T12:45:48.363317+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,132 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T11:44:05.093319+00:00",
+      "checked_at": "2026-11-18T12:45:48.363317+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-18",
-    "requests_today": 8,
+    "requests_today": 9,
     "cooldown_until": null,
-    "last_success": "2026-11-18T10:46:02.503693+00:00",
-    "last_attempt": "2026-11-18T10:46:02.503693+00:00",
+    "last_success": "2026-11-18T12:45:48.363317+00:00",
+    "last_attempt": "2026-11-18T12:45:48.363317+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "status": "ok",
+    "message": "AI processed 3/3 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64821,
+      "posted_at": "2026-11-18T12:43:42+00:00",
+      "excerpt": "New scam 😳 😳 Gold mixed with Chinese metal powder sold in a new scam; purity tests fail to detect it:Report Gold mixed with rhenium powder is being sold under a new adulteration scam, Dainik Bhaskar reported. The powder, possibly manufactured in China, can make up 25% of the mixture without being detected by standard purity tests. An investigation found that a mixture of 7.83 grams of gold and one gram of rhenium still tested as 24-carat gold.",
+      "has_media": true,
+      "version": "5bd4e993e124240e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T12:45:48.363317+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64820,
+      "posted_at": "2026-11-18T12:41:07+00:00",
+      "excerpt": "Piyush Goyal Says India Is Negotiating One of the “Best” Trade Deals With the US How many days will this drama run? 😒",
+      "has_media": false,
+      "version": "18869a3fc2e7851e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T12:45:48.363317+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64819,
+      "posted_at": "2026-11-18T12:30:59+00:00",
+      "excerpt": "Pre budget: tax cut discussion CBDT Chairman says, discussions are on with stakeholders on #LTCG & #STT, reviewing the revenue implications decision, if any, expected in the upcoming #budget2026",
+      "has_media": false,
+      "version": "ec6349611d13d1b1",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-18T12:45:48.363317+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T12:45:48.363317+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64818,
+      "posted_at": "2026-11-18T12:10:19+00:00",
+      "excerpt": "Revenue Officials reviewing proposals to raise (STT) taxes on stock derivatives :: Bloomberg",
+      "has_media": true,
+      "version": "ffef0eabdaee807f",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-18T12:45:48.363317+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T12:45:48.363317+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64817,
+      "posted_at": "2026-11-18T12:09:49+00:00",
+      "excerpt": "Revenue Officials reviewing proposals to raise (STT) taxes on stock derivatives :: Bloomberg",
+      "has_media": false,
+      "version": "e34f8a66992e2e42",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-18T12:45:48.363317+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T12:45:48.363317+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137180,
+      "posted_at": "2026-11-18T12:05:15+00:00",
+      "excerpt": "✅ For the 1st time we are introducing our reliable & exclusive Algos which is Empanelled with NSE and have around 90% past success rate and now we are making it LIVE for public earlier that was available only for StockPro Course members, Now you can also Register…",
+      "has_media": false,
+      "version": "7e609cc59e007a46",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T12:45:48.363317+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137179,
+      "posted_at": "2026-11-18T12:05:09+00:00",
+      "excerpt": "✅ For the 1st time we are introducing our reliable & exclusive Algos which is Empanelled with NSE and have around 90% past success rate and now we are making it LIVE for public earlier that was available only for StockPro Course members, Now you can also Register For Today's Session and Understand How it works ✅ THE WEALTH ON AUTOPILOT (2.0) WORKSHOP (TODAY) 💸 A Prelaunch Event: You can join and you can invite your friends & family members also (Only Last 100 Seats Left For Today's Session) 🎟 (18th NOV 2026-TODAY | 7:00 PM- 8:30 PM). Those who walked the path early have seen their harvest grow by 8-10% in 3 WEEKS 📈 . You can still seek entry to the TODAY'S session. ✅ Click Here to Pay ₹49 he",
+      "has_media": true,
+      "version": "73bf35dfa34f678a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T12:45:48.363317+00:00"
+    },
     {
       "channel": "motilaloswalofficial",
       "message_id": 18537,
