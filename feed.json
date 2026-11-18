@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T12:45:48.363317+00:00",
+  "updated_at": "2026-11-18T14:00:05.456255+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-17T15:39:03.886550+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137180,
+      "newest_id": 137184,
       "gap_detected": false,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
-      "last_success": "2026-11-18T12:45:48.363317+00:00"
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
+      "last_success": "2026-11-18T14:00:05.456255+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18537,
       "gap_detected": false,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
-      "last_success": "2026-11-18T12:45:48.363317+00:00"
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
+      "last_success": "2026-11-18T14:00:05.456255+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,17 +9650,17 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
-      "last_success": "2026-11-18T12:45:48.363317+00:00"
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
+      "last_success": "2026-11-18T14:00:05.456255+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112948,
+      "newest_id": 112954,
       "gap_detected": false,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
-      "last_success": "2026-11-18T12:45:48.363317+00:00"
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
+      "last_success": "2026-11-18T14:00:05.456255+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9668,26 +9668,26 @@
       "pages": 1,
       "newest_id": 155240,
       "gap_detected": false,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
-      "last_success": "2026-11-18T12:45:48.363317+00:00"
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
+      "last_success": "2026-11-18T14:00:05.456255+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64821,
+      "newest_id": 64823,
       "gap_detected": false,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
-      "last_success": "2026-11-18T12:45:48.363317+00:00"
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
+      "last_success": "2026-11-18T14:00:05.456255+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13630,
+      "newest_id": 13631,
       "gap_detected": false,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
-      "last_success": "2026-11-18T12:45:48.363317+00:00"
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
+      "last_success": "2026-11-18T14:00:05.456255+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,121 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T12:45:48.363317+00:00",
+      "checked_at": "2026-11-18T14:00:05.456255+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-18",
-    "requests_today": 9,
+    "requests_today": 10,
     "cooldown_until": null,
-    "last_success": "2026-11-18T12:45:48.363317+00:00",
-    "last_attempt": "2026-11-18T12:45:48.363317+00:00",
+    "last_success": "2026-11-18T14:00:05.456255+00:00",
+    "last_attempt": "2026-11-18T14:00:05.456255+00:00",
     "last_error": null,
     "pending": 0,
     "status": "ok",
-    "message": "AI processed 3/3 shortlisted posts; outputs unverified."
+    "message": "AI processed 2/2 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 112954,
+      "posted_at": "2026-11-18T13:56:26+00:00",
+      "excerpt": "Gold scam 🤯 😠",
+      "has_media": false,
+      "version": "c4c288a18555929e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T14:00:05.456255+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112952,
+      "posted_at": "2026-11-18T13:54:00+00:00",
+      "excerpt": "Must see those who run after Gold 🥇 ☝️",
+      "has_media": false,
+      "version": "8680aa885391e8ca",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T14:00:05.456255+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112950,
+      "posted_at": "2026-11-18T13:28:15+00:00",
+      "excerpt": "All that glitters is not gold 🪙 keep in mind ... Big scam is going on",
+      "has_media": false,
+      "version": "8fdb389764e66213",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T14:00:05.456255+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137184,
+      "posted_at": "2026-11-18T13:28:12+00:00",
+      "excerpt": "Today's session will be starting in next 2 minutes at sharp 7:00 PM Here is the Zoom Link: 🔗 Zoom Registration Link: [link] Please join fast",
+      "has_media": false,
+      "version": "c7fb87bf2ffde742",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T14:00:05.456255+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13631,
+      "posted_at": "2026-11-18T13:07:59+00:00",
+      "excerpt": "📊 FII DII ACTIVITY – 18 NOV 2026 🔴 DII NET SELL: ₹3,159.90 Cr 🟢 FII/FPI NET BUY: ₹5,866.78 Cr 🟢 TOTAL NET BUY: ₹2,706.88 Cr",
+      "has_media": false,
+      "version": "41544682a693e012",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T14:00:05.456255+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T14:00:05.456255+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64823,
+      "posted_at": "2026-11-18T13:05:45+00:00",
+      "excerpt": "Dollar Index has surged to a 19-month high at 103.66. It is Putting pressure on commodities. Gold 🔻 Silver 🔻 Why is the dollar index going up ? US cpi inflation is hotter than expected. Sell off in AI & tech stocks. Rate hike expectations. Bond yields…",
+      "has_media": false,
+      "version": "19226d275a4027b5",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T14:00:05.456255+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T14:00:05.456255+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64822,
+      "posted_at": "2026-11-18T12:52:06+00:00",
+      "excerpt": "INDIA DEFENCE SECY SAYS HAVE ASKED FOR 20% GROWTH IN DEFENCE CAPEX IN BUDGET FOR NEXT FY Defence sector will be in focus for the upcoming budget",
+      "has_media": false,
+      "version": "fff50ce4d34f611e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T14:00:05.456255+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64821,
