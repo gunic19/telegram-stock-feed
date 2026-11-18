@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T01:54:39.903285+00:00",
+  "updated_at": "2026-11-18T02:54:22.339150+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-17T15:39:03.886550+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137145,
+      "newest_id": 137149,
       "gap_detected": false,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
-      "last_success": "2026-11-18T01:54:39.903285+00:00"
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
+      "last_success": "2026-11-18T02:54:22.339150+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18532,
       "gap_detected": false,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
-      "last_success": "2026-11-18T01:54:39.903285+00:00"
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
+      "last_success": "2026-11-18T02:54:22.339150+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,26 +9650,26 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
-      "last_success": "2026-11-18T01:54:39.903285+00:00"
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
+      "last_success": "2026-11-18T02:54:22.339150+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112924,
+      "newest_id": 112928,
       "gap_detected": false,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
-      "last_success": "2026-11-18T01:54:39.903285+00:00"
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
+      "last_success": "2026-11-18T02:54:22.339150+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155223,
+      "newest_id": 155224,
       "gap_detected": false,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
-      "last_success": "2026-11-18T01:54:39.903285+00:00"
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
+      "last_success": "2026-11-18T02:54:22.339150+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9677,17 +9677,17 @@
       "pages": 1,
       "newest_id": 64810,
       "gap_detected": false,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
-      "last_success": "2026-11-18T01:54:39.903285+00:00"
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
+      "last_success": "2026-11-18T02:54:22.339150+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13625,
+      "newest_id": 13628,
       "gap_detected": false,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
-      "last_success": "2026-11-18T01:54:39.903285+00:00"
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
+      "last_success": "2026-11-18T02:54:22.339150+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,176 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T01:54:39.903285+00:00",
+      "checked_at": "2026-11-18T02:54:22.339150+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-18",
-    "requests_today": 0,
+    "requests_today": 1,
     "cooldown_until": null,
-    "last_success": "2026-11-17T17:48:56.296221+00:00",
-    "last_attempt": "2026-11-17T17:48:56.296221+00:00",
+    "last_success": "2026-11-18T02:54:22.339150+00:00",
+    "last_attempt": "2026-11-18T02:54:22.339150+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "status": "ok",
+    "message": "AI processed 4/4 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 112928,
+      "posted_at": "2026-11-18T02:44:48+00:00",
+      "excerpt": "All India Bullion: Live Gold Rate Today (16 Nov 2026) & Buy Coins [link]",
+      "has_media": false,
+      "version": "a0764cf220797112",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T02:54:22.339150+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112927,
+      "posted_at": "2026-11-18T02:42:56+00:00",
+      "excerpt": "Blood bath in Gold Silver",
+      "has_media": false,
+      "version": "0ae22b1dbad06976",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137147,
+      "posted_at": "2026-11-18T02:36:54+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13628,
+      "posted_at": "2026-11-18T02:33:52+00:00",
+      "excerpt": "🚀 MAJOR CONTRACT WINS | NOVEMBER 17 • ARMEE – ₹1,629.03 Cr solar project from MSEDCL. • ASHOKA – ₹1,465 Cr NHAI expressway project. • ADVAIT – ₹130.49 Cr GETCO order for power line conversion. • MSECL – ₹34.94 Cr Southern Railway survey contract. • DHABRIYA – ₹29.89 Cr orders for aluminium facade works. • REFEX – ₹28 Cr pond ash utilization contract. • PACEDIGITK – Subsidiary bags ₹19.41 Cr BESS supply order. • AMEENJI – ₹21.44 Cr railway rubber pads supply order. • ANNU – ₹38.16 Cr order from Indian Oil Corporation. • NEWGEN – USD 2.345 Mn Ghana credit management contract. • TRL – IOCL order for solar systems and technology development. • ASTRAZEN – Healthcare collaboration with Strand Life",
+      "has_media": false,
+      "version": "eafd15c45d8e5aba",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T02:54:22.339150+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13626,
+      "posted_at": "2026-11-18T02:33:15+00:00",
+      "excerpt": "💐 GOOD MORNING 😊 🙏 🌄",
+      "has_media": false,
+      "version": "f064367430620c51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13627,
+      "posted_at": "2026-11-18T02:33:15+00:00",
+      "excerpt": "SEBI SOCIAL MEDIA MANDATE & MANDATORY DISCLAIMER AS REQUIRED BY SEBI KIND ATTENTION OF ALL MEMBERS Disclaimer from Admins as per SEBI norms: Equity Investment are subject to 100% market risks. Refer your financial consultant advice before Investing. This group/channel is only for Educational and Learning, Knowledge Purposes. Admins have no responsibility for your intended decision & financial losses. Keep calculated & always analyzed your cash position and risk bearing capacity before following msg of our group postings. Stock market investments are VERY RISKY and being part of this group, you agree that you understand the Market risks involved. Profits and Losses are part of Share market. K",
+      "has_media": false,
+      "version": "10b65f956b8430d8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T02:54:22.339150+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155224,
+      "posted_at": "2026-11-18T02:04:35+00:00",
+      "excerpt": "🙏 GOOD MORNING ALL 🌻 🌺 Have A Profitable Day today 🌹 NOTE: POSTS HERE ARE BASED ON MY RESEARCH AND ARE FOR EDUCATIONAL PURPOSES ONLY. We are not liable for any Profit or Loss. PLEASE CONSULT YOUR FINANCIAL ADVISOR BEFORE BUYING OR SELLING. THANKS! ✨ Few useful Abbreviations for new traders: SL: Stop Loss TGT: Target CMP: Current Market PRICE BTST: Buy Today Sell Tomorrow STBT: Sell Today Buy Tomorrow The profit/loss figures mentioned are indicative and based on assumptions. Futures: Single Lot OPTIONS: Single lot Index: 4-5lots",
+      "has_media": false,
+      "version": "c4f956dc1071b58d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T02:54:22.339150+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112926,
+      "posted_at": "2026-11-18T02:02:08+00:00",
+      "excerpt": "🌅 Morning Commentary 18.11.2026 🌅 ✅ Gift Nifty showing Flat to negative opening , actual opening may be different. ✅ Bank nifty already hit All Time High , now its time for Nifty ... and the push in Nifty has to come from Reliance , IT stocks , Banks and FMCG ✅ PSU banks have run up .. BOB still has long way to go 278/281 crossed can see moves towards 284/88/90+ Indian Bank / Union Bank / Bank of India / SBI all have given decent recents. Icici bank / Axis bank / Federal Bank / RBL bank also have given good moves. ✅ Textile Stocks are looking good especially Spinning Companies ... list / names has been shared before ✅ Adani group stocks have been re rated by Jefferies and due to which one sa",
+      "has_media": false,
+      "version": "eb1e52869855055b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137146,
+      "posted_at": "2026-11-18T01:59:29+00:00",
+      "excerpt": "❇️ Register for Today's LIVE Market Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗗𝗜𝗦𝗖𝗨𝗦𝗦𝗜𝗢𝗡 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Early Morning Stock Market Discussions ⚜️ Early Morning Stock Selection Session ⚜️ LIVE QnA Regarding upcoming Master Trader Course? Timings: 10:00 AM -11:00 AM (Today) 📲 Register Now Via This Link [link]",
+      "has_media": true,
+      "version": "a2e04f2a38c1e509",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112925,
+      "posted_at": "2026-11-18T01:54:41+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-18T02:54:22.339150+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 112924,
