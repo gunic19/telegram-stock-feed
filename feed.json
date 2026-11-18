@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T03:57:04.808766+00:00",
+  "updated_at": "2026-11-18T05:02:05.384681+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-17T15:39:03.886550+00:00",
@@ -9630,19 +9630,19 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137150,
+      "newest_id": 137157,
       "gap_detected": false,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
-      "last_success": "2026-11-18T03:57:04.808766+00:00"
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "last_success": "2026-11-18T05:02:05.384681+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18533,
+      "newest_id": 18534,
       "gap_detected": false,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
-      "last_success": "2026-11-18T03:57:04.808766+00:00"
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "last_success": "2026-11-18T05:02:05.384681+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,44 +9650,44 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
-      "last_success": "2026-11-18T03:57:04.808766+00:00"
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "last_success": "2026-11-18T05:02:05.384681+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112930,
+      "newest_id": 112935,
       "gap_detected": false,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
-      "last_success": "2026-11-18T03:57:04.808766+00:00"
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "last_success": "2026-11-18T05:02:05.384681+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155224,
+      "newest_id": 155228,
       "gap_detected": false,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
-      "last_success": "2026-11-18T03:57:04.808766+00:00"
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "last_success": "2026-11-18T05:02:05.384681+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64812,
+      "newest_id": 64814,
       "gap_detected": false,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
-      "last_success": "2026-11-18T03:57:04.808766+00:00"
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "last_success": "2026-11-18T05:02:05.384681+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13629,
+      "newest_id": 13630,
       "gap_detected": false,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
-      "last_success": "2026-11-18T03:57:04.808766+00:00"
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "last_success": "2026-11-18T05:02:05.384681+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,347 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T03:57:04.808766+00:00",
+      "checked_at": "2026-11-18T05:02:05.384681+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-18",
-    "requests_today": 2,
+    "requests_today": 3,
     "cooldown_until": null,
-    "last_success": "2026-11-18T03:57:04.808766+00:00",
-    "last_attempt": "2026-11-18T03:57:04.808766+00:00",
+    "last_success": "2026-11-18T05:02:05.384681+00:00",
+    "last_attempt": "2026-11-18T05:02:05.384681+00:00",
     "last_error": null,
-    "pending": 0,
+    "pending": 4,
     "status": "ok",
-    "message": "AI processed 3/3 shortlisted posts; outputs unverified."
+    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 112935,
+      "posted_at": "2026-11-18T04:56:17+00:00",
+      "excerpt": "$ 3750 in gold todo",
+      "has_media": false,
+      "version": "e0ed072f97a2d940",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112934,
+      "posted_at": "2026-11-18T04:56:02+00:00",
+      "excerpt": "$ 45 todo in silver",
+      "has_media": false,
+      "version": "ac58962a41a859d2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155228,
+      "posted_at": "2026-11-18T04:53:05+00:00",
+      "excerpt": "Midco 14200 pe 160-170 support 70 view 240 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "c97056460ff9d37f",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Midco",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137157,
+      "posted_at": "2026-11-18T04:50:43+00:00",
+      "excerpt": "POSITIONAL TRADE BLS POLYMERS (BLSPOLY) Looks Good ABOVE 290 SL 250 Targets  310-325-335-350 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "07150dd0bf998900",
+      "category": "watch",
+      "symbol_candidate": "BLSPOLY",
+      "stop_loss": 250.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "BLS POLYMERS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 250.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137156,
+      "posted_at": "2026-11-18T04:49:25+00:00",
+      "excerpt": "POSITIONAL TRADE BLS POLYMERS (BLSPOLY) Looks Good ABOVE 290 SL 250 Targets  310-325-335-350 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "b7ccdafdfb736c98",
+      "category": "watch",
+      "symbol_candidate": "BLSPOLY",
+      "stop_loss": 250.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "BLS POLYMERS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 250.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137155,
+      "posted_at": "2026-11-18T04:34:38+00:00",
+      "excerpt": "We have just started today's sesison- please register and join fast [link]",
+      "has_media": false,
+      "version": "e51e1a66e6f3486f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112933,
+      "posted_at": "2026-11-18T04:34:11+00:00",
+      "excerpt": "IREDA LOOKS TO BE THE STOCK TO WATCH 124/26 CROSSED CAN SEE 128/30/34+",
+      "has_media": false,
+      "version": "0965ce3c2ffb8c50",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "IREDA",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137154,
+      "posted_at": "2026-11-18T04:29:16+00:00",
+      "excerpt": "POSITIONAL TRADE IIFL FINANCE Looks Good ABOVE 677 SL 630 Targets  690-710-725-735-750 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with…",
+      "has_media": false,
+      "version": "89f37f5ef038d5fd",
+      "category": "watch",
+      "symbol_candidate": "FINANCE",
+      "stop_loss": 630.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "IIFL FINANCE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 630.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155227,
+      "posted_at": "2026-11-18T04:27:53+00:00",
+      "excerpt": "NIFTY NIFTY 25100 CE 276 SUPPORT 250 VIEW 310 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "ebb0901f793dfd7e",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "NIFTY",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155226,
+      "posted_at": "2026-11-18T04:26:30+00:00",
+      "excerpt": "NIFTY NIFTY 25100 CE 276 SUPPORT 250 VIEW 310 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "ebb0901f793dfd7e",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "NIFTY",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137153,
+      "posted_at": "2026-11-18T04:22:08+00:00",
+      "excerpt": "POSITIONAL TRADE IIFL FINANCE Looks Good ABOVE 677 SL 630 Targets  690-710-725-735-750 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "451cdb55cd166ddd",
+      "category": "watch",
+      "symbol_candidate": "FINANCE",
+      "stop_loss": 630.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "IIFL FINANCE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 630.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T05:02:05.384681+00:00"
+      }
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18534,
+      "posted_at": "2026-11-18T04:21:33+00:00",
+      "excerpt": "Conviction Delivery Idea BUY GAIL CMP 190.45 SL 185 TGT 200 - Breakout from bullish flag pattern hints at a continuation of uptrend Disclaimer- [link]",
+      "has_media": false,
+      "version": "8ac76e430fd28289",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "GAIL",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 190.45,
+      "first_target": 200.0,
+      "stop_loss": 185.0,
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13630,
+      "posted_at": "2026-11-18T04:20:30+00:00",
+      "excerpt": "1500+++ 🚀 🚀",
+      "has_media": true,
+      "version": "371f8c09183f285e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137152,
+      "posted_at": "2026-11-18T04:18:58+00:00",
+      "excerpt": "POSITIONAL TRADE GREAVES COTTON (GREAVESCOT) Looks Good ABOVE 206 SL 180 Targets  5-10-15-20-25 points from entry Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
+      "has_media": true,
+      "version": "965fc560da2dcd55",
+      "category": "watch",
+      "symbol_candidate": "GREAVESCOT",
+      "stop_loss": 180.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137151,
+      "posted_at": "2026-11-18T04:14:52+00:00",
+      "excerpt": "POSITIONAL TRADE PACE DIGITECH (PACEDIGITK) Looks Good ABOVE 178.5 SL 160 Targets  185-190-195-200-210 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past…",
+      "has_media": false,
+      "version": "e9e6fc0f88fc5b97",
+      "category": "watch",
+      "symbol_candidate": "PACEDIGITK",
+      "stop_loss": 160.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112932,
+      "posted_at": "2026-11-18T04:13:04+00:00",
+      "excerpt": "psu banks seeing heavy selling",
+      "has_media": false,
+      "version": "fdc867a99b2cec6b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64814,
+      "posted_at": "2026-11-18T04:11:29+00:00",
+      "excerpt": "NIFTY SMALL CAP index is looking weak",
+      "has_media": false,
+      "version": "87c3bb306e0b6c0f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64813,
+      "posted_at": "2026-11-18T04:06:28+00:00",
+      "excerpt": "NIFTY SMALL CAP index is looking weak",
+      "has_media": true,
+      "version": "bbc4665b89b54da3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112931,
+      "posted_at": "2026-11-18T04:02:45+00:00",
+      "excerpt": "tech mahindra powering pull back in IT stocks",
+      "has_media": false,
+      "version": "ac8fcb00e91b73ed",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155225,
+      "posted_at": "2026-11-18T03:57:22+00:00",
+      "excerpt": "Ather energy breakout above 1960",
+      "has_media": true,
+      "version": "e668c3e801c3e166",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137150,
