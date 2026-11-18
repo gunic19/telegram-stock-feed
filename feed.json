@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T05:02:05.384681+00:00",
+  "updated_at": "2026-11-18T06:06:14.679265+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-17T15:39:03.886550+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137157,
+      "newest_id": 137162,
       "gap_detected": false,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
-      "last_success": "2026-11-18T05:02:05.384681+00:00"
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "last_success": "2026-11-18T06:06:14.679265+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18534,
       "gap_detected": false,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
-      "last_success": "2026-11-18T05:02:05.384681+00:00"
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "last_success": "2026-11-18T06:06:14.679265+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,35 +9650,35 @@
       "pages": 1,
       "newest_id": 44521,
       "gap_detected": false,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
-      "last_success": "2026-11-18T05:02:05.384681+00:00"
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "last_success": "2026-11-18T06:06:14.679265+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112935,
+      "newest_id": 112939,
       "gap_detected": false,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
-      "last_success": "2026-11-18T05:02:05.384681+00:00"
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "last_success": "2026-11-18T06:06:14.679265+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155228,
+      "newest_id": 155231,
       "gap_detected": false,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
-      "last_success": "2026-11-18T05:02:05.384681+00:00"
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "last_success": "2026-11-18T06:06:14.679265+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64814,
+      "newest_id": 64816,
       "gap_detected": false,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
-      "last_success": "2026-11-18T05:02:05.384681+00:00"
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "last_success": "2026-11-18T06:06:14.679265+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9686,8 +9686,8 @@
       "pages": 1,
       "newest_id": 13630,
       "gap_detected": false,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
-      "last_success": "2026-11-18T05:02:05.384681+00:00"
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
+      "last_success": "2026-11-18T06:06:14.679265+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,202 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-18T05:02:05.384681+00:00",
+      "checked_at": "2026-11-18T06:06:14.679265+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-18",
-    "requests_today": 3,
+    "requests_today": 4,
     "cooldown_until": null,
-    "last_success": "2026-11-18T05:02:05.384681+00:00",
-    "last_attempt": "2026-11-18T05:02:05.384681+00:00",
+    "last_success": "2026-11-18T06:06:14.679265+00:00",
+    "last_attempt": "2026-11-18T06:06:14.679265+00:00",
     "last_error": null,
-    "pending": 4,
+    "pending": 2,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 112939,
+      "posted_at": "2026-11-18T06:04:53+00:00",
+      "excerpt": "do not buy any defense stocks at the moment let it come down",
+      "has_media": false,
+      "version": "fabd1481689574a2",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64816,
+      "posted_at": "2026-11-18T05:59:29+00:00",
+      "excerpt": "SEBI CHAIRMAN TUHIN KANTA PANDEY AT NSE & WFE EVENTSAYS India Has 150 Mn Securities Market Investors Investor Base Growing At 20% CAGR Since FY19 Expect 380 Mn Investors In Securities Market Over 5 Years Growing Investor Base Warrants Greater Risk Vigilance SEBI Awareness Campaign Gained Millions Of Views Launched Sebi Awareness Campaign To Encourage, Inform Investors Exchanges And Depositories Working To Strengthen Investor Awareness",
+      "has_media": false,
+      "version": "dd1714e4d0b31f13",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112938,
+      "posted_at": "2026-11-18T05:58:04+00:00",
+      "excerpt": "NYKAA LOOKING GOOD BIG BREAK OUT",
+      "has_media": false,
+      "version": "b2f9b920d20034a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64815,
+      "posted_at": "2026-11-18T05:52:16+00:00",
+      "excerpt": "Company Name :: Syncom formulation(india) ltd ⭐ Syncom Formulations is a global generic pharma company with 400+ registered products across 15+ countries. Note :: This Analysis is shared only for educational purposes.No buy sell recommendation just shared…",
+      "has_media": false,
+      "version": "6a592110590cc8ef",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "Syncom formulation(india) ltd",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155231,
+      "posted_at": "2026-11-18T05:35:35+00:00",
+      "excerpt": "Sensex Sensex 82000.pe 330 support 200 view 430 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "e193e87c9d162332",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155230,
+      "posted_at": "2026-11-18T05:28:19+00:00",
+      "excerpt": "Selling pressure in market",
+      "has_media": false,
+      "version": "a40a35a6278b6e7f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137162,
+      "posted_at": "2026-11-18T05:26:06+00:00",
+      "excerpt": "POSITIONAL TRADE TATA CONSUMER Looks Good ABOVE 1118 SL 1108 Targets  5-10-15-20 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "04c44d7bbdab99be",
+      "category": "watch",
+      "symbol_candidate": "CONSUMER",
+      "stop_loss": 1108.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "TATA CONSUMER",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1108.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155229,
+      "posted_at": "2026-11-18T05:21:02+00:00",
+      "excerpt": "Midco 14200 pe 160-170 support 70 view 240 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "c97056460ff9d37f",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112937,
+      "posted_at": "2026-11-18T05:18:27+00:00",
+      "excerpt": "wont be surprised to see some textile stocks doubling from here post EU / brazil / CANADA = FTA AGREEMENT COMES IN PLAY",
+      "has_media": false,
+      "version": "4275bc75ebb804d3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137159,
+      "posted_at": "2026-11-18T05:15:07+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112936,
+      "posted_at": "2026-11-18T05:06:22+00:00",
+      "excerpt": "just like metals you may see melt down in capital market stocks like Angel One, BSE, NSE , CDSL , NSDL etc",
+      "has_media": false,
+      "version": "4ea13d972bb1f701",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137158,
+      "posted_at": "2026-11-18T05:03:05+00:00",
+      "excerpt": "POSITIONAL TRADE SBIN Looks Good ABOVE 998 SL 985 Targets  5-10-15-20-25+30 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": true,
+      "version": "4d76ea9f564d93ad",
+      "category": "watch",
+      "symbol_candidate": "SBIN",
+      "stop_loss": 985.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-18T06:06:14.679265+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "SBIN",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 985.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
+    },
     {
       "channel": "Equiideas",
       "message_id": 112935,
@@ -9942,7 +10122,18 @@
       "entry_as_posted": 190.45,
       "first_target": 200.0,
       "stop_loss": 185.0,
-      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "call",
+        "side": "BUY",
+        "stock_text": "GAIL",
+        "entry_as_posted": 190.45,
+        "first_target": 200.0,
+        "stop_loss": 185.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -9966,7 +10157,18 @@
       "symbol_candidate": "GREAVESCOT",
       "stop_loss": 180.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "GREAVES COTTON",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 180.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9979,7 +10181,18 @@
       "symbol_candidate": "PACEDIGITK",
       "stop_loss": 160.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "PACE DIGITECH",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 160.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10034,7 +10247,18 @@
       "version": "e668c3e801c3e166",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-18T05:02:05.384681+00:00"
+      "observed_at": "2026-11-18T05:02:05.384681+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Ather energy",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-18T06:06:14.679265+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
