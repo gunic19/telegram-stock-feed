@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T17:08:31.518653+00:00",
+  "updated_at": "2026-11-19T18:10:53.144241+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9636,8 +9636,8 @@
       "pages": 1,
       "newest_id": 137252,
       "gap_detected": false,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
-      "last_success": "2026-11-19T17:08:31.518653+00:00"
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
+      "last_success": "2026-11-19T18:10:53.144241+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9645,8 +9645,8 @@
       "pages": 1,
       "newest_id": 18546,
       "gap_detected": false,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
-      "last_success": "2026-11-19T17:08:31.518653+00:00"
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
+      "last_success": "2026-11-19T18:10:53.144241+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9654,26 +9654,26 @@
       "pages": 1,
       "newest_id": 44536,
       "gap_detected": false,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
-      "last_success": "2026-11-19T17:08:31.518653+00:00"
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
+      "last_success": "2026-11-19T18:10:53.144241+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113000,
+      "newest_id": 113002,
       "gap_detected": false,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
-      "last_success": "2026-11-19T17:08:31.518653+00:00"
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
+      "last_success": "2026-11-19T18:10:53.144241+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155282,
+      "newest_id": 155283,
       "gap_detected": false,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
-      "last_success": "2026-11-19T17:08:31.518653+00:00"
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
+      "last_success": "2026-11-19T18:10:53.144241+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9681,8 +9681,8 @@
       "pages": 1,
       "newest_id": 64856,
       "gap_detected": false,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
-      "last_success": "2026-11-19T17:08:31.518653+00:00"
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
+      "last_success": "2026-11-19T18:10:53.144241+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9690,8 +9690,8 @@
       "pages": 1,
       "newest_id": 13649,
       "gap_detected": false,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
-      "last_success": "2026-11-19T17:08:31.518653+00:00"
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
+      "last_success": "2026-11-19T18:10:53.144241+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,22 +9699,66 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "checked_at": "2026-11-19T18:10:53.144241+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 13,
-    "cooldown_until": "2026-11-19T18:08:31.518653+00:00",
-    "last_success": "2026-11-19T14:06:04.629564+00:00",
-    "last_attempt": "2026-11-19T17:08:31.518653+00:00",
-    "last_error": "HTTP 503",
-    "pending": 1,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "requests_today": 14,
+    "cooldown_until": null,
+    "last_success": "2026-11-19T18:10:53.144241+00:00",
+    "last_attempt": "2026-11-19T18:10:53.144241+00:00",
+    "last_error": null,
+    "pending": 0,
+    "status": "ok",
+    "message": "AI processed 2/2 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155283,
+      "posted_at": "2026-11-19T17:27:04+00:00",
+      "excerpt": "Stock Gainers (SEBI REGISTERED) ⭐️ Live Analysis of 19th NOV 1. OPTION ANALYSIS VOLTAS 1180CE 18 TO 30 🔥 MIDCP 14100CE 125 TO 160+ 🔥 BAJAJAUTO 1080CE 114 TO 129 🔥 MARUTI 14000CE 40 TO made high 45.85 🔥 PAYTM 1700CE 33 TO 65+ 🔥 HAVELLS 1160CE 40 TO 40 ➖ MCX 3600CE 48 TO made high 70 🔥 KALYAN JEWELLERS 680CE 4 TO 4.45 BNF 6300CE 350 TO made high 484 🔥 2.STOCK FUTURE & EQUITY CASH ANALYSIS SMT 542 TO 539 Note: Those who are tracking our Live Analysis please read our disclaimer Focus On the Right Analysis FOR PRIME  MEMBERSHIP PING @SG005 ✔️",
+      "has_media": false,
+      "version": "24ee29ef57b59fa9",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T18:10:53.144241+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113002,
+      "posted_at": "2026-11-19T17:26:42+00:00",
+      "excerpt": "Sell on Rise in gold and silver",
+      "has_media": false,
+      "version": "4572f6512bfa1dd7",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T18:10:53.144241+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "gold and silver",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T18:10:53.144241+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113001,
+      "posted_at": "2026-11-19T17:25:34+00:00",
+      "excerpt": "Selling continues in Gold and Silver",
+      "has_media": false,
+      "version": "c68cf158017f81fe",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T18:10:53.144241+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64856,
@@ -9823,7 +9867,18 @@
       "version": "66fce604f2d5a682",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-19T15:00:37.521550+00:00"
+      "observed_at": "2026-11-19T15:00:37.521550+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T18:10:53.144241+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
