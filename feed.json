@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T11:42:34.091313+00:00",
+  "updated_at": "2026-11-19T12:49:21.671517+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-18T16:00:36.009736+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137241,
+      "newest_id": 137243,
       "gap_detected": false,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
-      "last_success": "2026-11-19T11:42:34.091313+00:00"
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "last_success": "2026-11-19T12:49:21.671517+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18546,
       "gap_detected": false,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
-      "last_success": "2026-11-19T11:42:34.091313+00:00"
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "last_success": "2026-11-19T12:49:21.671517+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,8 +9650,8 @@
       "pages": 1,
       "newest_id": 44536,
       "gap_detected": false,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
-      "last_success": "2026-11-19T11:42:34.091313+00:00"
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "last_success": "2026-11-19T12:49:21.671517+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9659,8 +9659,8 @@
       "pages": 1,
       "newest_id": 112992,
       "gap_detected": false,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
-      "last_success": "2026-11-19T11:42:34.091313+00:00"
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "last_success": "2026-11-19T12:49:21.671517+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9668,26 +9668,26 @@
       "pages": 1,
       "newest_id": 155281,
       "gap_detected": false,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
-      "last_success": "2026-11-19T11:42:34.091313+00:00"
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "last_success": "2026-11-19T12:49:21.671517+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64853,
+      "newest_id": 64854,
       "gap_detected": false,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
-      "last_success": "2026-11-19T11:42:34.091313+00:00"
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "last_success": "2026-11-19T12:49:21.671517+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13644,
+      "newest_id": 13646,
       "gap_detected": false,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
-      "last_success": "2026-11-19T11:42:34.091313+00:00"
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "last_success": "2026-11-19T12:49:21.671517+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,55 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "checked_at": "2026-11-19T12:49:21.671517+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 9,
-    "cooldown_until": null,
+    "requests_today": 10,
+    "cooldown_until": "2026-11-19T13:49:21.671517+00:00",
     "last_success": "2026-11-19T11:42:34.091313+00:00",
-    "last_attempt": "2026-11-19T11:42:34.091313+00:00",
-    "last_error": null,
-    "pending": 0,
-    "status": "ok",
-    "message": "AI processed 7/7 shortlisted posts; outputs unverified."
+    "last_attempt": "2026-11-19T12:49:21.671517+00:00",
+    "last_error": "HTTP 503",
+    "pending": 1,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64854,
+      "posted_at": "2026-11-19T12:43:47+00:00",
+      "excerpt": "If FII complete 1 lakh cr buying & NIFTY also hits high Today BN at lifetime high 🔥 These retailers will buy microcap & Small midcap stocks in FOMO at all breakout to chase high. If war don't restart it will happen in next 2 week",
+      "has_media": false,
+      "version": "ce081625a46c03ab",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T12:49:21.671517+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13646,
+      "posted_at": "2026-11-19T12:06:38+00:00",
+      "excerpt": "Armee Infotech Ltd – INR 1,629.03 CR SOLAR POWER PROJECT MOU Armee Infotech Ltd has signed a Memorandum of Understanding (MoU) with the Maharashtra State Electricity Distribution Company Limited (MSEDCL) for a 135 MW solar power project in Maharashtra, with an aggregate order value of INR 1,629.03 Cr: - The project will be executed by ArMee MH ONE Renewable Energy Private Limited, a wholly owned subsidiary of the company. - The agreement involves a 25-year Power Purchase Agreement (PPA) with MSEDCL to set up the 135 MW plant and supply power to the utility. - This development marks a significant expansion of the company's renewable energy business alongside its existing IT infrastructure and",
+      "has_media": false,
+      "version": "8643dc3a2419fecd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T12:49:21.671517+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13645,
+      "posted_at": "2026-11-19T12:04:57+00:00",
+      "excerpt": "BDL INDIA AND JAPAN ARE EXPECTED TO FINALISE AN ARRANGEMENT TODAY ALLOWING JAPANESE FORCES TO USE INDIAN MISSILE TEST RANGES FOR TRIALS OF LONG-RANGE WEAPONS, DEEPENING THEIR DEFENCE COOPERATION.",
+      "has_media": false,
+      "version": "a92ccfa2ae6f5d0f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T12:49:21.671517+00:00"
+    },
     {
       "channel": "motilaloswalofficial",
       "message_id": 18546,
