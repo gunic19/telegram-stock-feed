@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T06:21:47.403513+00:00",
+  "updated_at": "2026-11-19T07:46:34.858173+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-18T16:00:36.009736+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137229,
+      "newest_id": 137232,
       "gap_detected": false,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
-      "last_success": "2026-11-19T06:21:47.403513+00:00"
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
+      "last_success": "2026-11-19T07:46:34.858173+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,44 +9641,44 @@
       "pages": 1,
       "newest_id": 18539,
       "gap_detected": false,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
-      "last_success": "2026-11-19T06:21:47.403513+00:00"
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
+      "last_success": "2026-11-19T07:46:34.858173+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44532,
+      "newest_id": 44533,
       "gap_detected": false,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
-      "last_success": "2026-11-19T06:21:47.403513+00:00"
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
+      "last_success": "2026-11-19T07:46:34.858173+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112981,
+      "newest_id": 112986,
       "gap_detected": false,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
-      "last_success": "2026-11-19T06:21:47.403513+00:00"
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
+      "last_success": "2026-11-19T07:46:34.858173+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155254,
+      "newest_id": 155265,
       "gap_detected": false,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
-      "last_success": "2026-11-19T06:21:47.403513+00:00"
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
+      "last_success": "2026-11-19T07:46:34.858173+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64846,
+      "newest_id": 64847,
       "gap_detected": false,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
-      "last_success": "2026-11-19T06:21:47.403513+00:00"
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
+      "last_success": "2026-11-19T07:46:34.858173+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9686,8 +9686,8 @@
       "pages": 1,
       "newest_id": 13639,
       "gap_detected": false,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
-      "last_success": "2026-11-19T06:21:47.403513+00:00"
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
+      "last_success": "2026-11-19T07:46:34.858173+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,259 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T06:21:47.403513+00:00",
+      "checked_at": "2026-11-19T07:46:34.858173+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 4,
+    "requests_today": 5,
     "cooldown_until": null,
-    "last_success": "2026-11-19T06:21:47.403513+00:00",
-    "last_attempt": "2026-11-19T06:21:47.403513+00:00",
+    "last_success": "2026-11-19T07:46:34.858173+00:00",
+    "last_attempt": "2026-11-19T07:46:34.858173+00:00",
     "last_error": null,
     "pending": 21,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155265,
+      "posted_at": "2026-11-19T07:33:47+00:00",
+      "excerpt": "OPTION BUYING REVERSAL PAYTM 1700CE CMP 33-34 Support 24 For 44-54",
+      "has_media": false,
+      "version": "c58ea54c1cec2503",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155264,
+      "posted_at": "2026-11-19T07:33:04+00:00",
+      "excerpt": "Equity Pick LOW RISK SMT CMP 542 Support 535 For 570-600+",
+      "has_media": false,
+      "version": "4fd2f7b1d7b352a6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137232,
+      "posted_at": "2026-11-19T07:30:38+00:00",
+      "excerpt": "POSITIONAL TRADE RAYMOND LTD Looks Good ABOVE 1195 SL 1100 Targets  1250-1300-1350-1400 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with…",
+      "has_media": false,
+      "version": "29563357b5279669",
+      "category": "watch",
+      "symbol_candidate": "LTD",
+      "stop_loss": 1100.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112986,
+      "posted_at": "2026-11-19T07:30:07+00:00",
+      "excerpt": "dmart after great consolidation breaking out now",
+      "has_media": true,
+      "version": "b236919a603e4e5b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137231,
+      "posted_at": "2026-11-19T07:26:45+00:00",
+      "excerpt": "POSITIONAL TRADE TATA CONSUMER Looks Good ABOVE 1118 SL 1108 Targets  5-10-15-20 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "eeb52aaf6db93346",
+      "category": "watch",
+      "symbol_candidate": "CONSUMER",
+      "stop_loss": 1108.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155263,
+      "posted_at": "2026-11-19T07:23:32+00:00",
+      "excerpt": "HERO ZERO KALYAN JEWELLERS 680CE CMP 4 Support 1 For 8+++",
+      "has_media": false,
+      "version": "1626ba8c29a5cb68",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137230,
+      "posted_at": "2026-11-19T07:17:49+00:00",
+      "excerpt": "POSITIONAL TRADE HAVELLS Looks Good ABOVE 1170 SL 1160 Targets  5-10-15-20 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": true,
+      "version": "b79f5cd73b3debf1",
+      "category": "watch",
+      "symbol_candidate": "HAVELLS",
+      "stop_loss": 1160.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155262,
+      "posted_at": "2026-11-19T07:11:22+00:00",
+      "excerpt": "COLPAL COLPAL CASH ABOVE 1780 SUPPORT 1740 VIEW 1830 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "5fa824c0e5c019cd",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44533,
+      "posted_at": "2026-11-19T07:07:54+00:00",
+      "excerpt": "🚀 PHYSICSWALLAH JUMPS 3% 📅 19 November 2026 🎯 BIG FY30 TARGET 🔹 Revenue Target: ₹9,000–10,000 Cr 🔹 FY26 Revenue: ₹3,900 Cr 🔹 Revenue Growth Target: 25%+ CAGR 🔹 Target EBITDA Margin: 20%+ 📊 Q2 FY27 PERFORMANCE ✅ Net Profit: ₹144 Cr – More than 2x growth ✅ Revenue: ₹1,242 Cr – 18% YoY growth 📌 Company का focus online-offline expansion और profitability improvement पर रहेगा. Source: Economic Times",
+      "has_media": false,
+      "version": "62cc4822880ebdf9",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155261,
+      "posted_at": "2026-11-19T06:56:28+00:00",
+      "excerpt": "OPTION BUYING REVERSAL PAYTM 1700CE CMP 33-34 Support 24 For 44-54",
+      "has_media": false,
+      "version": "c58ea54c1cec2503",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155260,
+      "posted_at": "2026-11-19T06:50:44+00:00",
+      "excerpt": "EXPIRY OPTION MCX 3600CE CMP 48-50 Support 10 For 100+",
+      "has_media": false,
+      "version": "f28a20c731e08f91",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155259,
+      "posted_at": "2026-11-19T06:50:32+00:00",
+      "excerpt": "Havells Havells 1160 ce 40 support 27 view 55 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "cf77f5877dcd1188",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155258,
+      "posted_at": "2026-11-19T06:49:49+00:00",
+      "excerpt": "BTST OPTION BUYING. SYRMA TECH 1400CE CMP 68-70 Support 50 For 90+",
+      "has_media": false,
+      "version": "e3c15a83471bab5f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155257,
+      "posted_at": "2026-11-19T06:48:21+00:00",
+      "excerpt": "OPTION BUYING REVERSAL PAYTM 1700CE CMP 33-34 Support 24 For 44-54",
+      "has_media": false,
+      "version": "c58ea54c1cec2503",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112985,
+      "posted_at": "2026-11-19T06:44:12+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112984,
+      "posted_at": "2026-11-19T06:42:48+00:00",
+      "excerpt": "sterlite technology below 600 can open doors for 580/540/500 .... retailers who entered at higher levels are trapped .. now almost 40% loss",
+      "has_media": false,
+      "version": "e9c1835c112131e7",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155256,
+      "posted_at": "2026-11-19T06:38:24+00:00",
+      "excerpt": "Bajaj auto 10800 ce 114-116 support 70 view 170 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "2d5f12450fea6ada",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64847,
+      "posted_at": "2026-11-19T06:37:36+00:00",
+      "excerpt": "Keep eyes on Gabriel india 2% up 👀",
+      "has_media": false,
+      "version": "4b52d6e6b1a8ee62",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112983,
+      "posted_at": "2026-11-19T06:36:53+00:00",
+      "excerpt": "imagine a chairman of the company giving out wrong numbers ?? are they joking or sleeping ?",
+      "has_media": false,
+      "version": "0be94f7386738672",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112982,
+      "posted_at": "2026-11-19T06:36:28+00:00",
+      "excerpt": "SCAM ?",
+      "has_media": true,
+      "version": "c4bcf3b01b8f338f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155255,
+      "posted_at": "2026-11-19T06:24:46+00:00",
+      "excerpt": "Maruti Maruti 14000 ce 40 support 8 view 78 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "c913c1304bd4b955",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155254,
@@ -9720,7 +9957,18 @@
       "version": "2d5f12450fea6ada",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Bajaj auto",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -9764,7 +10012,18 @@
       "version": "c78f868cdd0b002a",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "MAHINDRA & MAHINDRA LTD",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9898,7 +10157,18 @@
       "symbol_candidate": "J&KBANK",
       "stop_loss": 138.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "JK BANK",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 138.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9911,7 +10181,18 @@
       "symbol_candidate": "J&KBANK",
       "stop_loss": 138.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "JK BANK",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 138.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9946,7 +10227,18 @@
       "symbol_candidate": "SGS",
       "stop_loss": 1490.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "SURMA SGS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1490.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9959,7 +10251,18 @@
       "symbol_candidate": "HAVELLS",
       "stop_loss": 1160.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "HAVELLS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1160.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10524,7 +10827,18 @@
       "version": "cb0a6f03d3637159",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T05:07:37.142799+00:00"
+      "observed_at": "2026-11-19T05:07:37.142799+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "VOLTAS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10662,7 +10976,18 @@
       "version": "8d10d64fd157e2c9",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-19T05:07:37.142799+00:00"
+      "observed_at": "2026-11-19T05:07:37.142799+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T07:46:34.858173+00:00"
+      }
     },
     {
       "channel": "Equiideas",
