@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T12:49:21.671517+00:00",
+  "updated_at": "2026-11-19T14:06:04.629564+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-18T16:00:36.009736+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137243,
+      "newest_id": 137246,
       "gap_detected": false,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
-      "last_success": "2026-11-19T12:49:21.671517+00:00"
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
+      "last_success": "2026-11-19T14:06:04.629564+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9641,8 @@
       "pages": 1,
       "newest_id": 18546,
       "gap_detected": false,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
-      "last_success": "2026-11-19T12:49:21.671517+00:00"
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
+      "last_success": "2026-11-19T14:06:04.629564+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,8 +9650,8 @@
       "pages": 1,
       "newest_id": 44536,
       "gap_detected": false,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
-      "last_success": "2026-11-19T12:49:21.671517+00:00"
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
+      "last_success": "2026-11-19T14:06:04.629564+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9659,8 +9659,8 @@
       "pages": 1,
       "newest_id": 112992,
       "gap_detected": false,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
-      "last_success": "2026-11-19T12:49:21.671517+00:00"
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
+      "last_success": "2026-11-19T14:06:04.629564+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9668,8 +9668,8 @@
       "pages": 1,
       "newest_id": 155281,
       "gap_detected": false,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
-      "last_success": "2026-11-19T12:49:21.671517+00:00"
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
+      "last_success": "2026-11-19T14:06:04.629564+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9677,17 +9677,17 @@
       "pages": 1,
       "newest_id": 64854,
       "gap_detected": false,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
-      "last_success": "2026-11-19T12:49:21.671517+00:00"
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
+      "last_success": "2026-11-19T14:06:04.629564+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13646,
+      "newest_id": 13648,
       "gap_detected": false,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
-      "last_success": "2026-11-19T12:49:21.671517+00:00"
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
+      "last_success": "2026-11-19T14:06:04.629564+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,88 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T12:49:21.671517+00:00",
+      "checked_at": "2026-11-19T14:06:04.629564+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 10,
-    "cooldown_until": "2026-11-19T13:49:21.671517+00:00",
-    "last_success": "2026-11-19T11:42:34.091313+00:00",
-    "last_attempt": "2026-11-19T12:49:21.671517+00:00",
-    "last_error": "HTTP 503",
-    "pending": 1,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "requests_today": 11,
+    "cooldown_until": null,
+    "last_success": "2026-11-19T14:06:04.629564+00:00",
+    "last_attempt": "2026-11-19T14:06:04.629564+00:00",
+    "last_error": null,
+    "pending": 0,
+    "status": "ok",
+    "message": "AI processed 3/3 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137246,
+      "posted_at": "2026-11-19T13:33:52+00:00",
+      "excerpt": "🔥 Today's Informative Youtube Video Out- PLZ WATCH IT 🔥 ✅ StockPro | Reading Charts Through My Lens 🔍 | Price Action Lesson [link]",
+      "has_media": false,
+      "version": "66fce604f2d5a682",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-19T14:06:04.629564+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T14:06:04.629564+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13648,
+      "posted_at": "2026-11-19T13:14:25+00:00",
+      "excerpt": "FIIs Cross Rs 1lk Crore Cash Market Buying Since Nov 30!",
+      "has_media": false,
+      "version": "b273cea1c9616210",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T14:06:04.629564+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13647,
+      "posted_at": "2026-11-19T13:14:16+00:00",
+      "excerpt": "📊 FII DII ACTIVITY – 19 NOV 2026 🔴 DII NET SELL: ₹1,356.57 Cr 🟢 FII/FPI NET BUY: ₹7,411.41 Cr 🟢 TOTAL NET BUY: ₹6,054.84 Cr",
+      "has_media": false,
+      "version": "a5390049c7f71f0d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T14:06:04.629564+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T14:06:04.629564+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137244,
+      "posted_at": "2026-11-19T13:01:31+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-19T14:06:04.629564+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64854,
@@ -9720,7 +9786,18 @@
       "version": "ce081625a46c03ab",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T12:49:21.671517+00:00"
+      "observed_at": "2026-11-19T12:49:21.671517+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T14:06:04.629564+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
