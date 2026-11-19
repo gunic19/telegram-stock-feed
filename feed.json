@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T16:00:32.973341+00:00",
+  "updated_at": "2026-11-19T17:08:31.518653+00:00",
   "catalog": {
     "state": "ok",
-    "fetched_at": "2026-11-18T16:00:36.009736+00:00",
+    "fetched_at": "2026-11-19T17:08:31.518653+00:00",
     "source": "NSE EQUITY_L.csv EQ series",
     "stocks": [
       {
@@ -2555,6 +2555,10 @@
         "name": "Enkei Wheels (India) Limited"
       },
       {
+        "sym": "ENNATURE",
+        "name": "Ennature Bio Pharma Limited"
+      },
+      {
         "sym": "ENRIN",
         "name": "Siemens Energy India Limited"
       },
@@ -2769,10 +2773,6 @@
       {
         "sym": "FLAIR",
         "name": "Flair Writing Industries Limited"
-      },
-      {
-        "sym": "FLEXITUFF",
-        "name": "Flexituff Ventures International Limited"
       },
       {
         "sym": "FLUOROCHEM",
@@ -3757,6 +3757,10 @@
       {
         "sym": "IGL",
         "name": "Indraprastha Gas Limited"
+      },
+      {
+        "sym": "IGLSPIRITS",
+        "name": "IGL Spirits Limited"
       },
       {
         "sym": "IGPL",
@@ -9632,8 +9636,8 @@
       "pages": 1,
       "newest_id": 137252,
       "gap_detected": false,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
-      "last_success": "2026-11-19T16:00:32.973341+00:00"
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "last_success": "2026-11-19T17:08:31.518653+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,8 +9645,8 @@
       "pages": 1,
       "newest_id": 18546,
       "gap_detected": false,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
-      "last_success": "2026-11-19T16:00:32.973341+00:00"
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "last_success": "2026-11-19T17:08:31.518653+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,35 +9654,35 @@
       "pages": 1,
       "newest_id": 44536,
       "gap_detected": false,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
-      "last_success": "2026-11-19T16:00:32.973341+00:00"
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "last_success": "2026-11-19T17:08:31.518653+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112995,
+      "newest_id": 113000,
       "gap_detected": false,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
-      "last_success": "2026-11-19T16:00:32.973341+00:00"
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "last_success": "2026-11-19T17:08:31.518653+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155281,
+      "newest_id": 155282,
       "gap_detected": false,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
-      "last_success": "2026-11-19T16:00:32.973341+00:00"
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "last_success": "2026-11-19T17:08:31.518653+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64855,
+      "newest_id": 64856,
       "gap_detected": false,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
-      "last_success": "2026-11-19T16:00:32.973341+00:00"
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "last_success": "2026-11-19T17:08:31.518653+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9686,8 +9690,8 @@
       "pages": 1,
       "newest_id": 13649,
       "gap_detected": false,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
-      "last_success": "2026-11-19T16:00:32.973341+00:00"
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
+      "last_success": "2026-11-19T17:08:31.518653+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9699,99 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T16:00:32.973341+00:00",
+      "checked_at": "2026-11-19T17:08:31.518653+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 12,
-    "cooldown_until": "2026-11-19T16:00:37.521550+00:00",
+    "requests_today": 13,
+    "cooldown_until": "2026-11-19T18:08:31.518653+00:00",
     "last_success": "2026-11-19T14:06:04.629564+00:00",
-    "last_attempt": "2026-11-19T15:00:37.521550+00:00",
+    "last_attempt": "2026-11-19T17:08:31.518653+00:00",
     "last_error": "HTTP 503",
     "pending": 1,
-    "status": "cooldown",
-    "message": "AI paused until 2026-11-19T16:00:37.521550+00:00; last error: HTTP 503. Rules remain available."
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64856,
+      "posted_at": "2026-11-19T17:02:14+00:00",
+      "excerpt": "BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 IPO price. This officially pushes the company's market cap above $2 trillion, making it the 6th most valuable public company in the world. Strong debut of Anthropic 😍 😍 but nasdaq is still Red",
+      "has_media": false,
+      "version": "29220da505bef4d4",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T17:08:31.518653+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155282,
+      "posted_at": "2026-11-19T16:59:59+00:00",
+      "excerpt": "OPTION BUYING GROUP After getting trapped in BTST, made an excellent recovery through INTRADAY trading 🔥 BTST PAYTM 1880CE 33 to 10 ❌ COFORGE 2000CE 57 to 45 ❌ INTRADAY Voltas 1160CE 32 to 40 🔥 🔥 TVS MOTORS 4500CE 77 to 100 🔥 🔥 Bajaj Auto 10600CE 220 to 260 🔥 🔥 🔥 UPL 560CE 15.5 to 18 🔥 🔥 MCX 3600CE 43 to 70 🔥 🔥 🔥 SX 82000CE 530 to 700 🔥 🔥 SX 81800CE 880 to 980 🔥 🔥 Nifty 25300CE 306 to 350 🔥 🔥 BN 62800CE 470 to 520 🔥 🔥 25400CE 177 to 210 🔥 🔥 Havells 1180CE Nil",
+      "has_media": false,
+      "version": "ebd573cb88355832",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T17:08:31.518653+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113000,
+      "posted_at": "2026-11-19T16:38:30+00:00",
+      "excerpt": "Anthropic allotment out and listed $ 83 issue price list at $ 108",
+      "has_media": false,
+      "version": "ab78443369c9366a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T17:08:31.518653+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112999,
+      "posted_at": "2026-11-19T16:38:04+00:00",
+      "excerpt": "Now Moneycontrol reporting 😁",
+      "has_media": false,
+      "version": "cbcb3c65a16bf516",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T17:08:31.518653+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112998,
+      "posted_at": "2026-11-19T16:37:53+00:00",
+      "excerpt": "Anthropic IPO: Shares indicated to list 30% higher at $108 as Nasdaq trading debut awaited [link]",
+      "has_media": false,
+      "version": "6598a65c27008e1d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T17:08:31.518653+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112997,
+      "posted_at": "2026-11-19T16:23:38+00:00",
+      "excerpt": "Anthropic allotment out and listed $ 83 issue price list at $ 108",
+      "has_media": false,
+      "version": "ab78443369c9366a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T17:08:31.518653+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112996,
+      "posted_at": "2026-11-19T16:20:31+00:00",
+      "excerpt": "Anthropic allotment out and listed $ 83 issue price list at $ 108",
+      "has_media": false,
+      "version": "ab78443369c9366a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T17:08:31.518653+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137251,
