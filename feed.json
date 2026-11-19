@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T10:44:34.119138+00:00",
+  "updated_at": "2026-11-19T11:42:34.091313+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-18T16:00:36.009736+00:00",
@@ -9630,19 +9630,19 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137239,
+      "newest_id": 137241,
       "gap_detected": false,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
-      "last_success": "2026-11-19T10:44:34.119138+00:00"
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "last_success": "2026-11-19T11:42:34.091313+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18545,
+      "newest_id": 18546,
       "gap_detected": false,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
-      "last_success": "2026-11-19T10:44:34.119138+00:00"
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "last_success": "2026-11-19T11:42:34.091313+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9650,8 +9650,8 @@
       "pages": 1,
       "newest_id": 44536,
       "gap_detected": false,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
-      "last_success": "2026-11-19T10:44:34.119138+00:00"
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "last_success": "2026-11-19T11:42:34.091313+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9659,8 +9659,8 @@
       "pages": 1,
       "newest_id": 112992,
       "gap_detected": false,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
-      "last_success": "2026-11-19T10:44:34.119138+00:00"
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "last_success": "2026-11-19T11:42:34.091313+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9668,8 +9668,8 @@
       "pages": 1,
       "newest_id": 155281,
       "gap_detected": false,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
-      "last_success": "2026-11-19T10:44:34.119138+00:00"
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "last_success": "2026-11-19T11:42:34.091313+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9677,17 +9677,17 @@
       "pages": 1,
       "newest_id": 64853,
       "gap_detected": false,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
-      "last_success": "2026-11-19T10:44:34.119138+00:00"
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "last_success": "2026-11-19T11:42:34.091313+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13642,
+      "newest_id": 13644,
       "gap_detected": false,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
-      "last_success": "2026-11-19T10:44:34.119138+00:00"
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
+      "last_success": "2026-11-19T11:42:34.091313+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,55 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "checked_at": "2026-11-19T11:42:34.091313+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 8,
+    "requests_today": 9,
     "cooldown_until": null,
-    "last_success": "2026-11-19T10:44:34.119138+00:00",
-    "last_attempt": "2026-11-19T10:44:34.119138+00:00",
+    "last_success": "2026-11-19T11:42:34.091313+00:00",
+    "last_attempt": "2026-11-19T11:42:34.091313+00:00",
     "last_error": null,
-    "pending": 7,
+    "pending": 0,
     "status": "ok",
-    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
+    "message": "AI processed 7/7 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18546,
+      "posted_at": "2026-11-19T11:20:22+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-19T11:42:34.091313+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13644,
+      "posted_at": "2026-11-19T10:56:53+00:00",
+      "excerpt": "** #AD ** My friend Free Premium Telegram Community Free Sawing Set-up Free Intraday Set-up Market updates Ipo Updates Joining link [link]",
+      "has_media": false,
+      "version": "da282d678646d6a2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T11:42:34.091313+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137240,
+      "posted_at": "2026-11-19T10:52:10+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-19T11:42:34.091313+00:00"
+    },
     {
       "channel": "stockmarketadviser91",
       "message_id": 13642,
@@ -9797,7 +9830,18 @@
       "version": "f297eee79e92b189",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-19T09:47:17.959522+00:00"
+      "observed_at": "2026-11-19T09:47:17.959522+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "Nvidia",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T11:42:34.091313+00:00"
+      }
     },
     {
       "channel": "motilaloswalofficial",
@@ -9819,7 +9863,18 @@
       "version": "bea3ab812f1cc15b",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T09:47:17.959522+00:00"
+      "observed_at": "2026-11-19T09:47:17.959522+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T11:42:34.091313+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9841,7 +9896,18 @@
       "version": "b6bc4eb2b40e44de",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T09:47:17.959522+00:00"
+      "observed_at": "2026-11-19T09:47:17.959522+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "WOCKHARD",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T11:42:34.091313+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9920,7 +9986,18 @@
       "version": "f3dc6121a7e87090",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T09:47:17.959522+00:00"
+      "observed_at": "2026-11-19T09:47:17.959522+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Bnf",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T11:42:34.091313+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9964,7 +10041,18 @@
       "version": "f3dc6121a7e87090",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T09:47:17.959522+00:00"
+      "observed_at": "2026-11-19T09:47:17.959522+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Bnf",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T11:42:34.091313+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9975,7 +10063,18 @@
       "version": "a3dd58f845aca9bf",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T08:48:04.289026+00:00"
+      "observed_at": "2026-11-19T08:48:04.289026+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T11:42:34.091313+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10008,7 +10107,18 @@
       "version": "cf77f5877dcd1188",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T08:48:04.289026+00:00"
+      "observed_at": "2026-11-19T08:48:04.289026+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Havells",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T11:42:34.091313+00:00"
+      }
     },
     {
       "channel": "Equiideas",
