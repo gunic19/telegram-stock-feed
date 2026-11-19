@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T09:47:17.959522+00:00",
+  "updated_at": "2026-11-19T10:44:34.119138+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-18T16:00:36.009736+00:00",
@@ -9632,8 +9632,8 @@
       "pages": 1,
       "newest_id": 137239,
       "gap_detected": false,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
-      "last_success": "2026-11-19T09:47:17.959522+00:00"
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "last_success": "2026-11-19T10:44:34.119138+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,17 +9641,17 @@
       "pages": 1,
       "newest_id": 18545,
       "gap_detected": false,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
-      "last_success": "2026-11-19T09:47:17.959522+00:00"
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "last_success": "2026-11-19T10:44:34.119138+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44535,
+      "newest_id": 44536,
       "gap_detected": false,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
-      "last_success": "2026-11-19T09:47:17.959522+00:00"
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "last_success": "2026-11-19T10:44:34.119138+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9659,8 +9659,8 @@
       "pages": 1,
       "newest_id": 112992,
       "gap_detected": false,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
-      "last_success": "2026-11-19T09:47:17.959522+00:00"
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "last_success": "2026-11-19T10:44:34.119138+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9668,8 +9668,8 @@
       "pages": 1,
       "newest_id": 155281,
       "gap_detected": false,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
-      "last_success": "2026-11-19T09:47:17.959522+00:00"
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "last_success": "2026-11-19T10:44:34.119138+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9677,17 +9677,17 @@
       "pages": 1,
       "newest_id": 64853,
       "gap_detected": false,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
-      "last_success": "2026-11-19T09:47:17.959522+00:00"
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "last_success": "2026-11-19T10:44:34.119138+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13639,
+      "newest_id": 13642,
       "gap_detected": false,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
-      "last_success": "2026-11-19T09:47:17.959522+00:00"
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
+      "last_success": "2026-11-19T10:44:34.119138+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,66 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T09:47:17.959522+00:00",
+      "checked_at": "2026-11-19T10:44:34.119138+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 7,
+    "requests_today": 8,
     "cooldown_until": null,
-    "last_success": "2026-11-19T09:47:17.959522+00:00",
-    "last_attempt": "2026-11-19T09:47:17.959522+00:00",
+    "last_success": "2026-11-19T10:44:34.119138+00:00",
+    "last_attempt": "2026-11-19T10:44:34.119138+00:00",
     "last_error": null,
-    "pending": 15,
+    "pending": 7,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13642,
+      "posted_at": "2026-11-19T10:37:33+00:00",
+      "excerpt": "Adani Energy Solutions Ltd – BIHAR TRANSMISSION PROJECT WIN Company wins transmission project for power evacuation in Bihar: - Project to evacuate 2,400 MW from upcoming Pirpainti Ultra Super Critical Thermal Power Plant - Expected annual tariff of ~INR 500 Cr once commissioned - Project adds 881 ckm of transmission lines and 3,160 MVA of transformation capacity - Implementation through SPV Vikramshila Power Transmission Ltd with completion by Q4 2028 - Project includes construction of four Gas Insulated Substations (GIS) at Jhanjharpur, Bethauli, and Begusarai - AESL transmission capex stands at ~INR 91500 Cr",
+      "has_media": false,
+      "version": "5ce1263b0bee4bf0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T10:44:34.119138+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13641,
+      "posted_at": "2026-11-19T10:36:58+00:00",
+      "excerpt": "Adani power 🚀",
+      "has_media": true,
+      "version": "7e376b2d6945d1fa",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T10:44:34.119138+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44536,
+      "posted_at": "2026-11-19T10:03:33+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-19T10:44:34.119138+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155281,
+      "posted_at": "2026-11-19T09:43:08+00:00",
+      "excerpt": "👉 👉 ALL time high BANKNIFTY 🔥 🚀 🚀 🚀 ENJOY THE MOVE 🔥 🚀 🚀 🚀",
+      "has_media": false,
+      "version": "1fbdc18dd89e455c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T10:44:34.119138+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155281,
@@ -10260,7 +10304,18 @@
       "version": "5fa824c0e5c019cd",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+      "observed_at": "2026-11-19T07:46:34.858173+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "COLPAL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10271,7 +10326,18 @@
       "version": "62cc4822880ebdf9",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+      "observed_at": "2026-11-19T07:46:34.858173+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "PHYSICSWALLAH",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10304,7 +10370,18 @@
       "version": "cf77f5877dcd1188",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+      "observed_at": "2026-11-19T07:46:34.858173+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Havells",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10359,7 +10436,18 @@
       "version": "2d5f12450fea6ada",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+      "observed_at": "2026-11-19T07:46:34.858173+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Bajaj auto",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10403,7 +10491,18 @@
       "version": "c913c1304bd4b955",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T07:46:34.858173+00:00"
+      "observed_at": "2026-11-19T07:46:34.858173+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Maruti",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10851,7 +10950,18 @@
       "version": "797eeffcb2a6c22d",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Midcp",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10884,7 +10994,18 @@
       "version": "7bfb4a28d2523ae3",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -10963,7 +11084,18 @@
       "version": "840a12b23098d6d8",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-19T06:21:47.403513+00:00"
+      "observed_at": "2026-11-19T06:21:47.403513+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "EICHER Motors",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 7600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T10:44:34.119138+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
