@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T02:55:19.324185+00:00",
+  "updated_at": "2026-11-19T03:58:59.208528+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-18T16:00:36.009736+00:00",
@@ -9630,10 +9630,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137192,
+      "newest_id": 137195,
       "gap_detected": false,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
-      "last_success": "2026-11-19T02:55:19.324185+00:00"
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
+      "last_success": "2026-11-19T03:58:59.208528+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9641,53 +9641,53 @@
       "pages": 1,
       "newest_id": 18537,
       "gap_detected": false,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
-      "last_success": "2026-11-19T02:55:19.324185+00:00"
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
+      "last_success": "2026-11-19T03:58:59.208528+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44521,
+      "newest_id": 44527,
       "gap_detected": false,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
-      "last_success": "2026-11-19T02:55:19.324185+00:00"
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
+      "last_success": "2026-11-19T03:58:59.208528+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 112964,
+      "newest_id": 112969,
       "gap_detected": false,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
-      "last_success": "2026-11-19T02:55:19.324185+00:00"
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
+      "last_success": "2026-11-19T03:58:59.208528+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155242,
+      "newest_id": 155244,
       "gap_detected": false,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
-      "last_success": "2026-11-19T02:55:19.324185+00:00"
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
+      "last_success": "2026-11-19T03:58:59.208528+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64827,
+      "newest_id": 64831,
       "gap_detected": false,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
-      "last_success": "2026-11-19T02:55:19.324185+00:00"
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
+      "last_success": "2026-11-19T03:58:59.208528+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13631,
+      "newest_id": 13635,
       "gap_detected": false,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
-      "last_success": "2026-11-19T02:55:19.324185+00:00"
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
+      "last_success": "2026-11-19T03:58:59.208528+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9695,22 +9695,330 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-19T02:55:19.324185+00:00",
+      "checked_at": "2026-11-19T03:58:59.208528+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-19",
-    "requests_today": 1,
+    "requests_today": 2,
     "cooldown_until": null,
-    "last_success": "2026-11-19T02:55:19.324185+00:00",
-    "last_attempt": "2026-11-19T02:55:19.324185+00:00",
+    "last_success": "2026-11-19T03:58:59.208528+00:00",
+    "last_attempt": "2026-11-19T03:58:59.208528+00:00",
     "last_error": null,
     "pending": 0,
     "status": "ok",
-    "message": "AI processed 3/3 shortlisted posts; outputs unverified."
+    "message": "AI processed 7/7 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155244,
+      "posted_at": "2026-11-19T03:57:02+00:00",
+      "excerpt": "VOLTAS VOLTAS 1180 CE 18-20 SUPPORT 10 VIEW 30 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "cb0a6f03d3637159",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "VOLTAS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T03:58:59.208528+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64831,
+      "posted_at": "2026-11-19T03:56:50+00:00",
+      "excerpt": "Nifty Auto & Defense is showing strength 👀",
+      "has_media": false,
+      "version": "7f84667ee52b618c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64830,
+      "posted_at": "2026-11-19T03:52:44+00:00",
+      "excerpt": "Rice stocks up Lt food 449 7% up KRBL 416 2% up Chaman lal setia 1% up",
+      "has_media": false,
+      "version": "fef3c383fed1de7b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112969,
+      "posted_at": "2026-11-19T03:52:02+00:00",
+      "excerpt": "IREDA CROSSES YESTERDAY'S HIGH",
+      "has_media": false,
+      "version": "84abfe764ef33b3e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44527,
+      "posted_at": "2026-11-19T03:50:32+00:00",
+      "excerpt": "🥇 GOLD & SILVER PRICE UPDATE 📅 19 November 2026 🔻 MCX GOLD: ₹1,28,842 / 10g (-0.75%) 🔻 MCX SILVER: ₹1,59,960 / kg (-0.48%) 📉 WHY THE FALL? • Hawkish US Fed signals ने बढ़ाई rate hike fears • Strong Dollar और rising Treasury yields से bullion पर pressure • Silver में industrial demand concerns के चलते ज्यादा volatility 👀 WHAT NEXT? Geopolitical tensions से safe-haven demand को support मिल सकता है. 📌 EXPERT VIEW: जल्दबाजी में dip buying से बचें. Staggered buying और controlled exposure बेहतर approach हो सकती है. Source: Moneycontrol",
+      "has_media": false,
+      "version": "4a82cf5413f0c894",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64829,
+      "posted_at": "2026-11-19T03:49:23+00:00",
+      "excerpt": "Nifty Auto & Defense is showing strength 👀",
+      "has_media": false,
+      "version": "7f84667ee52b618c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112968,
+      "posted_at": "2026-11-19T03:49:11+00:00",
+      "excerpt": "IREDA CROSSES YESTERDAY'S HIGH",
+      "has_media": false,
+      "version": "84abfe764ef33b3e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112967,
+      "posted_at": "2026-11-19T03:48:35+00:00",
+      "excerpt": "defense sector looking buying",
+      "has_media": false,
+      "version": "dbf73b15073336cd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13635,
+      "posted_at": "2026-11-19T03:47:18+00:00",
+      "excerpt": "MAJOR CONTRACT WINS – DAILY HIGHLIGHTS LARGE-CAP / MAIN CONTRACT WINS • TITAGARH: Wins ₹65.38 Cr motor order from Chittaranjan Locomotive Works. • TONBO: Ministry of Defence orders ₹35.62 Cr thermal weapon sights. • NLC INDIA: Subsidiary secures major Battery Energy Storage Project. • ACME SOLAR: Secures 150 MW hybrid PPA with NTPC. SMALLCAP / MICROCAP CONTRACT WINS • MARKOLINES: Secures infrastructure work orders worth ₹234.83 Cr. • OMPOWER: Wins ₹46.57 Cr substation contract. • CHIRA HARIT: Secures ₹74.03 lakh solar cleaning systems order. • VECTRAS: Wins ₹13.93 Cr GAIL pipeline construction contract. • SHARIKA: Receives ₹3.49 Cr LED street lighting order. • HIRECT: Gets ₹136.26 Cr order f",
+      "has_media": false,
+      "version": "9491fb753b4f3e8d",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T03:58:59.208528+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13634,
+      "posted_at": "2026-11-19T03:45:53+00:00",
+      "excerpt": "Defense Stocks In Focus Defence Min seeks 20% increase in defence capex, Implied FY28 allocation at Rs 2.63 lk Cr",
+      "has_media": false,
+      "version": "edffc5a25b0acfc9",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13632,
+      "posted_at": "2026-11-19T03:44:56+00:00",
+      "excerpt": "💐 GOOD MORNING 😊 🙏 🌄",
+      "has_media": false,
+      "version": "f064367430620c51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13633,
+      "posted_at": "2026-11-19T03:44:56+00:00",
+      "excerpt": "SEBI SOCIAL MEDIA MANDATE & MANDATORY DISCLAIMER AS REQUIRED BY SEBI KIND ATTENTION OF ALL MEMBERS Disclaimer from Admins as per SEBI norms: Equity Investment are subject to 100% market risks. Refer your financial consultant advice before Investing. This group/channel is only for Educational and Learning, Knowledge Purposes. Admins have no responsibility for your intended decision & financial losses. Keep calculated & always analyzed your cash position and risk bearing capacity before following msg of our group postings. Stock market investments are VERY RISKY and being part of this group, you agree that you understand the Market risks involved. Profits and Losses are part of Share market. K",
+      "has_media": false,
+      "version": "10b65f956b8430d8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T03:58:59.208528+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64828,
+      "posted_at": "2026-11-19T03:42:27+00:00",
+      "excerpt": "Fiis buying continues but Diis is waiting to buy mid & small cap stocks that's why small & midcap stocks are underperforming 😒",
+      "has_media": false,
+      "version": "a3dd58f845aca9bf",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T03:58:59.208528+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155243,
+      "posted_at": "2026-11-19T03:22:15+00:00",
+      "excerpt": "Brentcrude : 3 mth low Copper : 7 mth low Silver : -36% in 2026 Gold : -13% in 2026 Aluminum : 51 week low Zinc -5% overnight Corn hits 14 week lows Sugar lowest in 2 mths",
+      "has_media": false,
+      "version": "4d7c7d0b11d337b2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137193,
+      "posted_at": "2026-11-19T03:19:45+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44526,
+      "posted_at": "2026-11-19T03:15:06+00:00",
+      "excerpt": "🌍 GLOBAL MARKET UPDATE 📅 19 November 2026 🔴 GIFT NIFTY: 25,168 ▼ 54 Points Indian markets में cautious opening के संकेत. 📉 PREVIOUS SESSION • Sensex: -500.4 Points • Nifty: -159.5 Points 💰 FII-DII ACTIVITY • FIIs: ₹5,866 Cr Net Buying • DIIs: ₹3,159 Cr Net Selling 🚀 GLOBAL TRIGGERS • Anthropic का record $81 Billion IPO • US Fed के hawkish signals से rate hike fears बढ़े • Brent Crude $92.62 के पार पहुंचा 📌 GLOBAL optimism के बावजूद Fed rate fears और geopolitical tensions से market sentiment पर pressure रह सकता है. Source: Moneycontrol",
+      "has_media": false,
+      "version": "1b210106e8e4233d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44525,
+      "posted_at": "2026-11-19T03:13:25+00:00",
+      "excerpt": "📌 MARKET ACTION 📅 19 November 2026 🔹 BULK & BLOCK DEALS • IIFL Finance – Fairfax India sells 13.24% stake worth ₹3,488 Cr • Azad Engineering – Promoter sells 5.4% stake worth ₹800.15 Cr • Greenlam Industries – Akash Bhanshali increases stake by 1.17% • Neogen Chemicals – Invesco buys 1.66% stake 💰 EX-DIVIDEND STOCKS Natco Pharma | Ingersoll-Rand India East India Drums and Barrels Manufacturing Panchsheel Organics | Vibrant Global Capital 🚫 F&O BAN Kaynes Technology India 📋 Listing Update: No listing update mentioned in the article. Source: Moneycontrol",
+      "has_media": false,
+      "version": "da71f44e4d51fefc",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T03:58:59.208528+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44524,
+      "posted_at": "2026-11-19T03:09:56+00:00",
+      "excerpt": "🎯 STOCKS TO WATCH TODAY 📅 19 November 2026 🔹 NALCO – RUSAL के साथ Scandium recovery collaboration 🔹 LT Foods – US company MK Foods को $5.8 million में acquire करेगा 🔹 Dalmia Bharat – 23 November को Buyback proposal पर विचार 🔹 Sky Gold – ₹1,800 Cr तक fund raising approval 🔹 Jio Financial – BlackRock के साथ JV में ₹123 Cr each investment 🔹 Bharat Forge – KSSL में additional ₹290.5 Cr investment 🔹 Tonbo Imaging – Defence Ministry से ₹35.62 Cr का order 👀 ALSO IN FOCUS: Intellect Design Arena | PB Fintech | Infosys Market में इन corporate developments पर रहेगी नजर. Source: Moneycontrol",
+      "has_media": false,
+      "version": "4541f1ce49a1195a",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T03:58:59.208528+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44523,
+      "posted_at": "2026-11-19T03:06:03+00:00",
+      "excerpt": "📊 RESULTS UPDATE 📅 19 November 2026 🚀 BLS POLYMERS Q2 RESULTS ✅ Net Profit jumps 130.4% to ₹10.54 Cr ✅ Revenue grows 28.9% to ₹125.6 Cr ✅ EBITDA surges 152.4% to ₹16.3 Cr ✅ EBITDA Margin improves to 13% vs 6.6% 📌 आज Muthoot Microfin और K&R Rail Engineering के Q2 results भी आने वाले हैं. Source: Moneycontrol",
+      "has_media": false,
+      "version": "90888533b1c671ec",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "BLS POLYMERS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-19T03:58:59.208528+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44522,
+      "posted_at": "2026-11-19T03:03:39+00:00",
+      "excerpt": "📊 FII - DII CASH ACTIVITY 📅 18 November 2026 🔹 FII: ₹5,867 Cr Net Buying 🔸 DII: ₹3,160 Cr Net Selling 💰 Combined Net Buying: ₹2,707 Cr 📈 FIIs की strong buying ने market में positive liquidity support दिया जबकि DIIs net sellers रहे. Source: NSE",
+      "has_media": false,
+      "version": "d57e332a1f70805e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 112965,
+      "posted_at": "2026-11-19T03:00:59+00:00",
+      "excerpt": "#Commodity Meltdown ! #Brentcrude : 3 mth low #Copper : 7 mth low , -13% in Nov #Silver : -36% in 2026 #Gold : -13% in 2026 #Aluminum : 51 week low #Zinc -5% overnight #Corn hits 14 week lows #Sugar lowest in 2 mths",
+      "has_media": false,
+      "version": "f56e603920cd7baa",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-19T03:58:59.208528+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64827,
