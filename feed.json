@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T16:43:57.187045+00:00",
+  "updated_at": "2026-11-20T17:44:16.183552+00:00",
   "catalog": {
     "state": "ok",
-    "fetched_at": "2026-11-19T17:08:31.518653+00:00",
+    "fetched_at": "2026-11-20T17:44:16.183552+00:00",
     "source": "NSE EQUITY_L.csv EQ series",
     "stocks": [
       {
@@ -1173,6 +1173,10 @@
       {
         "sym": "BCPL",
         "name": "BCPL Railway Infrastructure Limited"
+      },
+      {
+        "sym": "BCSSL",
+        "name": "Bombay Coated and Special Steels Limited"
       },
       {
         "sym": "BDL",
@@ -7727,8 +7731,8 @@
         "name": "Shri Jagdamba Polymers Limited"
       },
       {
-        "sym": "SHUKRAPHAR",
-        "name": "Shukra Pharmaceuticals Limited"
+        "sym": "SHUKRAMED",
+        "name": "Shukra Medtech Limited"
       },
       {
         "sym": "SHYAMCENT",
@@ -7785,6 +7789,10 @@
       {
         "sym": "SILGO",
         "name": "Silgo Retail Limited"
+      },
+      {
+        "sym": "SILINV",
+        "name": "SIL Investments Limited"
       },
       {
         "sym": "SILVERTUC",
@@ -9636,8 +9644,8 @@
       "pages": 1,
       "newest_id": 137300,
       "gap_detected": false,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
-      "last_success": "2026-11-20T16:43:57.187045+00:00"
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
+      "last_success": "2026-11-20T17:44:16.183552+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9645,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
-      "last_success": "2026-11-20T16:43:57.187045+00:00"
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
+      "last_success": "2026-11-20T17:44:16.183552+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9654,26 +9662,26 @@
       "pages": 1,
       "newest_id": 44550,
       "gap_detected": false,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
-      "last_success": "2026-11-20T16:43:57.187045+00:00"
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
+      "last_success": "2026-11-20T17:44:16.183552+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113048,
+      "newest_id": 113053,
       "gap_detected": false,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
-      "last_success": "2026-11-20T16:43:57.187045+00:00"
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
+      "last_success": "2026-11-20T17:44:16.183552+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155316,
+      "newest_id": 155317,
       "gap_detected": false,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
-      "last_success": "2026-11-20T16:43:57.187045+00:00"
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
+      "last_success": "2026-11-20T17:44:16.183552+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9681,8 +9689,8 @@
       "pages": 1,
       "newest_id": 64885,
       "gap_detected": false,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
-      "last_success": "2026-11-20T16:43:57.187045+00:00"
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
+      "last_success": "2026-11-20T17:44:16.183552+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9690,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13666,
       "gap_detected": false,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
-      "last_success": "2026-11-20T16:43:57.187045+00:00"
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
+      "last_success": "2026-11-20T17:44:16.183552+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,7 +9707,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T16:43:57.187045+00:00",
+      "checked_at": "2026-11-20T17:44:16.183552+00:00",
       "last_success": null
     }
   },
@@ -9715,6 +9723,72 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113053,
+      "posted_at": "2026-11-20T17:41:21+00:00",
+      "excerpt": "$ 41 gone ... Chalo chalo thoko",
+      "has_media": false,
+      "version": "a2434c92be8c6854",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T17:44:16.183552+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113052,
+      "posted_at": "2026-11-20T17:27:12+00:00",
+      "excerpt": "Don't try to catch a falling knife 🔪",
+      "has_media": false,
+      "version": "582a36251a760b64",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T17:44:16.183552+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113051,
+      "posted_at": "2026-11-20T17:27:01+00:00",
+      "excerpt": "Bahut logo ke ghar , jameen beek jayegi ye crash mein 🙏",
+      "has_media": false,
+      "version": "c042a809b14560f7",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T17:44:16.183552+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155317,
+      "posted_at": "2026-11-20T17:14:31+00:00",
+      "excerpt": "Stock Gainers (SEBI REGISTERED) ⭐️ Live Analysis of 20th NOV 1. OPTION ANALYSIS INDUSBNK 1000CE 8 TO 14 🔥 MARUTI 14000CE 40 TO 78 🔥 BNF 64300CE 460 TO 600 🔥 NIFTY 26000CE 37 TO made high 47 🔥 2.STOCK FUTURE & EQUITY CASH ANALYSIS EICHER MOTOR 8105 TO made high 8149 🔥 CONFORGE 2147 TO made high 2176 🔥 ANGELONE 350 TO 348.30 Note: Those who are tracking our Live Analysis please read our disclaimer Focus On the Right Analysis FOR PRIME  MEMBERSHIP PING @SG005 ✔️",
+      "has_media": false,
+      "version": "ae9cbf3fb7f68843",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T17:44:16.183552+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113050,
+      "posted_at": "2026-11-20T17:07:48+00:00",
+      "excerpt": "Chalo $ 40 todo silver 🥈 Gold $ 3500 todo",
+      "has_media": false,
+      "version": "0b6a47fe405d6ea4",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T17:44:16.183552+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113049,
+      "posted_at": "2026-11-20T17:07:07+00:00",
+      "excerpt": "I am saying again though I am not a commodity expert but I see more downside in gold and silver",
+      "has_media": false,
+      "version": "a6cd8053d9c416fd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T17:44:16.183552+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64885,
