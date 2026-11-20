@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T04:44:48.066327+00:00",
+  "updated_at": "2026-11-20T05:48:00.370354+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9634,10 +9634,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137266,
+      "newest_id": 137276,
       "gap_detected": false,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
-      "last_success": "2026-11-20T04:44:48.066327+00:00"
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "last_success": "2026-11-20T05:48:00.370354+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9645,53 +9645,53 @@
       "pages": 1,
       "newest_id": 18547,
       "gap_detected": false,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
-      "last_success": "2026-11-20T04:44:48.066327+00:00"
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "last_success": "2026-11-20T05:48:00.370354+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44545,
+      "newest_id": 44547,
       "gap_detected": false,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
-      "last_success": "2026-11-20T04:44:48.066327+00:00"
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "last_success": "2026-11-20T05:48:00.370354+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113023,
+      "newest_id": 113029,
       "gap_detected": false,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
-      "last_success": "2026-11-20T04:44:48.066327+00:00"
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "last_success": "2026-11-20T05:48:00.370354+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155290,
+      "newest_id": 155297,
       "gap_detected": false,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
-      "last_success": "2026-11-20T04:44:48.066327+00:00"
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "last_success": "2026-11-20T05:48:00.370354+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64866,
+      "newest_id": 64873,
       "gap_detected": false,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
-      "last_success": "2026-11-20T04:44:48.066327+00:00"
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "last_success": "2026-11-20T05:48:00.370354+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13654,
+      "newest_id": 13657,
       "gap_detected": false,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
-      "last_success": "2026-11-20T04:44:48.066327+00:00"
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "last_success": "2026-11-20T05:48:00.370354+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,22 +9699,382 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T04:44:48.066327+00:00",
+      "checked_at": "2026-11-20T05:48:00.370354+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-20",
-    "requests_today": 2,
+    "requests_today": 3,
     "cooldown_until": null,
-    "last_success": "2026-11-20T04:44:48.066327+00:00",
-    "last_attempt": "2026-11-20T04:44:48.066327+00:00",
+    "last_success": "2026-11-20T05:48:00.370354+00:00",
+    "last_attempt": "2026-11-20T05:48:00.370354+00:00",
     "last_error": null,
-    "pending": 17,
+    "pending": 22,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113029,
+      "posted_at": "2026-11-20T05:36:55+00:00",
+      "excerpt": "It's a Panic mode in Gold souk dubai markets",
+      "has_media": false,
+      "version": "90235feecf126be5",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113028,
+      "posted_at": "2026-11-20T05:36:23+00:00",
+      "excerpt": "Sharing whatsapp chat he is Big bullion player... From Dubai",
+      "has_media": true,
+      "version": "bfd34b92107e48bf",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137275,
+      "posted_at": "2026-11-20T05:35:54+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137273,
+      "posted_at": "2026-11-20T05:32:51+00:00",
+      "excerpt": "POSITIONAL TRADE MARUTI Looks Good ABOVE 11600 SL 11400 Targets  50-100-150-200-250-+300--400-500  points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready…",
+      "has_media": false,
+      "version": "f38bf9d0eb5d7784",
+      "category": "watch",
+      "symbol_candidate": "MARUTI",
+      "stop_loss": 11400.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "MARUTI",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 11400.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137272,
+      "posted_at": "2026-11-20T05:28:08+00:00",
+      "excerpt": "POSITIONAL TRADE MOTHER SON WIRING (MSUMI) Looks Good ABOVE 39.7 SL 35 Targets 41-42-43-45 Hold few weeks Please consult your financial advisor before investing All research for educational purposes only. Stock is ready to cross past barriers with…",
+      "has_media": false,
+      "version": "a59f409ee792843f",
+      "category": "watch",
+      "symbol_candidate": "MSUMI",
+      "stop_loss": 35.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155297,
+      "posted_at": "2026-11-20T05:23:33+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113027,
+      "posted_at": "2026-11-20T05:21:22+00:00",
+      "excerpt": "bank nifty heading 63600/800 ??? spot",
+      "has_media": false,
+      "version": "11c2e681d1bfb197",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155296,
+      "posted_at": "2026-11-20T05:20:12+00:00",
+      "excerpt": ".Coforge Coforge cash above 2147 support 2080 view 2200 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "0e03d2a13cced649",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113026,
+      "posted_at": "2026-11-20T05:19:31+00:00",
+      "excerpt": "hpcl / bpcl readying for big moves = crude correction = stronger re = +ve",
+      "has_media": false,
+      "version": "7b0cb2c1fe55e174",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64873,
+      "posted_at": "2026-11-20T05:18:10+00:00",
+      "excerpt": "Nifty IT is leading today.",
+      "has_media": false,
+      "version": "b08e4542a54d3b69",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155295,
+      "posted_at": "2026-11-20T05:16:14+00:00",
+      "excerpt": ".Coforge Coforge cash above 2147 support 2080 view 2200 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "0e03d2a13cced649",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137271,
+      "posted_at": "2026-11-20T05:14:29+00:00",
+      "excerpt": "POSITIONAL TRADE CAMS Looks Good ABOVE 720 SL 710 Targets  5-10-15-20-25 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with…",
+      "has_media": false,
+      "version": "fe76dddce7122c19",
+      "category": "watch",
+      "symbol_candidate": "CAMS",
+      "stop_loss": 710.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64872,
+      "posted_at": "2026-11-20T05:13:36+00:00",
+      "excerpt": "Dollar index again 103.9 at 19 months high. Gold & silver crash 🥵 🥵 Gold now below $3600.",
+      "has_media": false,
+      "version": "c98a796c56ab41f8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155294,
+      "posted_at": "2026-11-20T05:13:22+00:00",
+      "excerpt": ".Coforge Coforge cash above 2147 support 2080 view 2200 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "0e03d2a13cced649",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155293,
+      "posted_at": "2026-11-20T05:11:39+00:00",
+      "excerpt": "Maruti Maruti 14000 ce 40 support 8 view 78 .Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "c913c1304bd4b955",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155292,
+      "posted_at": "2026-11-20T05:09:41+00:00",
+      "excerpt": "NONE OTHER THAN YOUR SG ❤️ 💪",
+      "has_media": true,
+      "version": "c58b85ca20eda859",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64871,
+      "posted_at": "2026-11-20T05:07:23+00:00",
+      "excerpt": "Gold silver fell after hedge fund sold to get fund to average crashing AI & chip stocks of Taiwan, Korea, USA , Japan ( Brutal selling in AI)",
+      "has_media": false,
+      "version": "d149a8917700c403",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155291,
+      "posted_at": "2026-11-20T05:06:56+00:00",
+      "excerpt": ".Coforge Coforge cash above 2147 support 2080 view 2200 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "0e03d2a13cced649",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44547,
+      "posted_at": "2026-11-20T05:04:19+00:00",
+      "excerpt": "🚀 INDIAN IT STOCKS DEFY GLOBAL AI SELLOFF 📅 20 NOVEMBER 2026 🟢 NIFTY IT - 2% से ज्यादा की तेजी जबकि Nifty 50 करीब 0.25% गिरा. 🔥 TOP GAINERS (2.5-3%): COFORGE | LTM | LTTS PERSISTENT SYSTEMS | MPHASIS 🟢 OTHER IT STOCKS: TECH MAHINDRA | HCL TECH TCS | INFOSYS | WIPRO में 1-2% की तेजी. 🔹 KEY REASONS: • 3 sessions की गिरावट के बाद value buying. • Indian IT companies का AI infrastructure spending पर relatively low exposure. • Foreign investors ने November में $12 Billion से ज्यादा invest किए. • Improving demand visibility और better earnings outlook. 💡 MARKET INSIGHT: Global AI selloff के बावजूद Indian IT stocks में strong buying interest देखने को मिला. Source: LiveMint",
+      "has_media": false,
+      "version": "718183230c723387",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64870,
+      "posted_at": "2026-11-20T05:01:49+00:00",
+      "excerpt": "Railway stocks are again trying to pick momentum 👀",
+      "has_media": false,
+      "version": "edcfe55a7a62a281",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137270,
+      "posted_at": "2026-11-20T05:01:41+00:00",
+      "excerpt": "POSITIONAL TRADE TATA tech Looks Good ABOVE 732 SL 690 Targets  750-775-800 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "c6e62fa3b43f8cf9",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13657,
+      "posted_at": "2026-11-20T05:01:29+00:00",
+      "excerpt": "JEWELLERY STOCKS , MUTHOOT , MANAPPURAM 🔻 Gold On MCX Falls Nearly 4% To ₹1.22 Lk/10 gm",
+      "has_media": false,
+      "version": "a025d48bc8b8fd61",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137269,
+      "posted_at": "2026-11-20T05:00:54+00:00",
+      "excerpt": "POSITIONAL TRADE TATA tech Looks Good ABOVE 732 SL 690 Targets  750-775-800 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "c6e62fa3b43f8cf9",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13656,
+      "posted_at": "2026-11-20T04:59:51+00:00",
+      "excerpt": "Silver 65% down in 10 months 🩸",
+      "has_media": true,
+      "version": "8a5656570c185932",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13655,
+      "posted_at": "2026-11-20T04:57:37+00:00",
+      "excerpt": "GOLD SILVER CRASH",
+      "has_media": false,
+      "version": "90d865e3fb61b117",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113025,
+      "posted_at": "2026-11-20T04:57:11+00:00",
+      "excerpt": "hpcl / bpcl readying for big moves = crude correction = stronger re = +ve",
+      "has_media": false,
+      "version": "7b0cb2c1fe55e174",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113024,
+      "posted_at": "2026-11-20T04:54:25+00:00",
+      "excerpt": "tech mahindra 1774/80 crossed can see 1800+",
+      "has_media": false,
+      "version": "429945a9f972b88e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137267,
+      "posted_at": "2026-11-20T04:49:58+00:00",
+      "excerpt": "POSITIONAL TRADE INFY Looks Good ABOVE 1115 SL 1100 Targets  5-10-15-20-25 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "b9331d5b7194a328",
+      "category": "watch",
+      "symbol_candidate": "INFY",
+      "stop_loss": 1100.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44546,
+      "posted_at": "2026-11-20T04:49:54+00:00",
+      "excerpt": "📈 MARKET REVERSAL: SENSEX RECOVERS 650 PTS 📅 20 NOVEMBER 2026 🟢 SHARP RECOVERY - Sensex ने day's low से 650 points की recovery की. Nifty ने 25,500 का level फिर reclaim किया. 🔹 IT BUYING - IT Index 1.3% ऊपर. Infosys | TCS | HCL Tech | Tech Mahindra में 1-1.7% की तेजी. 🔹 FII BUYING - FIIs ने लगातार 8वें session में buying जारी रखी. 19 November को ₹7,411 Cr की net buying. 🔴 DII SELLING - DIIs ने लगातार दूसरे session में ₹1,356 Cr की net selling की. 💡 KEY TAKEAWAY: Global markets में भारी कमजोरी के बावजूद IT stocks में buying और sustained FII inflows ने Indian markets को support दिया. Source: Moneycontrol",
+      "has_media": false,
+      "version": "e23a3806527fcdbc",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64868,
+      "posted_at": "2026-11-20T04:45:42+00:00",
+      "excerpt": "Gold silver fell after hedge fund sold to get fund to average crashing AI & chip stocks of Taiwan, Korea, USA , Japan ( Brutal selling in AI)",
+      "has_media": false,
+      "version": "d149a8917700c403",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64867,
+      "posted_at": "2026-11-20T04:44:00+00:00",
+      "excerpt": "🌏 GLOBAL & ASIAN MARKETS CRASHED Multiple reasons behind the sell-off: • AI valuation concerns • Heavy selling in chip stocks • Rising Fed rate-hike expectations • Fresh US restrictions on advanced chip exports to China 📉 Market fall 🇯🇵 Nikkei: -2,700…",
+      "has_media": false,
+      "version": "bb44e11f62fc71c0",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137266,
@@ -9910,7 +10270,18 @@
       "symbol_candidate": "CONSUMER",
       "stop_loss": 1108.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "TATA CONSUMER",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1108.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9956,7 +10327,18 @@
       "symbol_candidate": "HAVELLS",
       "stop_loss": 1160.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "HAVELLS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1160.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9980,7 +10362,18 @@
       "symbol_candidate": "PAYTM",
       "stop_loss": 1645.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "PAYTM",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1645.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
     },
     {
       "channel": "motilaloswalofficial",
@@ -10299,7 +10692,18 @@
       "version": "10b65f956b8430d8",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+      "observed_at": "2026-11-20T03:38:12.608350+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10310,7 +10714,18 @@
       "version": "18305f2377b346ee",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+      "observed_at": "2026-11-20T03:38:12.608350+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "IIFL CAPITAL SERVICES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10321,7 +10736,18 @@
       "version": "44fde9dde4237544",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+      "observed_at": "2026-11-20T03:38:12.608350+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "SIGNATURE GLOBAL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10332,7 +10758,18 @@
       "version": "bdcf321218b3639c",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+      "observed_at": "2026-11-20T03:38:12.608350+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T05:48:00.370354+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
