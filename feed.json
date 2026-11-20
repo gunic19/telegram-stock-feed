@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T12:18:57.779327+00:00",
+  "updated_at": "2026-11-20T13:39:11.197567+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9634,19 +9634,19 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137296,
+      "newest_id": 137298,
       "gap_detected": false,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
-      "last_success": "2026-11-20T12:18:57.779327+00:00"
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
+      "last_success": "2026-11-20T13:39:11.197567+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18550,
+      "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
-      "last_success": "2026-11-20T12:18:57.779327+00:00"
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
+      "last_success": "2026-11-20T13:39:11.197567+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9654,17 +9654,17 @@
       "pages": 1,
       "newest_id": 44550,
       "gap_detected": false,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
-      "last_success": "2026-11-20T12:18:57.779327+00:00"
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
+      "last_success": "2026-11-20T13:39:11.197567+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113044,
+      "newest_id": 113045,
       "gap_detected": false,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
-      "last_success": "2026-11-20T12:18:57.779327+00:00"
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
+      "last_success": "2026-11-20T13:39:11.197567+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9672,26 +9672,26 @@
       "pages": 1,
       "newest_id": 155316,
       "gap_detected": false,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
-      "last_success": "2026-11-20T12:18:57.779327+00:00"
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
+      "last_success": "2026-11-20T13:39:11.197567+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64881,
+      "newest_id": 64883,
       "gap_detected": false,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
-      "last_success": "2026-11-20T12:18:57.779327+00:00"
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
+      "last_success": "2026-11-20T13:39:11.197567+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13661,
+      "newest_id": 13666,
       "gap_detected": false,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
-      "last_success": "2026-11-20T12:18:57.779327+00:00"
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
+      "last_success": "2026-11-20T13:39:11.197567+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,22 +9699,132 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T12:18:57.779327+00:00",
+      "checked_at": "2026-11-20T13:39:11.197567+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-20",
-    "requests_today": 9,
+    "requests_today": 10,
     "cooldown_until": null,
-    "last_success": "2026-11-20T12:18:57.779327+00:00",
-    "last_attempt": "2026-11-20T12:18:57.779327+00:00",
+    "last_success": "2026-11-20T13:39:11.197567+00:00",
+    "last_attempt": "2026-11-20T13:39:11.197567+00:00",
     "last_error": null,
-    "pending": 7,
+    "pending": 2,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13666,
+      "posted_at": "2026-11-20T13:33:29+00:00",
+      "excerpt": "Raksan Transformers Ltd – INR 1.21 CR NEW ORDER WIN Raksan Transformers Ltd has secured a new order worth INR 1.21 Cr for the supply of power transformers for a railway infrastructure project: - The company received the order from an EPC company on November 20, 2026. - The contract involves the supply of 33/11KV class power transformers. - This order marks the company's entry into the railway infrastructure segment. - The project is scheduled to be executed on or before March 31, 2027.",
+      "has_media": false,
+      "version": "ed63b3463fe5d576",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "Raksan Transformers Ltd",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13665,
+      "posted_at": "2026-11-20T13:18:00+00:00",
+      "excerpt": "FIIs Net Buy ₹10,308.42 Cr While DIIs Net Sell ₹4,859.80 Cr In Equities Today (Provisional)",
+      "has_media": true,
+      "version": "8a5bba085a9f2fde",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113045,
+      "posted_at": "2026-11-20T13:07:36+00:00",
+      "excerpt": "PREMIUM CHANNEL \" Registration opens from 1st December till 20th December'2026 only. The Moment Fees is paid your subscription starts immediately . (eg .. if it opens from 1st December.. and you pay ,, your subscription starts immediately ... actual subscription will be valid from 1st January 2027 onwards (so almost 31 days free) SUBSCRIPTION IS 1 YR / 3 YR / 5 YR ...NO IN BETWEEN MONTLY, QUARTERLY ETC If you miss December then next window will be August 2027 After that subscription will open only on 1st August 2027 not before that 🙏 IMPORTANT = FOR DETAILS DM ONLY TOMORROW ONWARDS 🙏",
+      "has_media": false,
+      "version": "c3cc7a964d54e024",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137297,
+      "posted_at": "2026-11-20T13:01:59+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64883,
+      "posted_at": "2026-11-20T12:52:31+00:00",
+      "excerpt": "FII bought 10000 cr Today Retailers shocked everyday Nifty Bank has risen by 10,000 points in just 14 sessions.",
+      "has_media": true,
+      "version": "28ec990c058993c3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13664,
+      "posted_at": "2026-11-20T12:38:29+00:00",
+      "excerpt": "#PROMOTION 🏆 BIG ANNOUNCEMENT JOIN VIP TELEGRAM CHENNAL Monday Nifty expiry hero zero jackpot trade is free [link] [link] ✅ Daily 1-3 Free Trade ✅ Banknifty / Stock Option / Swing Trade ✅ Minimum SL With Maximum Profit ✅ BTST CALL  / HERO ZERO CALL GROUP IS FREE NOW First 100 People Can Join This Stocks Jackpot Channel Link Given Below 👇 👇 👇 [link] [link] 🤘 🤘 🤘 Join now",
+      "has_media": false,
+      "version": "305a86db8f39632e",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13663,
+      "posted_at": "2026-11-20T12:35:52+00:00",
+      "excerpt": "India ForexData | Total Reserves In Week-Ended Nov 13, Down $14.20 Bn At $705.34 Bn ⏩ Foreign Currency Assets In Week-Ended Nov 13, Down $7.89 Bn At $583.45 Bn",
+      "has_media": false,
+      "version": "7e699fbc714542cb",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13662,
+      "posted_at": "2026-11-20T12:35:44+00:00",
+      "excerpt": "BSE Sensex To Add ShriramFinance & Remove Trent, Changes Effective December 21",
+      "has_media": true,
+      "version": "a59f59ab8e20edf2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18551,
+      "posted_at": "2026-11-20T12:21:38+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T13:39:11.197567+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113044,
@@ -9724,7 +9834,18 @@
       "version": "13584bf21ea14900",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-20T12:18:57.779327+00:00"
+      "observed_at": "2026-11-20T12:18:57.779327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "fin nifty",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -9858,7 +9979,18 @@
       "version": "840a12b23098d6d8",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+      "observed_at": "2026-11-20T09:06:38.693893+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "EICHER Motors",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 7600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9929,7 +10061,18 @@
       "entry_as_posted": 519.4,
       "first_target": 548.0,
       "stop_loss": 505.0,
-      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+      "observed_at": "2026-11-20T09:06:38.693893+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "call",
+        "side": "BUY",
+        "stock_text": "POONAWALLA",
+        "entry_as_posted": 519.4,
+        "first_target": 548.0,
+        "stop_loss": 505.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
     },
     {
       "channel": "motilaloswalofficial",
@@ -9984,7 +10127,18 @@
       "version": "453f935531f3b5f3",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+      "observed_at": "2026-11-20T09:06:38.693893+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Angelone",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10305,7 +10459,18 @@
       "version": "3fd1a793316e72af",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+      "observed_at": "2026-11-20T08:04:03.683519+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "BNF",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10316,7 +10481,18 @@
       "version": "3fd1a793316e72af",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+      "observed_at": "2026-11-20T08:04:03.683519+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "BNF",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10397,7 +10573,18 @@
       "version": "b3711cf9a1546384",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+      "observed_at": "2026-11-20T08:04:03.683519+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "INDUSBANK",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T13:39:11.197567+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
