@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T08:04:03.683519+00:00",
+  "updated_at": "2026-11-20T09:06:38.693893+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9634,19 +9634,19 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137289,
+      "newest_id": 137290,
       "gap_detected": false,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
-      "last_success": "2026-11-20T08:04:03.683519+00:00"
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
+      "last_success": "2026-11-20T09:06:38.693893+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18548,
+      "newest_id": 18550,
       "gap_detected": false,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
-      "last_success": "2026-11-20T08:04:03.683519+00:00"
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
+      "last_success": "2026-11-20T09:06:38.693893+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9654,35 +9654,35 @@
       "pages": 1,
       "newest_id": 44549,
       "gap_detected": false,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
-      "last_success": "2026-11-20T08:04:03.683519+00:00"
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
+      "last_success": "2026-11-20T09:06:38.693893+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113037,
+      "newest_id": 113041,
       "gap_detected": false,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
-      "last_success": "2026-11-20T08:04:03.683519+00:00"
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
+      "last_success": "2026-11-20T09:06:38.693893+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155311,
+      "newest_id": 155315,
       "gap_detected": false,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
-      "last_success": "2026-11-20T08:04:03.683519+00:00"
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
+      "last_success": "2026-11-20T09:06:38.693893+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64876,
+      "newest_id": 64880,
       "gap_detected": false,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
-      "last_success": "2026-11-20T08:04:03.683519+00:00"
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
+      "last_success": "2026-11-20T09:06:38.693893+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9690,8 +9690,8 @@
       "pages": 1,
       "newest_id": 13661,
       "gap_detected": false,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
-      "last_success": "2026-11-20T08:04:03.683519+00:00"
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
+      "last_success": "2026-11-20T09:06:38.693893+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,22 +9699,181 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "checked_at": "2026-11-20T09:06:38.693893+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-20",
-    "requests_today": 5,
-    "cooldown_until": "2026-11-20T09:04:03.683519+00:00",
-    "last_success": "2026-11-20T06:48:23.841795+00:00",
-    "last_attempt": "2026-11-20T08:04:03.683519+00:00",
-    "last_error": "HTTP 503",
-    "pending": 34,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "requests_today": 6,
+    "cooldown_until": null,
+    "last_success": "2026-11-20T09:06:38.693893+00:00",
+    "last_attempt": "2026-11-20T09:06:38.693893+00:00",
+    "last_error": null,
+    "pending": 29,
+    "status": "ok",
+    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113041,
+      "posted_at": "2026-11-20T09:00:50+00:00",
+      "excerpt": "HPCL AND BPCL READY FOR BIG 💥",
+      "has_media": false,
+      "version": "d07ad2b432c25a2b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64880,
+      "posted_at": "2026-11-20T09:00:31+00:00",
+      "excerpt": "BRENT Crude at support level. Ready for $84 👀",
+      "has_media": true,
+      "version": "e5ae8b536dc45b0d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137290,
+      "posted_at": "2026-11-20T08:59:07+00:00",
+      "excerpt": "POSITIONAL TRADE EICHER Motors Looks Good ABOVE 7780 SL 7600 Targets  100-200-300-400-500 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross…",
+      "has_media": false,
+      "version": "840a12b23098d6d8",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64879,
+      "posted_at": "2026-11-20T08:55:23+00:00",
+      "excerpt": "Nifty is heading toward New ATH 👀",
+      "has_media": true,
+      "version": "03ea90ea5cc36794",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64878,
+      "posted_at": "2026-11-20T08:49:31+00:00",
+      "excerpt": "Nifty above 25600 now 100 points up 🔥 Bank nifty 63800 🔥 🔥",
+      "has_media": false,
+      "version": "146d6450863db27e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155315,
+      "posted_at": "2026-11-20T08:48:59+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113040,
+      "posted_at": "2026-11-20T08:45:17+00:00",
+      "excerpt": "25780 spot cross can see 25814/828/834+ and then 25880 next resistance",
+      "has_media": false,
+      "version": "20baace68e5ee47a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113039,
+      "posted_at": "2026-11-20T08:44:47+00:00",
+      "excerpt": "BANK NIFTY 1800 POINT COMING ?????",
+      "has_media": false,
+      "version": "bdd1c91e17f64bba",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18550,
+      "posted_at": "2026-11-20T08:43:01+00:00",
+      "excerpt": "MOSt Overnight BUY POONAWALLA CMP 519.40 SL 505 TGT 548 -Range breakout on daily chart. Disclaimer- [link]",
+      "has_media": false,
+      "version": "f473c5ed333f3fdb",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "POONAWALLA",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 519.4,
+      "first_target": 548.0,
+      "stop_loss": 505.0,
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18549,
+      "posted_at": "2026-11-20T08:35:27+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113038,
+      "posted_at": "2026-11-20T08:23:25+00:00",
+      "excerpt": "buying across Railway stocks = ircon / rvnl = top movers",
+      "has_media": false,
+      "version": "44dec1c04aedd1c2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155313,
+      "posted_at": "2026-11-20T08:18:15+00:00",
+      "excerpt": "NIFTY 26000CE CMP 37 Support 20 For 57-77 November",
+      "has_media": false,
+      "version": "e3b9e4829f02fb36",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64877,
+      "posted_at": "2026-11-20T08:13:55+00:00",
+      "excerpt": "Index up portfolio Down 😒 Why? When Portfolio will pick momentum 👀 Share your views in the comment box 👇 [link]",
+      "has_media": false,
+      "version": "9a988203b9de3a01",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155312,
+      "posted_at": "2026-11-20T08:05:29+00:00",
+      "excerpt": "Angelone Angelone cash 350 support 320 view 375 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "453f935531f3b5f3",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T09:06:38.693893+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137288,
@@ -9726,7 +9885,18 @@
       "symbol_candidate": "CROMPTON",
       "stop_loss": 217.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+      "observed_at": "2026-11-20T08:04:03.683519+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "CROMPTON GREAVES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 217.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9981,7 +10151,18 @@
       "symbol_candidate": "CROMPTON",
       "stop_loss": 217.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+      "observed_at": "2026-11-20T08:04:03.683519+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "CROMPTON GREAVES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 217.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9994,7 +10175,18 @@
       "symbol_candidate": "CROMPTON",
       "stop_loss": 217.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+      "observed_at": "2026-11-20T08:04:03.683519+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "CROMPTON GREAVES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 217.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10923,7 +11115,18 @@
       "version": "45fa56c60f6cbeca",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -10934,7 +11137,18 @@
       "version": "a84fcb69a0af5dd5",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -10945,7 +11159,18 @@
       "version": "27d414a19e9c8ae1",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "Jupiter Wagons Ltd",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10989,7 +11214,18 @@
       "version": "c824a6a21a446965",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "JAY BHARAT MARUTI",
+        "entry_as_posted": 123.5,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -11088,7 +11324,18 @@
       "version": "bb44e11f62fc71c0",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T09:06:38.693893+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
