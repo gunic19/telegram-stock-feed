@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T01:38:41.730803+00:00",
+  "updated_at": "2026-11-20T02:39:06.562409+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9634,10 +9634,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137252,
+      "newest_id": 137256,
       "gap_detected": false,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
-      "last_success": "2026-11-20T01:38:41.730803+00:00"
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "last_success": "2026-11-20T02:39:06.562409+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9645,8 +9645,8 @@
       "pages": 1,
       "newest_id": 18546,
       "gap_detected": false,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
-      "last_success": "2026-11-20T01:38:41.730803+00:00"
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "last_success": "2026-11-20T02:39:06.562409+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9654,35 +9654,35 @@
       "pages": 1,
       "newest_id": 44536,
       "gap_detected": false,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
-      "last_success": "2026-11-20T01:38:41.730803+00:00"
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "last_success": "2026-11-20T02:39:06.562409+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113003,
+      "newest_id": 113009,
       "gap_detected": false,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
-      "last_success": "2026-11-20T01:38:41.730803+00:00"
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "last_success": "2026-11-20T02:39:06.562409+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155283,
+      "newest_id": 155286,
       "gap_detected": false,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
-      "last_success": "2026-11-20T01:38:41.730803+00:00"
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "last_success": "2026-11-20T02:39:06.562409+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64856,
+      "newest_id": 64857,
       "gap_detected": false,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
-      "last_success": "2026-11-20T01:38:41.730803+00:00"
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "last_success": "2026-11-20T02:39:06.562409+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9690,8 +9690,8 @@
       "pages": 1,
       "newest_id": 13649,
       "gap_detected": false,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
-      "last_success": "2026-11-20T01:38:41.730803+00:00"
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "last_success": "2026-11-20T02:39:06.562409+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,22 +9699,154 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T01:38:41.730803+00:00",
+      "checked_at": "2026-11-20T02:39:06.562409+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-20",
-    "requests_today": 0,
-    "cooldown_until": null,
+    "requests_today": 1,
+    "cooldown_until": "2026-11-20T03:39:06.562409+00:00",
     "last_success": "2026-11-19T18:10:53.144241+00:00",
-    "last_attempt": "2026-11-19T18:10:53.144241+00:00",
-    "last_error": null,
-    "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "last_attempt": "2026-11-20T02:39:06.562409+00:00",
+    "last_error": "HTTP 503",
+    "pending": 2,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137254,
+      "posted_at": "2026-11-20T02:35:04+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113009,
+      "posted_at": "2026-11-20T02:33:44+00:00",
+      "excerpt": "IF YOU ARE 🪑 SITING IN PROFITS IN GOLD AND SILVER BOOK .. STILL HAVE TIME BEFORE PANIC GRIPS BULLION MARKETS",
+      "has_media": false,
+      "version": "53b62e10c6527cb8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113008,
+      "posted_at": "2026-11-20T02:30:57+00:00",
+      "excerpt": "No one is paying attention Bitcoin ready for bigger crash may go below 60k",
+      "has_media": false,
+      "version": "cb3a68db51c24459",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64857,
+      "posted_at": "2026-11-20T02:28:20+00:00",
+      "excerpt": "DXY is trading near 103.8, around a 19-month high, while Gold has slipped below $3,800 to a 14-month low as fears of a Fed rate hike continue to weigh on markets.",
+      "has_media": false,
+      "version": "7c541d60b92b93f2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155286,
+      "posted_at": "2026-11-20T02:19:04+00:00",
+      "excerpt": "🙏 GOOD MORNING ALL 🌻 🌺 Have A Profitable Day today 🌹 NOTE: POSTS HERE ARE BASED ON MY RESEARCH AND ARE FOR EDUCATIONAL PURPOSES ONLY. We are not liable for any Profit or Loss. PLEASE CONSULT YOUR FINANCIAL ADVISOR BEFORE BUYING OR SELLING. THANKS! ✨ Few useful Abbreviations for new traders: SL: Stop Loss TGT: Target CMP: Current Market PRICE BTST: Buy Today Sell Tomorrow STBT: Sell Today Buy Tomorrow The profit/loss figures mentioned are indicative and based on assumptions. Futures: Single Lot OPTIONS: Single lot Index: 4-5lots",
+      "has_media": false,
+      "version": "c4f956dc1071b58d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113007,
+      "posted_at": "2026-11-20T01:59:23+00:00",
+      "excerpt": "I am no commodity expert .. check levels with professionals before making any investment in gold / silver etf or physical",
+      "has_media": false,
+      "version": "331eafc9fd8bbdfe",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113006,
+      "posted_at": "2026-11-20T01:58:47+00:00",
+      "excerpt": "Gold 3562.59 .... if 3540 breaks can see 3520/3490 and below this 3475 possible Silver 41.846... if 41.40 breaks can see 41.20/41.00/40.90/40.75/40.65/40.40 possible below $ 40 opens door for $ 39.45/39",
+      "has_media": false,
+      "version": "f9d6fb6294abf561",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137253,
+      "posted_at": "2026-11-20T01:56:07+00:00",
+      "excerpt": "❇️ Register for Today's LIVE Market Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗗𝗜𝗦𝗖𝗨𝗦𝗦𝗜𝗢𝗡 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Early Morning Stock Market Discussions ⚜️ Early Morning Stock Selection Session ⚜️ LIVE QnA Regarding upcoming Master Trader Course? Timings: 10:00 AM -11:00 AM (Today) 📲 Register Now Via This Link [link]",
+      "has_media": true,
+      "version": "a2e04f2a38c1e509",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113005,
+      "posted_at": "2026-11-20T01:53:55+00:00",
+      "excerpt": "🌅 Morning Commentary 20.11.2026 🌅 ✅ Gift Nifty showing flat to negative actual opening may not be the same.... ✅ Yesterday Bank nifty powered markets led by Pvt and PSU banks ✅ Reliance also provided support and it was IT stocks which gave correction on opening but while closing some buying was visible in Tech M and Infosys . ✅ Dollar Index is getting stronger = putting pressure on metals = hence metals may see correction continuing = Nalco / Hindalco / JSW Steel / Tata Steel ./ Jindal Steel etc will see correction ✅ Power sector stocks looking good = REC / PFC remains top picks followed by Coal India / NTPC / Adani power / Tata power ✅ Some stocks looking interesting cash levels IREDA = 134",
+      "has_media": false,
+      "version": "2613d38f2836eb39",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155285,
+      "posted_at": "2026-11-20T01:50:50+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155284,
+      "posted_at": "2026-11-20T01:49:27+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113004,
+      "posted_at": "2026-11-20T01:41:53+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T02:39:06.562409+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113003,
