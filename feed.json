@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T02:39:06.562409+00:00",
+  "updated_at": "2026-11-20T03:38:12.608350+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9636,8 +9636,8 @@
       "pages": 1,
       "newest_id": 137256,
       "gap_detected": false,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
-      "last_success": "2026-11-20T02:39:06.562409+00:00"
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
+      "last_success": "2026-11-20T03:38:12.608350+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9645,53 +9645,53 @@
       "pages": 1,
       "newest_id": 18546,
       "gap_detected": false,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
-      "last_success": "2026-11-20T02:39:06.562409+00:00"
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
+      "last_success": "2026-11-20T03:38:12.608350+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44536,
+      "newest_id": 44542,
       "gap_detected": false,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
-      "last_success": "2026-11-20T02:39:06.562409+00:00"
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
+      "last_success": "2026-11-20T03:38:12.608350+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113009,
+      "newest_id": 113010,
       "gap_detected": false,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
-      "last_success": "2026-11-20T02:39:06.562409+00:00"
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
+      "last_success": "2026-11-20T03:38:12.608350+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155286,
+      "newest_id": 155287,
       "gap_detected": false,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
-      "last_success": "2026-11-20T02:39:06.562409+00:00"
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
+      "last_success": "2026-11-20T03:38:12.608350+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64857,
+      "newest_id": 64859,
       "gap_detected": false,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
-      "last_success": "2026-11-20T02:39:06.562409+00:00"
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
+      "last_success": "2026-11-20T03:38:12.608350+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13649,
+      "newest_id": 13652,
       "gap_detected": false,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
-      "last_success": "2026-11-20T02:39:06.562409+00:00"
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
+      "last_success": "2026-11-20T03:38:12.608350+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,7 +9699,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T02:39:06.562409+00:00",
+      "checked_at": "2026-11-20T03:38:12.608350+00:00",
       "last_success": null
     }
   },
@@ -9710,11 +9710,154 @@
     "last_success": "2026-11-19T18:10:53.144241+00:00",
     "last_attempt": "2026-11-20T02:39:06.562409+00:00",
     "last_error": "HTTP 503",
-    "pending": 2,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "pending": 9,
+    "status": "cooldown",
+    "message": "AI paused until 2026-11-20T03:39:06.562409+00:00; last error: HTTP 503. Rules remain available."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64859,
+      "posted_at": "2026-11-20T03:36:47+00:00",
+      "excerpt": "🌏 GLOBAL & ASIAN MARKETS CRASHED Multiple reasons behind the sell-off: • AI valuation concerns • Heavy selling in chip stocks • Rising Fed rate-hike expectations • Fresh US restrictions on advanced chip exports to China 📉 Market fall 🇯🇵 Nikkei: -2,700 pts / ~4.5% 🇭🇰 Hang Seng: -435 pts / ~2% 🇹🇼 Taiwan: ~6% down 🇰🇷 Korea: ~5% down 🇮🇳 Gift Nifty 230 points down Meanwhile, FIIs are selling in global markets but remain buyers in India 😍 That’s one reason why Indian markets are showing much better relative strength.",
+      "has_media": false,
+      "version": "e67269ca5cbdaf86",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113010,
+      "posted_at": "2026-11-20T03:36:19+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44542,
+      "posted_at": "2026-11-20T03:29:48+00:00",
+      "excerpt": "बाजार में कोहराम | GOLD में भारी गिरावट | Technical Analysis क्या बताता है? [link]",
+      "has_media": false,
+      "version": "323cffd96dbbbf82",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155287,
+      "posted_at": "2026-11-20T03:29:36+00:00",
+      "excerpt": "Huge Correction in Gold and Silver",
+      "has_media": false,
+      "version": "ad6bd98f540d40e3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44541,
+      "posted_at": "2026-11-20T03:13:25+00:00",
+      "excerpt": "🚨 GLOBAL MARKET SELLOFF 📅 20 NOVEMBER 2026 🔴 GIFT NIFTY - 217 points (-0.85%) at 25,333. Indian markets में sharp gap-down opening के संकेत. 🔴 US MARKET - Nasdaq गिरा 2.25% और Dow Jones plunged 1,101 points. 🔴 ASIAN MARKETS - Japan Nikkei टूट 4.1% और South Korea KOSPI गिरा 4.7%. 🛢 CRUDE OIL - Brent फिर $92 के पार पहुंचा amid Middle East tensions. ⚠️ KEY TRIGGERS: AI investment concerns और geopolitical tensions से global markets में भारी selling pressure. 💡 MARKET VIEW: कल की strong recovery के बाद आज Dalal Street में cautious start की आशंका. Source: Moneycontrol",
+      "has_media": false,
+      "version": "2e07e7d8963218af",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13652,
+      "posted_at": "2026-11-20T03:12:01+00:00",
+      "excerpt": "🚀 ORDER WINNERS | DAILY HIGHLIGHTS 🔹 DIACABS – ₹707.80 Cr HVDC conductor order; enters new segment. 🔹 DBL – ₹419.47 Cr Gurugram Metro project. 🔹 COAL INDIA – Rare earth magnet manufacturing facility. 🔹 ADANIENSOL – Major Bihar transmission project. MICROCAP ORDER WINS 🔹 DHRUV – ₹81.53 Cr Bhopal Bypass project. 🔹 HILINFRA – ₹630.17 Cr infrastructure & toll contracts. 🔹 VIVIANA – ₹124 Cr DHBVNL contract. 🔹 EASTINDIA – ₹33.99 Cr Indian Oil order. 🔹 31INFOLTD – ₹24.48 Cr IT services order. 🔹 RMC – ₹18.51 Cr switchgear order. 🔹 APTECHT – ₹5.09 Cr government skilling contracts. 🔹 GPTINFRA – ₹120.95 Cr railway signalling order. 🔹 BMWVENTLTD – ₹9.07 Cr pile cage order. 🔹 AURIONPRO – ₹100 Cr data cen",
+      "has_media": false,
+      "version": "8ec85908a9f31a54",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13650,
+      "posted_at": "2026-11-20T03:11:16+00:00",
+      "excerpt": "💐 GOOD MORNING 😊 🙏 🌄",
+      "has_media": false,
+      "version": "f064367430620c51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13651,
+      "posted_at": "2026-11-20T03:11:16+00:00",
+      "excerpt": "SEBI SOCIAL MEDIA MANDATE & MANDATORY DISCLAIMER AS REQUIRED BY SEBI KIND ATTENTION OF ALL MEMBERS Disclaimer from Admins as per SEBI norms: Equity Investment are subject to 100% market risks. Refer your financial consultant advice before Investing. This group/channel is only for Educational and Learning, Knowledge Purposes. Admins have no responsibility for your intended decision & financial losses. Keep calculated & always analyzed your cash position and risk bearing capacity before following msg of our group postings. Stock market investments are VERY RISKY and being part of this group, you agree that you understand the Market risks involved. Profits and Losses are part of Share market. K",
+      "has_media": false,
+      "version": "10b65f956b8430d8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44540,
+      "posted_at": "2026-11-20T03:09:29+00:00",
+      "excerpt": "📊 BULK & BLOCK DEALS 📅 20 NOVEMBER 2026 🔹 IIFL CAPITAL SERVICES FIH Mauritius ने 11.8% stake ₹1,540 Cr में acquire किया. Fairfax Group की combined holding बढ़कर 52.63% हुई. 🔹 MEDI ASSIST Wasatch Advisors ने 0.51% stake sell किया. 🔹 VALUE 360 COMMUNICATIONS Craft Emerging Market Fund ने 2.48% stake बेच दिया. 🔹 BLACK BOX Quant MF और अन्य institutional investors ने combined 0.63% stake खरीदा. 📅 EX-DIVIDEND STOCKS OIL INDIA | ASHOK LEYLAND ALUFLUORIDE | BF INVESTMENT JAMNA AUTO | MARSONS POLYPLEX | PREVEST DENPRO PDP SHIPPING | RAMA PHOSPHATES SHANMUGA HOSPITAL | SKYWAYS AIR SERVICES STEELCAST | TALBROS AUTOMOTIVE VENUS PIPES 🔹 BUYBACK EX-DATE MEDI ASSIST HEALTHCARE 🔹 RIGHTS ISSUE EX-DATE SML MA",
+      "has_media": false,
+      "version": "18305f2377b346ee",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44539,
+      "posted_at": "2026-11-20T03:00:41+00:00",
+      "excerpt": "📌 STOCKS TO WATCH TODAY 📅 20 NOVEMBER 2026 🔹 SIGNATURE GLOBAL - Gurugram में 10.18 acres land development rights secured. 🔹 VOLTAS - Atomberg के साथ AC compressor manufacturing JV. दोनों ₹100 Cr invest करेंगे. 🔹 PAYTM - Singapore subsidiary up to ₹200 Cr invest करेगी. CardUp में 19.1% stake acquisition. 🔹 DILIP BUILDCON - Gurugram Metro project के लिए ₹419.47 Cr का order मिला. 🔹 COAL INDIA - Rare Earth Magnet manufacturing facility के लिए consortium L2 bidder बना. 🔹 ASHOKA BUILDCON - Saudi Arabia में ₹846.38 Cr का project cancel हुआ. 🔹 ATUL - US Customs ने alleged import duty evasion मामले में investigation शुरू की. 👀 OTHER STOCKS IN FOCUS: Firstsource Solutions | Jindal Steel Hexaware Techn",
+      "has_media": false,
+      "version": "44fde9dde4237544",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64858,
+      "posted_at": "2026-11-20T02:55:49+00:00",
+      "excerpt": "Brutal sell off in Gold, silver & metals 🥵 🥵 Is there a buying opportunity or Avoid 👀 [link]",
+      "has_media": false,
+      "version": "bdcf321218b3639c",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44538,
+      "posted_at": "2026-11-20T02:55:26+00:00",
+      "excerpt": "📊 FII - DII CASH ACTIVITY 📅 19 NOVEMBER 🔹 FII: ₹20,707 Cr Buy | ₹13,296 Cr Sell 🟢 Net Buying: +₹7,411 Cr 🔹 DII: ₹17,652 Cr Buy | ₹19,008 Cr Sell 🔴 Net Selling: -₹1,357 Cr 💡 MARKET FLOW: FIIs की strong buying के मुकाबले DIIs ने net selling की। Source: Cash Market Data",
+      "has_media": false,
+      "version": "7c32bc6064a5650d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44537,
+      "posted_at": "2026-11-20T02:55:00+00:00",
+      "excerpt": "GOOD MORNING 🌅",
+      "has_media": false,
+      "version": "4e25aa432111e550",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137254,
