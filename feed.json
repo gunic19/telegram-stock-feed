@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T05:48:00.370354+00:00",
+  "updated_at": "2026-11-20T06:48:23.841795+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9634,28 +9634,28 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137276,
+      "newest_id": 137283,
       "gap_detected": false,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
-      "last_success": "2026-11-20T05:48:00.370354+00:00"
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "last_success": "2026-11-20T06:48:23.841795+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18547,
+      "newest_id": 18548,
       "gap_detected": false,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
-      "last_success": "2026-11-20T05:48:00.370354+00:00"
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "last_success": "2026-11-20T06:48:23.841795+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44547,
+      "newest_id": 44548,
       "gap_detected": false,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
-      "last_success": "2026-11-20T05:48:00.370354+00:00"
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "last_success": "2026-11-20T06:48:23.841795+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9663,35 +9663,35 @@
       "pages": 1,
       "newest_id": 113029,
       "gap_detected": false,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
-      "last_success": "2026-11-20T05:48:00.370354+00:00"
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "last_success": "2026-11-20T06:48:23.841795+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155297,
+      "newest_id": 155298,
       "gap_detected": false,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
-      "last_success": "2026-11-20T05:48:00.370354+00:00"
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "last_success": "2026-11-20T06:48:23.841795+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64873,
+      "newest_id": 64876,
       "gap_detected": false,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
-      "last_success": "2026-11-20T05:48:00.370354+00:00"
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "last_success": "2026-11-20T06:48:23.841795+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13657,
+      "newest_id": 13660,
       "gap_detected": false,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
-      "last_success": "2026-11-20T05:48:00.370354+00:00"
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "last_success": "2026-11-20T06:48:23.841795+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,22 +9699,192 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T05:48:00.370354+00:00",
+      "checked_at": "2026-11-20T06:48:23.841795+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-20",
-    "requests_today": 3,
+    "requests_today": 4,
     "cooldown_until": null,
-    "last_success": "2026-11-20T05:48:00.370354+00:00",
-    "last_attempt": "2026-11-20T05:48:00.370354+00:00",
+    "last_success": "2026-11-20T06:48:23.841795+00:00",
+    "last_attempt": "2026-11-20T06:48:23.841795+00:00",
     "last_error": null,
-    "pending": 22,
+    "pending": 20,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137283,
+      "posted_at": "2026-11-20T06:47:33+00:00",
+      "excerpt": "📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "5f1abcec1196f5e8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64876,
+      "posted_at": "2026-11-20T06:45:54+00:00",
+      "excerpt": "Broader market should have to pickup momentum soon 👀",
+      "has_media": false,
+      "version": "93f8c0161427092d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137281,
+      "posted_at": "2026-11-20T06:44:56+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64875,
+      "posted_at": "2026-11-20T06:30:10+00:00",
+      "excerpt": "Nifty above 25600 now 100 points up 🔥 Bank nifty 63800 🔥 🔥",
+      "has_media": false,
+      "version": "146d6450863db27e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64874,
+      "posted_at": "2026-11-20T06:29:24+00:00",
+      "excerpt": "Main indices may recover after gap down opening. Small & midcap can still take time to join the index rally 👍",
+      "has_media": false,
+      "version": "78890192a30894c5",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137280,
+      "posted_at": "2026-11-20T06:22:52+00:00",
+      "excerpt": "MOTHERSON SUMI WIRING INDIA LTD ✅ 𝟎𝟐/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟒𝟎 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟒𝟐.𝟖𝟎aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "ba462052469f232a",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137279,
+      "posted_at": "2026-11-20T06:22:40+00:00",
+      "excerpt": "MARUTI SUZUKI INDIA LIMITED ✅ 𝟎𝟑/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟏𝟗𝟎𝟗 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟏𝟑𝟗𝟑𝟕 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "fa7bbf80682f618d",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137278,
+      "posted_at": "2026-11-20T06:22:26+00:00",
+      "excerpt": "MAX HEALTHCARE INSTITUTE LIMITED ✅ 𝟏𝟗/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟎𝟒𝟐 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟏,𝟎𝟗𝟎 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "4bc55f4687db11b6",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18548,
+      "posted_at": "2026-11-20T06:09:57+00:00",
+      "excerpt": "Conviction Delivery Idea BUY PERSISTENT CMP 6192.50 SL 5930 TGT 6716 -The stock is nearing a range breakout, accompanied by a surge in volumes, while strong momentum in the IT sector further supports the bullish outlook. Disclaimer- [link]",
+      "has_media": true,
+      "version": "8f0bed664f8ee184",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "PERSISTENT",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 6192.5,
+      "first_target": 6716.0,
+      "stop_loss": 5930.0,
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44548,
+      "posted_at": "2026-11-20T06:05:07+00:00",
+      "excerpt": "🚀 CRYSTAL CROP PROTECTION IPO 📅 20 NOVEMBER 2026 <escape> 📊 </escape> FINAL DAY UPDATE - IPO को 10:50 AM तक 3.9x subscription मिला. 🔹 NII - 5.76x subscribed. 🔹 RETAIL - 4.04x subscribed. 🔹 IPO SIZE - ₹455.49 Cr Fresh Issue: ₹354.77 Cr Offer for Sale: ₹100.71 Cr 🔹 GMP - करीब 7% premium पर trade कर रहा था. 📅 ALLOTMENT - 23 November 📅 LISTING - 26 November 💡 NII और Retail investors की strong demand से IPO को अच्छा response मिला. ⚠️ GMP unofficial है और listing gains की guarantee नहीं देता. Source: Moneycontrol",
+      "has_media": false,
+      "version": "68580544c78e7fee",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13660,
+      "posted_at": "2026-11-20T06:02:09+00:00",
+      "excerpt": "At today’s market price - NSE has become the world’s fifth largest exchange by market capitalisation in USD terms surpassing NASDAQ and HKEX today For India - NSE Pips Kotak Bank to become the 9th most valued company !",
+      "has_media": false,
+      "version": "9f276f14af8938a3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137277,
+      "posted_at": "2026-11-20T05:59:47+00:00",
+      "excerpt": "NIFTY 25300 - Longs - 2.47L (Intraday - 75939) Shorts - 84457 (Intraday - 12068) 25350 - Longs - 1.51L (Intraday - 55569) Shorts - 31046 (Intraday - 9931) 25400 - Longs - 2.54L (Intraday - 1.36L) Shorts - 1.19L (Intraday - 51798) 25450 - Longs - 1.27L (Intraday - 88936) Shorts - 75898 (Intraday - 45834) 25500 - Longs - 2.84L (Intraday - 1.73L) Shorts - 3.11L (Intraday - 1.76L) 25550 - Longs - 83953 (Intraday - 71115) Shorts - 1.85L (Intraday - 1.41L) 25600 - Longs - 51834 (Intraday - 33044) Shorts - 2.20L (Intraday - 1.36L) BANKNIFTY 62000 - Longs - 47865 (Intraday - 11494) Shorts - 14421 (Intraday - minus 2018) 62500 - Longs - 32033 (Intraday - 8552) Shorts - 15057 (Intraday - minus 2992) 6",
+      "has_media": false,
+      "version": "c5a342a0d237c891",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13659,
+      "posted_at": "2026-11-20T05:57:48+00:00",
+      "excerpt": "Adani Power lo bhai ban gya 14% Abhi 220 tak ke level dikh sakte hai wait karunga",
+      "has_media": true,
+      "version": "dc0c4364027ce760",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13658,
+      "posted_at": "2026-11-20T05:57:31+00:00",
+      "excerpt": "#PROMOTION 🔥 Next 10X Multibagger If you were to deploy ₹1 Crore in just ONE high-growth Small Cap stock, 🚀 Spot the next multibagger “Every 10x story begins with one unnoticed breakout.” Price below ₹100 Can join our free group for name ~ Join now…",
+      "has_media": false,
+      "version": "b3f5f4c9209a0998",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155298,
+      "posted_at": "2026-11-20T05:54:25+00:00",
+      "excerpt": "INDUSBANK INDUSBANK 1000 CE 8++ SUPPORT 3 VUEW 15 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "b3711cf9a1546384",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T06:48:23.841795+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113029,
@@ -9783,7 +9953,18 @@
       "symbol_candidate": "MSUMI",
       "stop_loss": 35.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+      "observed_at": "2026-11-20T05:48:00.370354+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "MSUMI",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 35.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9862,7 +10043,18 @@
       "symbol_candidate": "CAMS",
       "stop_loss": 710.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+      "observed_at": "2026-11-20T05:48:00.370354+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "CAMS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 710.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10040,7 +10232,18 @@
       "symbol_candidate": "INFY",
       "stop_loss": 1100.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-20T05:48:00.370354+00:00"
+      "observed_at": "2026-11-20T05:48:00.370354+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "INFY",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1100.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10084,7 +10287,18 @@
       "version": "840a12b23098d6d8",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "EICHER Motors",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 7600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10141,7 +10355,18 @@
       "version": "71696618efeafe52",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10187,7 +10412,18 @@
       "version": "80bb997fce08498b",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "KOTAK Bank",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 488.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10314,7 +10550,18 @@
       "version": "5a0d24210f6cc57a",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T04:44:48.066327+00:00"
+      "observed_at": "2026-11-20T04:44:48.066327+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "EICHERMOTOR",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10780,7 +11027,18 @@
       "version": "7c32bc6064a5650d",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-20T03:38:12.608350+00:00"
+      "observed_at": "2026-11-20T03:38:12.608350+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-20T06:48:23.841795+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
