@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T06:48:23.841795+00:00",
+  "updated_at": "2026-11-20T08:04:03.683519+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-19T17:08:31.518653+00:00",
@@ -9634,10 +9634,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137283,
+      "newest_id": 137289,
       "gap_detected": false,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
-      "last_success": "2026-11-20T06:48:23.841795+00:00"
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "last_success": "2026-11-20T08:04:03.683519+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9645,35 +9645,35 @@
       "pages": 1,
       "newest_id": 18548,
       "gap_detected": false,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
-      "last_success": "2026-11-20T06:48:23.841795+00:00"
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "last_success": "2026-11-20T08:04:03.683519+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44548,
+      "newest_id": 44549,
       "gap_detected": false,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
-      "last_success": "2026-11-20T06:48:23.841795+00:00"
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "last_success": "2026-11-20T08:04:03.683519+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113029,
+      "newest_id": 113037,
       "gap_detected": false,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
-      "last_success": "2026-11-20T06:48:23.841795+00:00"
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "last_success": "2026-11-20T08:04:03.683519+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155298,
+      "newest_id": 155311,
       "gap_detected": false,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
-      "last_success": "2026-11-20T06:48:23.841795+00:00"
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "last_success": "2026-11-20T08:04:03.683519+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9681,17 +9681,17 @@
       "pages": 1,
       "newest_id": 64876,
       "gap_detected": false,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
-      "last_success": "2026-11-20T06:48:23.841795+00:00"
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "last_success": "2026-11-20T08:04:03.683519+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13660,
+      "newest_id": 13661,
       "gap_detected": false,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
-      "last_success": "2026-11-20T06:48:23.841795+00:00"
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
+      "last_success": "2026-11-20T08:04:03.683519+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9699,22 +9699,314 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-20T06:48:23.841795+00:00",
+      "checked_at": "2026-11-20T08:04:03.683519+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-20",
-    "requests_today": 4,
-    "cooldown_until": null,
+    "requests_today": 5,
+    "cooldown_until": "2026-11-20T09:04:03.683519+00:00",
     "last_success": "2026-11-20T06:48:23.841795+00:00",
-    "last_attempt": "2026-11-20T06:48:23.841795+00:00",
-    "last_error": null,
-    "pending": 20,
-    "status": "ok",
-    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
+    "last_attempt": "2026-11-20T08:04:03.683519+00:00",
+    "last_error": "HTTP 503",
+    "pending": 34,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137288,
+      "posted_at": "2026-11-20T07:58:30+00:00",
+      "excerpt": "POSITIONAL TRADE CROMPTON GREAVES (CROMPTON) Looks Good ABOVE 222.5 SL 217 Targets  2-4-6-8-10 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
+      "has_media": false,
+      "version": "3a5b29027f4b9a81",
+      "category": "watch",
+      "symbol_candidate": "CROMPTON",
+      "stop_loss": 217.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113037,
+      "posted_at": "2026-11-20T07:53:01+00:00",
+      "excerpt": "HPCL / BPCL = BLAST MODE NOW",
+      "has_media": false,
+      "version": "6f4eb3c263e36e23",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13661,
+      "posted_at": "2026-11-20T07:40:31+00:00",
+      "excerpt": "NIFTY, bank nifty 🚀 🚀 Small cap , mid cap 😪",
+      "has_media": true,
+      "version": "21187ac1ac028eac",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155311,
+      "posted_at": "2026-11-20T07:39:02+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137287,
+      "posted_at": "2026-11-20T07:38:26+00:00",
+      "excerpt": "BAJAJ HOLDINGS & INVESTMENT LTD ✅ 𝟐𝟐/𝟏𝟎/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟏𝟒𝟒𝟒 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟏𝟏𝟔𝟔𝟎 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "9e643bb6f63e7e68",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137286,
+      "posted_at": "2026-11-20T07:38:15+00:00",
+      "excerpt": "UNION BANK OF INDIA LTD ✅ 𝟐𝟐/𝟏𝟎/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟖𝟔 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟐𝟏𝟕.𝟖𝟎 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "2f9b260a8cd3d8cf",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113036,
+      "posted_at": "2026-11-20T07:36:16+00:00",
+      "excerpt": "OIL CRASH COMING 🤔 🫪",
+      "has_media": true,
+      "version": "953638234de3267b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155309,
+      "posted_at": "2026-11-20T07:33:24+00:00",
+      "excerpt": "FROM DAILY 10,000 PROFIT TO TODAY 56,000 PROFIT THAT'S WHAT READ DEDICATION AND EFFORT PAY YOU OFF 👏 👏 👏 👏 KEEP IT UP MATE 👏 👏 👏",
+      "has_media": true,
+      "version": "6f1ba988ba973b49",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155307,
+      "posted_at": "2026-11-20T07:30:17+00:00",
+      "excerpt": "ON TARGET 🎯 🔫",
+      "has_media": true,
+      "version": "e0d23385697c33c2",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155306,
+      "posted_at": "2026-11-20T07:29:05+00:00",
+      "excerpt": "+ BANK NIFTY TWO TIMES 200-POINT RALLY BACK TO BACK MASTER BLASTER 💪 THE PRIME DAY 💪",
+      "has_media": true,
+      "version": "80070e187fc8129a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113035,
+      "posted_at": "2026-11-20T07:26:40+00:00",
+      "excerpt": "NIFTY spot 600 points away .... tuesday all time High 🤔 🫪",
+      "has_media": false,
+      "version": "103231d051cfb33c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155305,
+      "posted_at": "2026-11-20T07:19:04+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155304,
+      "posted_at": "2026-11-20T07:17:50+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44549,
+      "posted_at": "2026-11-20T07:16:46+00:00",
+      "excerpt": "🚀 SEIL SHARES RALLY 3% 📅 20 NOVEMBER 2026 🟢 STOCK REACTION - Shanti Educational Initiatives (SEIL) shares nearly 3% चढ़कर ₹204 पर पहुंचे. 🔹 BSE CLEARANCE - Proposed restructuring scheme पर BSE ने No Adverse Observations letter जारी किया. 🔹 RESTRUCTURING PLAN: • Education business Shanti Learning Initiatives को transfer होगा. • इसके बाद SEIL का GREW Energy के साथ merger होगा. • GREW Energy को stock exchanges पर list करने की योजना है. 🔹 SHARE SWAP RATIO: हर 212 SEIL shares के बदले 100 GREW Energy shares मिलेंगे. ⚠️ NEXT STEPS: CCI | NCLT | Shareholders | Creditors और अन्य regulatory approvals जरूरी होंगे. 💡 KEY TAKEAWAY: इस restructuring के जरिए SEIL shareholders को proposed listed solar manuf",
+      "has_media": false,
+      "version": "11601c629e0a979b",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113034,
+      "posted_at": "2026-11-20T07:16:13+00:00",
+      "excerpt": "REC =304 CROSED CAN SEE MOVES TOWARDS 306/8/12+ AND PFC 332/334 CROSSED CAN SEE 336/38/40+",
+      "has_media": false,
+      "version": "295d88ab0015a93b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113033,
+      "posted_at": "2026-11-20T07:14:42+00:00",
+      "excerpt": "budget wish list / sector to be focus defense = allocation may increase railways = new railway upgradation Banks = PSU bank merger / disinvestment Market BUZZ = INCOME TAX MAY GO = ONLY GST MAY REMAIN .... (this is buzz )",
+      "has_media": false,
+      "version": "bb699af0c67e7fac",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155303,
+      "posted_at": "2026-11-20T07:13:32+00:00",
+      "excerpt": "INDUSBANK INDUSBANK 1000 CE 8++ SUPPORT 3 VUEW 15 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "b3711cf9a1546384",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113032,
+      "posted_at": "2026-11-20T07:12:02+00:00",
+      "excerpt": "25780/808 future nifty knocking anytime",
+      "has_media": false,
+      "version": "dbead36e9a8edb46",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155302,
+      "posted_at": "2026-11-20T07:11:21+00:00",
+      "excerpt": "BNF 64300 CE 460 SUPPORT 300 VIEW 600 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "3fd1a793316e72af",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155301,
+      "posted_at": "2026-11-20T07:11:07+00:00",
+      "excerpt": "BNF 64300 CE 460 SUPPORT 300 VIEW 600 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "3fd1a793316e72af",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155300,
+      "posted_at": "2026-11-20T07:09:56+00:00",
+      "excerpt": "BNF 64300 CE 460 SUPPORT 300 VIEW 600 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "3fd1a793316e72af",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113031,
+      "posted_at": "2026-11-20T07:05:27+00:00",
+      "excerpt": "again 2nd half may see rebound of IT stocks",
+      "has_media": false,
+      "version": "79e442dbcc071e1e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113030,
+      "posted_at": "2026-11-20T07:04:09+00:00",
+      "excerpt": "BULLS ON RAMPAGE IN BANK NIFTY = SHORTERS BLEEDING BADLY",
+      "has_media": false,
+      "version": "78f218e3b4e8d101",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137285,
+      "posted_at": "2026-11-20T07:00:57+00:00",
+      "excerpt": "POSITIONAL TRADE CROMPTON GREAVES (CROMPTON) Looks Good ABOVE 222.5 SL 217 Targets  2-4-6-8-10 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
+      "has_media": false,
+      "version": "3a5b29027f4b9a81",
+      "category": "watch",
+      "symbol_candidate": "CROMPTON",
+      "stop_loss": 217.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137284,
+      "posted_at": "2026-11-20T06:59:54+00:00",
+      "excerpt": "POSITIONAL TRADE CROMPTON GREAVES (CROMPTON) Looks Good ABOVE 222.5 SL 217 Targets  2-4-6-8-10 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "174df12cf0eac892",
+      "category": "watch",
+      "symbol_candidate": "CROMPTON",
+      "stop_loss": 217.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155299,
+      "posted_at": "2026-11-20T06:59:09+00:00",
+      "excerpt": "INDUSBANK INDUSBANK 1000 CE 8++ SUPPORT 3 VUEW 15 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "b3711cf9a1546384",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-20T08:04:03.683519+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137283,
