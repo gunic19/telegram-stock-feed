@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T07:57:40.716827+00:00",
+  "updated_at": "2026-11-21T08:52:30.424777+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-20T17:44:16.183552+00:00",
@@ -9644,8 +9644,8 @@
       "pages": 1,
       "newest_id": 137305,
       "gap_detected": false,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
-      "last_success": "2026-11-21T07:57:40.716827+00:00"
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
+      "last_success": "2026-11-21T08:52:30.424777+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
-      "last_success": "2026-11-21T07:57:40.716827+00:00"
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
+      "last_success": "2026-11-21T08:52:30.424777+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,8 +9662,8 @@
       "pages": 1,
       "newest_id": 44553,
       "gap_detected": false,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
-      "last_success": "2026-11-21T07:57:40.716827+00:00"
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
+      "last_success": "2026-11-21T08:52:30.424777+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,8 +9671,8 @@
       "pages": 1,
       "newest_id": 113061,
       "gap_detected": false,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
-      "last_success": "2026-11-21T07:57:40.716827+00:00"
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
+      "last_success": "2026-11-21T08:52:30.424777+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,8 +9680,8 @@
       "pages": 1,
       "newest_id": 155317,
       "gap_detected": false,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
-      "last_success": "2026-11-21T07:57:40.716827+00:00"
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
+      "last_success": "2026-11-21T08:52:30.424777+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,17 +9689,17 @@
       "pages": 1,
       "newest_id": 64888,
       "gap_detected": false,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
-      "last_success": "2026-11-21T07:57:40.716827+00:00"
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
+      "last_success": "2026-11-21T08:52:30.424777+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13670,
+      "newest_id": 13673,
       "gap_detected": false,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
-      "last_success": "2026-11-21T07:57:40.716827+00:00"
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
+      "last_success": "2026-11-21T08:52:30.424777+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,88 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-21T07:57:40.716827+00:00",
+      "checked_at": "2026-11-21T08:52:30.424777+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-21",
-    "requests_today": 2,
+    "requests_today": 3,
     "cooldown_until": null,
-    "last_success": "2026-11-21T06:45:33.653060+00:00",
-    "last_attempt": "2026-11-21T06:45:33.653060+00:00",
+    "last_success": "2026-11-21T08:52:30.424777+00:00",
+    "last_attempt": "2026-11-21T08:52:30.424777+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "status": "ok",
+    "message": "AI processed 3/3 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13673,
+      "posted_at": "2026-11-21T08:18:11+00:00",
+      "excerpt": "Adani Energy Solutions Ltd – 2,500 MW RENEWABLE ROUND-THE-CLOCK POWER SUPPLY ORDER WIN Adani Energy Solutions Ltd’s subsidiary, Powerpulse Trading Solutions Ltd, has received a Letter of Award from West Bengal State Electricity Distribution Co. Ltd for the supply of 2,500 MW of renewable round-the-clock power: - The contract covers an initial supply of 1,750 MW, with an additional 750 MW greenshoe option that can be exercised by the utility at a later date. - The power supply agreement is for a duration of 25 years, secured through a competitive bidding process and e-reverse auction. - Power supply for the initial 1,750 MW capacity is scheduled to commence from July 1, 2028, while the 750 MW",
+      "has_media": false,
+      "version": "55c8476d0c0ac936",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-21T08:52:30.424777+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Adani Energy Solutions Ltd",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-21T08:52:30.424777+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13672,
+      "posted_at": "2026-11-21T08:09:34+00:00",
+      "excerpt": "#PROMOTION 🏆 BIG ANNOUNCEMENT JOIN VIP TELEGRAM CHENNAL Monday Nifty expiry hero zero jackpot trade is free [link] [link] ✅ Daily 1-3 Free Trade ✅ Banknifty / Stock Option / Swing Trade ✅ Minimum SL With…",
+      "has_media": false,
+      "version": "8f884e3806d03006",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-21T08:52:30.424777+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-21T08:52:30.424777+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13671,
+      "posted_at": "2026-11-21T08:09:29+00:00",
+      "excerpt": "Finolex Cables Reduces Prices Of Copper Armoured Cables By 5-6% -NDTV PROFIT Price Reduction Is Effective From Today First Price Reduction Seen In A Large Capacity Wire Polycab and RR Kabel Are Also Likely To Reduce Prices Of Armoured Cables Next Week Alert: Finolex Already Took Price Reduction Of 5-6% In Home Wires Last Week",
+      "has_media": false,
+      "version": "04f7993e88d8f830",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-21T08:52:30.424777+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "Finolex Cables",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-21T08:52:30.424777+00:00"
+      }
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137304,
