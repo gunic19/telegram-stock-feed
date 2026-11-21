@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T14:35:59.261284+00:00",
+  "updated_at": "2026-11-21T15:25:30.391561+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-20T17:44:16.183552+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137314,
+      "newest_id": 137316,
       "gap_detected": false,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
-      "last_success": "2026-11-21T14:35:59.261284+00:00"
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
+      "last_success": "2026-11-21T15:25:30.391561+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
-      "last_success": "2026-11-21T14:35:59.261284+00:00"
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
+      "last_success": "2026-11-21T15:25:30.391561+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,8 +9662,8 @@
       "pages": 1,
       "newest_id": 44553,
       "gap_detected": false,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
-      "last_success": "2026-11-21T14:35:59.261284+00:00"
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
+      "last_success": "2026-11-21T15:25:30.391561+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,8 +9671,8 @@
       "pages": 1,
       "newest_id": 113061,
       "gap_detected": false,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
-      "last_success": "2026-11-21T14:35:59.261284+00:00"
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
+      "last_success": "2026-11-21T15:25:30.391561+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,17 +9680,17 @@
       "pages": 1,
       "newest_id": 155317,
       "gap_detected": false,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
-      "last_success": "2026-11-21T14:35:59.261284+00:00"
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
+      "last_success": "2026-11-21T15:25:30.391561+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64892,
+      "newest_id": 64893,
       "gap_detected": false,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
-      "last_success": "2026-11-21T14:35:59.261284+00:00"
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
+      "last_success": "2026-11-21T15:25:30.391561+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13673,
       "gap_detected": false,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
-      "last_success": "2026-11-21T14:35:59.261284+00:00"
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
+      "last_success": "2026-11-21T15:25:30.391561+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,77 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-21T14:35:59.261284+00:00",
+      "checked_at": "2026-11-21T15:25:30.391561+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-21",
-    "requests_today": 3,
+    "requests_today": 4,
     "cooldown_until": null,
-    "last_success": "2026-11-21T08:52:30.424777+00:00",
-    "last_attempt": "2026-11-21T08:52:30.424777+00:00",
+    "last_success": "2026-11-21T15:25:30.391561+00:00",
+    "last_attempt": "2026-11-21T15:25:30.391561+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "status": "ok",
+    "message": "AI processed 2/2 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64893,
+      "posted_at": "2026-11-21T15:15:55+00:00",
+      "excerpt": "Do you want watchlist stocks for next week ?",
+      "has_media": false,
+      "version": "aac2021c2a1bfcd4",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-21T15:25:30.391561+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137316,
+      "posted_at": "2026-11-21T14:35:52+00:00",
+      "excerpt": "🔥 Today's Informative Youtube Video Out- PLZ WATCH IT 🔥 ✅ StockPro | My Watchlist Process: Market First, Stocks Second [link]",
+      "has_media": false,
+      "version": "b576dc53b4efafad",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-21T15:25:30.391561+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-21T15:25:30.391561+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137315,
+      "posted_at": "2026-11-21T14:35:41+00:00",
+      "excerpt": "🔥 Today's Informative Youtube Video Out- PLZ WATCH IT 🔥 ✅ StockPro | My Watchlist Process: Market First, Stocks Second [link]",
+      "has_media": false,
+      "version": "b576dc53b4efafad",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-21T15:25:30.391561+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-21T15:25:30.391561+00:00"
+      }
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64892,
