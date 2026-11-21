@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T12:22:27.230175+00:00",
+  "updated_at": "2026-11-21T13:37:44.845552+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-20T17:44:16.183552+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137310,
+      "newest_id": 137312,
       "gap_detected": false,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
-      "last_success": "2026-11-21T12:22:27.230175+00:00"
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
+      "last_success": "2026-11-21T13:37:44.845552+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
-      "last_success": "2026-11-21T12:22:27.230175+00:00"
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
+      "last_success": "2026-11-21T13:37:44.845552+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,8 +9662,8 @@
       "pages": 1,
       "newest_id": 44553,
       "gap_detected": false,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
-      "last_success": "2026-11-21T12:22:27.230175+00:00"
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
+      "last_success": "2026-11-21T13:37:44.845552+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,8 +9671,8 @@
       "pages": 1,
       "newest_id": 113061,
       "gap_detected": false,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
-      "last_success": "2026-11-21T12:22:27.230175+00:00"
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
+      "last_success": "2026-11-21T13:37:44.845552+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,17 +9680,17 @@
       "pages": 1,
       "newest_id": 155317,
       "gap_detected": false,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
-      "last_success": "2026-11-21T12:22:27.230175+00:00"
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
+      "last_success": "2026-11-21T13:37:44.845552+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64888,
+      "newest_id": 64892,
       "gap_detected": false,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
-      "last_success": "2026-11-21T12:22:27.230175+00:00"
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
+      "last_success": "2026-11-21T13:37:44.845552+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13673,
       "gap_detected": false,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
-      "last_success": "2026-11-21T12:22:27.230175+00:00"
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
+      "last_success": "2026-11-21T13:37:44.845552+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,7 +9707,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-21T12:22:27.230175+00:00",
+      "checked_at": "2026-11-21T13:37:44.845552+00:00",
       "last_success": null
     }
   },
@@ -9723,6 +9723,61 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64892,
+      "posted_at": "2026-11-21T13:21:14+00:00",
+      "excerpt": "FII bought 10000 cr Today Retailers shocked everyday Nifty Bank has risen by 10,000 points in just 14 sessions.",
+      "has_media": false,
+      "version": "ec34d547a209702c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-21T13:37:44.845552+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137311,
+      "posted_at": "2026-11-21T13:10:36+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-21T13:37:44.845552+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64891,
+      "posted_at": "2026-11-21T13:08:16+00:00",
+      "excerpt": "Premier explosive received Export order worth USD 33.6 mn (₹311 Cr) for defence explosives, to be delivered in 12 months.",
+      "has_media": false,
+      "version": "7dee25226d3a26f6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-21T13:37:44.845552+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64890,
+      "posted_at": "2026-11-21T13:07:31+00:00",
+      "excerpt": "TEXRAIL is picking momentum",
+      "has_media": false,
+      "version": "b6c0ae3e9287273a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-21T13:37:44.845552+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64889,
+      "posted_at": "2026-11-21T13:05:20+00:00",
+      "excerpt": "🚨 COMMODITY CRASH = INFLATION RELIEF? WTI -21.7% | Brent -19.8% | Gasoline -21.4% Copper -14.1% | Silver -13% | Gold -7.6% Aluminium -7.1% | Platinum -9% | Sugar -11% Commodities are under heavy pressure, which could bring significant inflation relief after November. Markets feared multiple Fed hikes, but falling commodity prices could change the story. Could December be the last Fed hike before a pause? 👀",
+      "has_media": false,
+      "version": "9c696434a1ec0a23",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-21T13:37:44.845552+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137307,
