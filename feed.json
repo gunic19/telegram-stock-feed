@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T05:42:04.544405+00:00",
+  "updated_at": "2026-11-21T06:45:33.653060+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-20T17:44:16.183552+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137302,
+      "newest_id": 137303,
       "gap_detected": false,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
-      "last_success": "2026-11-21T05:42:04.544405+00:00"
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
+      "last_success": "2026-11-21T06:45:33.653060+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,26 +9653,26 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
-      "last_success": "2026-11-21T05:42:04.544405+00:00"
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
+      "last_success": "2026-11-21T06:45:33.653060+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44552,
+      "newest_id": 44553,
       "gap_detected": false,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
-      "last_success": "2026-11-21T05:42:04.544405+00:00"
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
+      "last_success": "2026-11-21T06:45:33.653060+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113055,
+      "newest_id": 113061,
       "gap_detected": false,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
-      "last_success": "2026-11-21T05:42:04.544405+00:00"
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
+      "last_success": "2026-11-21T06:45:33.653060+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,8 +9680,8 @@
       "pages": 1,
       "newest_id": 155317,
       "gap_detected": false,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
-      "last_success": "2026-11-21T05:42:04.544405+00:00"
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
+      "last_success": "2026-11-21T06:45:33.653060+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,8 +9689,8 @@
       "pages": 1,
       "newest_id": 64888,
       "gap_detected": false,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
-      "last_success": "2026-11-21T05:42:04.544405+00:00"
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
+      "last_success": "2026-11-21T06:45:33.653060+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13670,
       "gap_detected": false,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
-      "last_success": "2026-11-21T05:42:04.544405+00:00"
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
+      "last_success": "2026-11-21T06:45:33.653060+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,121 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-21T05:42:04.544405+00:00",
+      "checked_at": "2026-11-21T06:45:33.653060+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-21",
-    "requests_today": 1,
+    "requests_today": 2,
     "cooldown_until": null,
-    "last_success": "2026-11-21T05:42:04.544405+00:00",
-    "last_attempt": "2026-11-21T05:42:04.544405+00:00",
+    "last_success": "2026-11-21T06:45:33.653060+00:00",
+    "last_attempt": "2026-11-21T06:45:33.653060+00:00",
     "last_error": null,
     "pending": 0,
     "status": "ok",
-    "message": "AI processed 3/3 shortlisted posts; outputs unverified."
+    "message": "AI processed 2/2 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113061,
+      "posted_at": "2026-11-21T06:37:45+00:00",
+      "excerpt": "🔥 Advance Enzyme 🔥 Closed at 290 .... 296/300 crossed can see moves towards 310/16/324/330 and above 342/46 can see moves towards 365/380+ 🔥 288/82 broken can see 276/68/62/56/44 🔥 Interesting days ahead",
+      "has_media": true,
+      "version": "c684cf0d2c12e86a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-21T06:45:33.653060+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113060,
+      "posted_at": "2026-11-21T06:35:25+00:00",
+      "excerpt": "🔥 Poonawala Fincorp 🔥 Hit Fresh 52 wk highs 522 ... now above 528/34 crossed can see moves towards 540/46/52/60 and above 566/72 can see moves towards 580/600+ 🔥 Downside 516/12 broken can see 508/496/488/478/62 🔥 Interesting days ahead !!!!",
+      "has_media": true,
+      "version": "7d7a2bf7c8a3dd2d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-21T06:45:33.653060+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113059,
+      "posted_at": "2026-11-21T06:32:47+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-21T06:45:33.653060+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44553,
+      "posted_at": "2026-11-21T06:21:03+00:00",
+      "excerpt": "🏦 HINDUJA LEYLAND FINANCE ⚠️ Merger के बीच Loan Discrepancies का मामला! 🔹 NCLT ने Hinduja Leyland Finance और NDL Ventures के merger को मंजूरी दी. 🔹 Auditors ने अलग-अलग systems में loan balances और transactions में discrepancies flag की हैं. 🔹 Independent review के लिए 4–6 weeks का समय लग सकता है. 🔹 RBI registration और बाकी legal formalities December तक पूरी होने की उम्मीद. 📌 इन discrepancies का actual financial impact फिलहाल पता नहीं है. Source: Moneycontrol Date: 21 November 2026",
+      "has_media": false,
+      "version": "1ad34704dec57755",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-21T06:45:33.653060+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "HINDUJA LEYLAND FINANCE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-21T06:45:33.653060+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113058,
+      "posted_at": "2026-11-21T06:04:17+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-21T06:45:33.653060+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113057,
+      "posted_at": "2026-11-21T05:48:12+00:00",
+      "excerpt": "SILVER 🥈 GOLD 🥇 IF YOU ARE STILL IN PROFIT EXIT ....AS PER ONE BIG ANALYST",
+      "has_media": false,
+      "version": "cf9cdbde4499c28d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-21T06:45:33.653060+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-21T06:45:33.653060+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113056,
+      "posted_at": "2026-11-21T05:47:30+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-21T06:45:33.653060+00:00"
+    },
     {
       "channel": "stockmarketadviser91",
       "message_id": 13670,
