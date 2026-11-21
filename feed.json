@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T22:00:19.888313+00:00",
+  "updated_at": "2026-11-21T22:44:07.628772+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-21T18:03:59.203768+00:00",
@@ -9644,8 +9644,8 @@
       "pages": 1,
       "newest_id": 137318,
       "gap_detected": false,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
-      "last_success": "2026-11-21T22:00:19.888313+00:00"
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
+      "last_success": "2026-11-21T22:44:07.628772+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
-      "last_success": "2026-11-21T22:00:19.888313+00:00"
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
+      "last_success": "2026-11-21T22:44:07.628772+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,8 +9662,8 @@
       "pages": 1,
       "newest_id": 44553,
       "gap_detected": false,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
-      "last_success": "2026-11-21T22:00:19.888313+00:00"
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
+      "last_success": "2026-11-21T22:44:07.628772+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,8 +9671,8 @@
       "pages": 1,
       "newest_id": 113061,
       "gap_detected": false,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
-      "last_success": "2026-11-21T22:00:19.888313+00:00"
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
+      "last_success": "2026-11-21T22:44:07.628772+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,8 +9680,8 @@
       "pages": 1,
       "newest_id": 155317,
       "gap_detected": false,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
-      "last_success": "2026-11-21T22:00:19.888313+00:00"
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
+      "last_success": "2026-11-21T22:44:07.628772+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,8 +9689,8 @@
       "pages": 1,
       "newest_id": 64896,
       "gap_detected": false,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
-      "last_success": "2026-11-21T22:00:19.888313+00:00"
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
+      "last_success": "2026-11-21T22:44:07.628772+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13673,
       "gap_detected": false,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
-      "last_success": "2026-11-21T22:00:19.888313+00:00"
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
+      "last_success": "2026-11-21T22:44:07.628772+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,7 +9707,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-21T22:00:19.888313+00:00",
+      "checked_at": "2026-11-21T22:44:07.628772+00:00",
       "last_success": null
     }
   },
