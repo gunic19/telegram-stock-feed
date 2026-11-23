@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T11:10:34.738963+00:00",
+  "updated_at": "2026-11-23T12:19:16.617108+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137376,
+      "newest_id": 137379,
       "gap_detected": false,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
-      "last_success": "2026-11-23T11:10:34.738963+00:00"
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "last_success": "2026-11-23T12:19:16.617108+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,17 +9653,17 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
-      "last_success": "2026-11-23T11:10:34.738963+00:00"
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "last_success": "2026-11-23T12:19:16.617108+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44570,
+      "newest_id": 44571,
       "gap_detected": false,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
-      "last_success": "2026-11-23T11:10:34.738963+00:00"
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "last_success": "2026-11-23T12:19:16.617108+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,17 +9671,17 @@
       "pages": 1,
       "newest_id": 113103,
       "gap_detected": false,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
-      "last_success": "2026-11-23T11:10:34.738963+00:00"
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "last_success": "2026-11-23T12:19:16.617108+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155340,
+      "newest_id": 155341,
       "gap_detected": false,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
-      "last_success": "2026-11-23T11:10:34.738963+00:00"
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "last_success": "2026-11-23T12:19:16.617108+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,8 +9689,8 @@
       "pages": 1,
       "newest_id": 64915,
       "gap_detected": false,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
-      "last_success": "2026-11-23T11:10:34.738963+00:00"
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "last_success": "2026-11-23T12:19:16.617108+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13681,
       "gap_detected": false,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
-      "last_success": "2026-11-23T11:10:34.738963+00:00"
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "last_success": "2026-11-23T12:19:16.617108+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,7 +9707,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "checked_at": "2026-11-23T12:19:16.617108+00:00",
       "last_success": null
     }
   },
@@ -9719,10 +9719,54 @@
     "last_attempt": "2026-11-23T11:10:34.738963+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "ok",
-    "message": "AI processed 2/2 shortlisted posts; outputs unverified."
+    "status": "idle",
+    "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137379,
+      "posted_at": "2026-11-23T12:15:28+00:00",
+      "excerpt": "HAVE QUESTIONS ABOUT THE MASTER TRADER COURSE? 📈 Get all your queries answered directly by Dr. Seema Jain in a LIVE Interactive Q&A Session on 24th November 2026, from 11:00 AM to 12:30 PM. ⏰ If you are planning to enroll in the Master Trader Course and have any questions or concerns, this is your opportunity to interact with Dr. Seema Jain and get clarity on everything before making your decision. 💡 Submit your questions in advance and join tomorrow's LIVE session to get all your queries answered! 📝 [link]",
+      "has_media": false,
+      "version": "82ff3036c0abf153",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T12:19:16.617108+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137378,
+      "posted_at": "2026-11-23T12:03:13+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T12:19:16.617108+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155341,
+      "posted_at": "2026-11-23T11:28:57+00:00",
+      "excerpt": "जब मार्केट में तेजी थी, तब भी इंडेक्स के मुकाबले Midcap और Smallcap Stocks में कोई खास तेजी देखने को नहीं मिली। अब जब इंडेक्स में गिरावट शुरू हो गई है, तो Midcap और Smallcap Stocks का क्या हाल होगा? अब इनमें दोगुनी रफ्तार से गिरावट देखने को मिल सकती है।",
+      "has_media": false,
+      "version": "265daf17ed9ae24b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T12:19:16.617108+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44571,
+      "posted_at": "2026-11-23T11:14:30+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T12:19:16.617108+00:00"
+    },
     {
       "channel": "motilaloswalofficial",
       "message_id": 18557,
