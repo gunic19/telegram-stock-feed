@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T10:02:19.897467+00:00",
+  "updated_at": "2026-11-23T11:10:34.738963+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,28 +9642,28 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137373,
+      "newest_id": 137376,
       "gap_detected": false,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
-      "last_success": "2026-11-23T10:02:19.897467+00:00"
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "last_success": "2026-11-23T11:10:34.738963+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18556,
+      "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
-      "last_success": "2026-11-23T10:02:19.897467+00:00"
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "last_success": "2026-11-23T11:10:34.738963+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44569,
+      "newest_id": 44570,
       "gap_detected": false,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
-      "last_success": "2026-11-23T10:02:19.897467+00:00"
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "last_success": "2026-11-23T11:10:34.738963+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,17 +9671,17 @@
       "pages": 1,
       "newest_id": 113103,
       "gap_detected": false,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
-      "last_success": "2026-11-23T10:02:19.897467+00:00"
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "last_success": "2026-11-23T11:10:34.738963+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155339,
+      "newest_id": 155340,
       "gap_detected": false,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
-      "last_success": "2026-11-23T10:02:19.897467+00:00"
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "last_success": "2026-11-23T11:10:34.738963+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,17 +9689,17 @@
       "pages": 1,
       "newest_id": 64915,
       "gap_detected": false,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
-      "last_success": "2026-11-23T10:02:19.897467+00:00"
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "last_success": "2026-11-23T11:10:34.738963+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13680,
+      "newest_id": 13681,
       "gap_detected": false,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
-      "last_success": "2026-11-23T10:02:19.897467+00:00"
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
+      "last_success": "2026-11-23T11:10:34.738963+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,88 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "checked_at": "2026-11-23T11:10:34.738963+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 7,
+    "requests_today": 8,
     "cooldown_until": null,
-    "last_success": "2026-11-23T10:02:19.897467+00:00",
-    "last_attempt": "2026-11-23T10:02:19.897467+00:00",
+    "last_success": "2026-11-23T11:10:34.738963+00:00",
+    "last_attempt": "2026-11-23T11:10:34.738963+00:00",
     "last_error": null,
-    "pending": 2,
+    "pending": 0,
     "status": "ok",
-    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
+    "message": "AI processed 2/2 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18557,
+      "posted_at": "2026-11-23T11:05:34+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T11:10:34.738963+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13681,
+      "posted_at": "2026-11-23T11:04:41+00:00",
+      "excerpt": "#AD FREE COMMUNITY FOR MEMBERS Don't Miss • Free Swing Set-Up • Free Intraday Set-up • Free Market update • IPO Updates Free Joining Link [link] First 51 MEMBERS FREE",
+      "has_media": false,
+      "version": "ad6173c9a8adea5f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T11:10:34.738963+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44570,
+      "posted_at": "2026-11-23T10:45:23+00:00",
+      "excerpt": "NIFTY ने ये क्या बना दिया? | NIFTY ने बनाया खतरनाक Bearish Pattern! क्या तेजी खत्म होने वाली है? [link]",
+      "has_media": false,
+      "version": "636f3d67336d3019",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T11:10:34.738963+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137376,
+      "posted_at": "2026-11-23T10:14:34+00:00",
+      "excerpt": "The November Batch starts today! 🎯 Demand is high 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "7d5e00d07da1a5b7",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T11:10:34.738963+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137374,
+      "posted_at": "2026-11-23T10:13:17+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T11:10:34.738963+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155340,
+      "posted_at": "2026-11-23T10:05:57+00:00",
+      "excerpt": "BN 63000PE CMP 400+ Support 60 points",
+      "has_media": false,
+      "version": "4f7499681a926767",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T11:10:34.738963+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137373,
@@ -9798,7 +9864,18 @@
       "version": "f033b2cf1e2881ab",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+      "observed_at": "2026-11-23T10:02:19.897467+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T11:10:34.738963+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9853,7 +9930,18 @@
       "version": "0713293c63c92f55",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+      "observed_at": "2026-11-23T10:02:19.897467+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "MARUTI",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T11:10:34.738963+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
