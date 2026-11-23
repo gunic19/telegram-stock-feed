@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T02:28:21.947028+00:00",
+  "updated_at": "2026-11-23T03:33:41.107716+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137339,
+      "newest_id": 137341,
       "gap_detected": false,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
-      "last_success": "2026-11-23T02:28:21.947028+00:00"
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
+      "last_success": "2026-11-23T03:33:41.107716+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,17 +9653,17 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
-      "last_success": "2026-11-23T02:28:21.947028+00:00"
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
+      "last_success": "2026-11-23T03:33:41.107716+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44554,
+      "newest_id": 44556,
       "gap_detected": false,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
-      "last_success": "2026-11-23T02:28:21.947028+00:00"
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
+      "last_success": "2026-11-23T03:33:41.107716+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,35 +9671,35 @@
       "pages": 1,
       "newest_id": 113075,
       "gap_detected": false,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
-      "last_success": "2026-11-23T02:28:21.947028+00:00"
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
+      "last_success": "2026-11-23T03:33:41.107716+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155318,
+      "newest_id": 155319,
       "gap_detected": false,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
-      "last_success": "2026-11-23T02:28:21.947028+00:00"
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
+      "last_success": "2026-11-23T03:33:41.107716+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64902,
+      "newest_id": 64906,
       "gap_detected": false,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
-      "last_success": "2026-11-23T02:28:21.947028+00:00"
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
+      "last_success": "2026-11-23T03:33:41.107716+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13673,
+      "newest_id": 13676,
       "gap_detected": false,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
-      "last_success": "2026-11-23T02:28:21.947028+00:00"
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
+      "last_success": "2026-11-23T03:33:41.107716+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,209 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "checked_at": "2026-11-23T03:33:41.107716+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 1,
-    "cooldown_until": "2026-11-23T03:28:21.947028+00:00",
-    "last_success": "2026-11-22T06:34:06.902023+00:00",
-    "last_attempt": "2026-11-23T02:28:21.947028+00:00",
-    "last_error": "HTTP 503",
-    "pending": 1,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "requests_today": 2,
+    "cooldown_until": null,
+    "last_success": "2026-11-23T03:33:41.107716+00:00",
+    "last_attempt": "2026-11-23T03:33:41.107716+00:00",
+    "last_error": null,
+    "pending": 0,
+    "status": "ok",
+    "message": "AI processed 6/6 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44556,
+      "posted_at": "2026-11-23T03:28:22+00:00",
+      "excerpt": "📈 STOCKS TO WATCH TODAY 📅 23 NOVEMBER 2026 1️⃣ WAAREE ENERGIES 🔹 Subsidiary Waaree Forever Energies ने SECI के साथ PPA sign किया. 🔹 महाराष्ट्र के सोलापुर में 700 MW Solar Power Project develop होगा. 🔹 साथ में 700 MW / 2,800 MWh Battery Energy Storage System भी बनाया जाएगा. 2️⃣ ASHOKA BUILDCON 🔹 SAM India के साथ JV में Jaipur Metro Phase II project के लिए L1 bidder बना. 🔹 Project की कुल वैल्यू ₹2,758 Cr है. 3️⃣ INDO COUNT INDUSTRIES 🔹 कंपनी के CFO Manish Bhatia ने resignation दिया. 🔹 Better career opportunities के लिए पद छोड़ा. 🔹 Resignation 20 November से effective है. 4️⃣ PREMIER EXPLOSIVES 🔹 International entity से defence explosives manufacturing और supply का export order मिला. 🔹 Order Va",
+      "has_media": false,
+      "version": "7b1c5715684f0116",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "WAAREE ENERGIES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T03:33:41.107716+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44555,
+      "posted_at": "2026-11-23T03:26:20+00:00",
+      "excerpt": "📊 FII - DII CASH ACTIVITY 📅 20 NOVEMBER 2026 🔵 FII ACTIVITY 🟢 Buy: ₹23,596 Cr 🔴 Sell: ₹13,288 Cr ✅ Net Buying: +₹10,308 Cr 🟠 DII ACTIVITY 🟢 Buy: ₹18,493 Cr 🔴 Sell: ₹23,352 Cr ❌ Net Selling: -₹4,860 Cr 📌 MARKET INSIGHT FIIs की strong buying जारी रही जबकि DIIs ने net selling की. Overall market flows में FIIs का दबदबा रहा.",
+      "has_media": false,
+      "version": "9f963ef1387c88b5",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T03:33:41.107716+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64906,
+      "posted_at": "2026-11-23T03:07:43+00:00",
+      "excerpt": "India-EU Free Trade Agreement Set for December 16 Signing in Brussels During PM Modi visit. It may come into effect in early 2027",
+      "has_media": true,
+      "version": "e51e6ebae4a0e405",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137341,
+      "posted_at": "2026-11-23T02:43:44+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from Tomorrow 📅 Admissions Are Still Open- LAST 6 SEATS LEFT 📞 Contact StockPro-Team Now +91853301080 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "b08ff8f2cbfaa4c9",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64905,
+      "posted_at": "2026-11-23T02:42:38+00:00",
+      "excerpt": "Nifty smallcap100 index at demand zone 👍 What do you think the Broader market will pick-up momentum or not today ? 👀",
+      "has_media": true,
+      "version": "6f29dca850604ef8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137340,
+      "posted_at": "2026-11-23T02:42:29+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13676,
+      "posted_at": "2026-11-23T02:42:16+00:00",
+      "excerpt": "HSBC – INDIA'S EMERGING OPPORTUNITIES • Data centres: 20–30% cheaper to construct compared with global markets. • Semiconductors: India already has 20% of the world's chip designers. • Defence: Emerging as an export-oriented manufacturing hub. • Auto electrification continues, but subsidies remain necessary.",
+      "has_media": false,
+      "version": "dac6d8e70e3e7ca8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13674,
+      "posted_at": "2026-11-23T02:41:39+00:00",
+      "excerpt": "💐 GOOD MORNING 😊 🙏 🌄",
+      "has_media": false,
+      "version": "f064367430620c51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13675,
+      "posted_at": "2026-11-23T02:41:39+00:00",
+      "excerpt": "SEBI SOCIAL MEDIA MANDATE & MANDATORY DISCLAIMER AS REQUIRED BY SEBI KIND ATTENTION OF ALL MEMBERS Disclaimer from Admins as per SEBI norms: Equity Investment are subject to 100% market risks. Refer your financial consultant advice before Investing. This group/channel is only for Educational and Learning, Knowledge Purposes. Admins have no responsibility for your intended decision & financial losses. Keep calculated & always analyzed your cash position and risk bearing capacity before following msg of our group postings. Stock market investments are VERY RISKY and being part of this group, you agree that you understand the Market risks involved. Profits and Losses are part of Share market. K",
+      "has_media": false,
+      "version": "10b65f956b8430d8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T03:33:41.107716+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64904,
+      "posted_at": "2026-11-23T02:37:11+00:00",
+      "excerpt": "🚨 COMMODITY CRASH = INFLATION RELIEF? WTI -21.7% | Brent -19.8% | Gasoline -21.4% Copper -14.1% | Silver -13% | Gold -7.6% Aluminium -7.1% | Platinum -9% | Sugar -11% Commodities are under heavy pressure, which could bring significant inflation relief after…",
+      "has_media": false,
+      "version": "cd86510e584b8210",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64903,
+      "posted_at": "2026-11-23T02:30:08+00:00",
+      "excerpt": "Strong bounce back in Dow futures after brutal sell off now 750 points up 🔥 But Asian Market is still bleeding Kospi almost 5% Down. Japan market closed today Taiwan flat",
+      "has_media": false,
+      "version": "e3ad042d5168354e",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T03:33:41.107716+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155319,
+      "posted_at": "2026-11-23T02:29:42+00:00",
+      "excerpt": "🙏 GOOD MORNING ALL 🌻 🌺 Have A Profitable Day today 🌹 NOTE: POSTS HERE ARE BASED ON MY RESEARCH AND ARE FOR EDUCATIONAL PURPOSES ONLY. We are not liable for any Profit or Loss. PLEASE CONSULT YOUR FINANCIAL ADVISOR BEFORE BUYING OR SELLING. THANKS! ✨ Few useful Abbreviations for new traders: SL: Stop Loss TGT: Target CMP: Current Market PRICE BTST: Buy Today Sell Tomorrow STBT: Sell Today Buy Tomorrow The profit/loss figures mentioned are indicative and based on assumptions. Futures: Single Lot OPTIONS: Single lot Index: 4-5lots",
+      "has_media": false,
+      "version": "c4f956dc1071b58d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T03:33:41.107716+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T03:33:41.107716+00:00"
+      }
+    },
     {
       "channel": "Equiideas",
       "message_id": 113075,
@@ -9754,7 +9941,18 @@
       "version": "62cb0fe57c441f14",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-23T02:28:21.947028+00:00"
+      "observed_at": "2026-11-23T02:28:21.947028+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T03:33:41.107716+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
