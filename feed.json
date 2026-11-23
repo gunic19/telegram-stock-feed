@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T17:44:59.485217+00:00",
+  "updated_at": "2026-11-23T18:41:11.267515+00:00",
   "catalog": {
     "state": "ok",
-    "fetched_at": "2026-11-22T18:16:46.288316+00:00",
+    "fetched_at": "2026-11-23T18:41:11.267515+00:00",
     "source": "NSE EQUITY_L.csv EQ series",
     "stocks": [
       {
@@ -57,6 +57,10 @@
       {
         "sym": "AAREYDRUGS",
         "name": "Aarey Drugs & Pharmaceuticals Limited"
+      },
+      {
+        "sym": "AARNAV",
+        "name": "Aarnav Fashions Limited"
       },
       {
         "sym": "AARON",
@@ -121,6 +125,10 @@
       {
         "sym": "ABFRL",
         "name": "Aditya Birla Fashion and Retail Limited"
+      },
+      {
+        "sym": "ABINFRA",
+        "name": "A B Infrabuild Limited"
       },
       {
         "sym": "ABLBL",
@@ -455,6 +463,10 @@
         "name": "Alpa Laboratories Limited"
       },
       {
+        "sym": "ALPHAGEO",
+        "name": "Alphageo (India) Limited"
+      },
+      {
         "sym": "ALPINETEX",
         "name": "Alpine Texworld Limited"
       },
@@ -473,6 +485,10 @@
       {
         "sym": "AMARJOTHI",
         "name": "Amarjothi Spinning Mills Limited"
+      },
+      {
+        "sym": "AMBALALSA",
+        "name": "Ambalal Sarabhai Enterprises Limited"
       },
       {
         "sym": "AMBER",
@@ -1297,6 +1313,10 @@
       {
         "sym": "BHEL",
         "name": "Bharat Heavy Electricals Limited"
+      },
+      {
+        "sym": "BI",
+        "name": "Bilcare Limited"
       },
       {
         "sym": "BIGBLOC",
@@ -2169,6 +2189,10 @@
       {
         "sym": "DGCONTENT",
         "name": "Digicontent Limited"
+      },
+      {
+        "sym": "DHABRIYA",
+        "name": "Dhabriya Polywood Limited"
       },
       {
         "sym": "DHAMPURSUG",
@@ -5399,6 +5423,10 @@
         "name": "Mahanagar Gas Limited"
       },
       {
+        "sym": "MHLXMIRU",
+        "name": "Mahalaxmi Rubtech Limited"
+      },
+      {
         "sym": "MHRIL",
         "name": "Mahindra Holidays & Resorts India Limited"
       },
@@ -5415,6 +5443,10 @@
         "name": "Meghna Infracon Infrastructure Limited"
       },
       {
+        "sym": "MILKYMIST",
+        "name": "Milky Mist Dairy Food Limited"
+      },
+      {
         "sym": "MINDACORP",
         "name": "Minda Corporation Limited"
       },
@@ -5429,6 +5461,10 @@
       {
         "sym": "MITCON",
         "name": "MITCON Consultancy & Engineering Services Limited"
+      },
+      {
+        "sym": "MITSU",
+        "name": "Mitsu Chem Plast Limited"
       },
       {
         "sym": "MITTAL",
@@ -7167,10 +7203,6 @@
         "name": "Rupa & Company Limited"
       },
       {
-        "sym": "RUSHIL",
-        "name": "Rushil Decor Limited"
-      },
-      {
         "sym": "RUSTOMJEE",
         "name": "Keystone Realtors Limited"
       },
@@ -7455,6 +7487,10 @@
         "name": "Scoda Tubes Limited"
       },
       {
+        "sym": "SCPL",
+        "name": "Sheetal Cool Products Limited"
+      },
+      {
         "sym": "SDBL",
         "name": "Som Distilleries & Breweries Limited"
       },
@@ -7605,6 +7641,10 @@
       {
         "sym": "SHARDAMOTR",
         "name": "Sharda Motor Industries Limited"
+      },
+      {
+        "sym": "SHARDUL",
+        "name": "Shardul Securities Limited"
       },
       {
         "sym": "SHAREINDIA",
@@ -8763,6 +8803,10 @@
         "name": "Toyam Sports Limited"
       },
       {
+        "sym": "TPHQ",
+        "name": "Teamo Productions HQ Limited"
+      },
+      {
         "sym": "TPLPLASTEH",
         "name": "TPL Plastech Limited"
       },
@@ -9109,6 +9153,10 @@
       {
         "sym": "VBL",
         "name": "Varun Beverages Limited"
+      },
+      {
+        "sym": "VCL",
+        "name": "Vaxtex Cotfab Limited"
       },
       {
         "sym": "VEDAVAAG",
@@ -9644,8 +9692,8 @@
       "pages": 1,
       "newest_id": 137386,
       "gap_detected": false,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
-      "last_success": "2026-11-23T17:44:59.485217+00:00"
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
+      "last_success": "2026-11-23T18:41:11.267515+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
-      "last_success": "2026-11-23T17:44:59.485217+00:00"
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
+      "last_success": "2026-11-23T18:41:11.267515+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,8 +9710,8 @@
       "pages": 1,
       "newest_id": 44571,
       "gap_detected": false,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
-      "last_success": "2026-11-23T17:44:59.485217+00:00"
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
+      "last_success": "2026-11-23T18:41:11.267515+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,8 +9719,8 @@
       "pages": 1,
       "newest_id": 113111,
       "gap_detected": false,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
-      "last_success": "2026-11-23T17:44:59.485217+00:00"
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
+      "last_success": "2026-11-23T18:41:11.267515+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,8 +9728,8 @@
       "pages": 1,
       "newest_id": 155343,
       "gap_detected": false,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
-      "last_success": "2026-11-23T17:44:59.485217+00:00"
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
+      "last_success": "2026-11-23T18:41:11.267515+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,8 +9737,8 @@
       "pages": 1,
       "newest_id": 64927,
       "gap_detected": false,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
-      "last_success": "2026-11-23T17:44:59.485217+00:00"
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
+      "last_success": "2026-11-23T18:41:11.267515+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13686,
       "gap_detected": false,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
-      "last_success": "2026-11-23T17:44:59.485217+00:00"
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
+      "last_success": "2026-11-23T18:41:11.267515+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,7 +9755,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T17:44:59.485217+00:00",
+      "checked_at": "2026-11-23T18:41:11.267515+00:00",
       "last_success": null
     }
   },
@@ -9719,8 +9767,8 @@
     "last_attempt": "2026-11-23T17:44:59.485217+00:00",
     "last_error": "HTTP 503",
     "pending": 6,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "status": "cooldown",
+    "message": "AI paused until 2026-11-23T18:44:59.485217+00:00; last error: HTTP 503. Rules remain available."
   },
   "events": [
     {
