@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T08:51:48.075498+00:00",
+  "updated_at": "2026-11-23T10:02:19.897467+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137371,
+      "newest_id": 137373,
       "gap_detected": false,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
-      "last_success": "2026-11-23T08:51:48.075498+00:00"
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "last_success": "2026-11-23T10:02:19.897467+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18556,
       "gap_detected": false,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
-      "last_success": "2026-11-23T08:51:48.075498+00:00"
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "last_success": "2026-11-23T10:02:19.897467+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,35 +9662,35 @@
       "pages": 1,
       "newest_id": 44569,
       "gap_detected": false,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
-      "last_success": "2026-11-23T08:51:48.075498+00:00"
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "last_success": "2026-11-23T10:02:19.897467+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113098,
+      "newest_id": 113103,
       "gap_detected": false,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
-      "last_success": "2026-11-23T08:51:48.075498+00:00"
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "last_success": "2026-11-23T10:02:19.897467+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155336,
+      "newest_id": 155339,
       "gap_detected": false,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
-      "last_success": "2026-11-23T08:51:48.075498+00:00"
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "last_success": "2026-11-23T10:02:19.897467+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64913,
+      "newest_id": 64915,
       "gap_detected": false,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
-      "last_success": "2026-11-23T08:51:48.075498+00:00"
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "last_success": "2026-11-23T10:02:19.897467+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13680,
       "gap_detected": false,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
-      "last_success": "2026-11-23T08:51:48.075498+00:00"
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
+      "last_success": "2026-11-23T10:02:19.897467+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,154 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "checked_at": "2026-11-23T10:02:19.897467+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 6,
+    "requests_today": 7,
     "cooldown_until": null,
-    "last_success": "2026-11-23T08:51:48.075498+00:00",
-    "last_attempt": "2026-11-23T08:51:48.075498+00:00",
+    "last_success": "2026-11-23T10:02:19.897467+00:00",
+    "last_attempt": "2026-11-23T10:02:19.897467+00:00",
     "last_error": null,
-    "pending": 8,
+    "pending": 2,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137373,
+      "posted_at": "2026-11-23T09:57:36+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113103,
+      "posted_at": "2026-11-23T09:34:51+00:00",
+      "excerpt": "NEW 52 WK HIGH = SPORT KING",
+      "has_media": false,
+      "version": "2597ff4f830241f8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155339,
+      "posted_at": "2026-11-23T09:32:09+00:00",
+      "excerpt": "BN 63000PE CMP 400+ Support 60 points",
+      "has_media": false,
+      "version": "4f7499681a926767",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113102,
+      "posted_at": "2026-11-23T09:25:12+00:00",
+      "excerpt": "237+ = SPORTKING",
+      "has_media": false,
+      "version": "5f62c581c53911dc",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155338,
+      "posted_at": "2026-11-23T09:19:27+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113101,
+      "posted_at": "2026-11-23T09:13:36+00:00",
+      "excerpt": "IREDA BREAKING OUT",
+      "has_media": false,
+      "version": "5b7a0f7362f0b624",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64915,
+      "posted_at": "2026-11-23T09:08:43+00:00",
+      "excerpt": "OMG , Panoti 😰 Must watch this CNBC worst prediction for Today, how retailers destroyed",
+      "has_media": true,
+      "version": "f033b2cf1e2881ab",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137372,
+      "posted_at": "2026-11-23T09:07:33+00:00",
+      "excerpt": "NIFTY 25400 - Longs - 2.59L (Intraday - 1.06L) Shorts - 35739 (Intraday - minus 6461) 25450 - Longs - 1.50L (Intraday - 83977) Shorts - 19306 (Intraday - 4314) 25500 - Longs - 3.36L (Intraday - 1.18L) Shorts - 1.38L (Intraday - 53431) 25550 - Longs - 1.53L…",
+      "has_media": false,
+      "version": "c2dafbfd0984ef80",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113100,
+      "posted_at": "2026-11-23T09:03:34+00:00",
+      "excerpt": "BUYING IN TATA CHEMICALS AND TATA INVESTMENT HAPPENING",
+      "has_media": false,
+      "version": "d2f4094ec764a4b4",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113099,
+      "posted_at": "2026-11-23T09:01:25+00:00",
+      "excerpt": "DABUR HIGHER HIGHS ... 406/8 CROSSED IN FUTURE CAN SEE MOVES TOWARDS 411/14 AND THEN 418/24+",
+      "has_media": false,
+      "version": "bc0e0ed2f128d8a6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64914,
+      "posted_at": "2026-11-23T08:56:01+00:00",
+      "excerpt": "This is china Sky Road (causeway) at Pingtian Lake in Chizhou, Anhui Province.",
+      "has_media": true,
+      "version": "273caf4ea1148c49",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155337,
+      "posted_at": "2026-11-23T08:53:07+00:00",
+      "excerpt": "MARUTI BREAKOUT ONLY ABOVE 14500",
+      "has_media": true,
+      "version": "0713293c63c92f55",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T10:02:19.897467+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137371,
@@ -9781,7 +9913,18 @@
       "entry_as_posted": 395.0,
       "first_target": 420.4,
       "stop_loss": 382.0,
-      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+      "observed_at": "2026-11-23T08:51:48.075498+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "call",
+        "side": "BUY",
+        "stock_text": "RATNAVEER",
+        "entry_as_posted": 395.0,
+        "first_target": 420.4,
+        "stop_loss": 382.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -9880,7 +10023,18 @@
       "version": "a50e98e36016d96f",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+      "observed_at": "2026-11-23T08:51:48.075498+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "TORNTPHARMA",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9926,7 +10080,18 @@
       "version": "2fbc798bff2435af",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+      "observed_at": "2026-11-23T08:51:48.075498+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9948,7 +10113,18 @@
       "version": "c67c42866a749a16",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+      "observed_at": "2026-11-23T08:51:48.075498+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "SG MART",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10126,7 +10302,18 @@
       "version": "787802454760ea65",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "POWER GRID CORPORATION LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10225,7 +10412,18 @@
       "version": "d0960a27b08f5ddc",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10236,7 +10434,18 @@
       "version": "c000f37d780493fa",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "au bank",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10258,7 +10467,18 @@
       "version": "255aba261c7a9fab",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "Larsen & Toubro Ltd",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T10:02:19.897467+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
