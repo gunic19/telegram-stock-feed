@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T07:07:26.533788+00:00",
+  "updated_at": "2026-11-23T08:51:48.075498+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,46 +9642,46 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137366,
+      "newest_id": 137371,
       "gap_detected": false,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
-      "last_success": "2026-11-23T07:07:26.533788+00:00"
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "last_success": "2026-11-23T08:51:48.075498+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18554,
+      "newest_id": 18556,
       "gap_detected": false,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
-      "last_success": "2026-11-23T07:07:26.533788+00:00"
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "last_success": "2026-11-23T08:51:48.075498+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44566,
+      "newest_id": 44569,
       "gap_detected": false,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
-      "last_success": "2026-11-23T07:07:26.533788+00:00"
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "last_success": "2026-11-23T08:51:48.075498+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113094,
+      "newest_id": 113098,
       "gap_detected": false,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
-      "last_success": "2026-11-23T07:07:26.533788+00:00"
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "last_success": "2026-11-23T08:51:48.075498+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155330,
+      "newest_id": 155336,
       "gap_detected": false,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
-      "last_success": "2026-11-23T07:07:26.533788+00:00"
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "last_success": "2026-11-23T08:51:48.075498+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,8 +9689,8 @@
       "pages": 1,
       "newest_id": 64913,
       "gap_detected": false,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
-      "last_success": "2026-11-23T07:07:26.533788+00:00"
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "last_success": "2026-11-23T08:51:48.075498+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13680,
       "gap_detected": false,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
-      "last_success": "2026-11-23T07:07:26.533788+00:00"
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
+      "last_success": "2026-11-23T08:51:48.075498+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,260 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T07:07:26.533788+00:00",
+      "checked_at": "2026-11-23T08:51:48.075498+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 5,
+    "requests_today": 6,
     "cooldown_until": null,
-    "last_success": "2026-11-23T07:07:26.533788+00:00",
-    "last_attempt": "2026-11-23T07:07:26.533788+00:00",
+    "last_success": "2026-11-23T08:51:48.075498+00:00",
+    "last_attempt": "2026-11-23T08:51:48.075498+00:00",
     "last_error": null,
-    "pending": 11,
+    "pending": 8,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137371,
+      "posted_at": "2026-11-23T08:46:47+00:00",
+      "excerpt": "❇️ Register for LIVE Interaction Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Get all your queries answered regarding Master Trader Course Date: 24th NOV 2026 Timings: 11:00 AM -12:30 PM (Tuesday) 📲 Register Now Via This Link [link]",
+      "has_media": true,
+      "version": "2d56e69e253f6040",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113098,
+      "posted_at": "2026-11-23T08:39:22+00:00",
+      "excerpt": "DABUR DAYS HIGH",
+      "has_media": false,
+      "version": "0c09650fa47e87cd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113097,
+      "posted_at": "2026-11-23T08:37:12+00:00",
+      "excerpt": "25380 last support zone november series future",
+      "has_media": false,
+      "version": "2559ae9092bd2aa6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44569,
+      "posted_at": "2026-11-23T08:22:49+00:00",
+      "excerpt": "🏦 RBI MONETARY POLICY | DECEMBER RATE HIKE 📅 23 NOVEMBER 2026 ⚠️ ECONOMISTS UNANIMOUS ON RATE HIKE 🔹 Moneycontrol के economist poll में सभी 14 economists ने December में RBI द्वारा 25 bps Repo Rate Hike की उम्मीद जताई. 🔹 Expected Repo Rate: 5.75% (Currently 5.50%). 🔹 RBI की Monetary Policy Committee (MPC) की Meeting 2–4 December को होगी. 📊 INFLATION CROSSES 6% 🔴 Retail Inflation (October): 6.09% 🔹 September: 5.54% 🔹 RBI की Upper Tolerance Limit: 6% 🔹 Food & Beverages Inflation: 8.51% 🔹 Core Inflation: 4.75% vs 4.60% in September. ⚠️ INFLATION बढ़ने के प्रमुख कारण: • Rising Food Prices • Weather-related Disruptions • Higher Input Costs • Agricultural Output पर मौसम का असर • GST Rate Cuts का f",
+      "has_media": false,
+      "version": "020e50e305838bef",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18556,
+      "posted_at": "2026-11-23T08:20:12+00:00",
+      "excerpt": "MOSt Overnight BUY RATNAVEER CMP 395.00 SL 382 TGT 420.4 -The stock has confirmed a range breakout, backed by robust volumes, and is currently trading at its all-time high, reflecting strong bullish momentum. Disclaimer- [link]",
+      "has_media": false,
+      "version": "08fa3c01b95203cb",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "RATNAVEER",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 395.0,
+      "first_target": 420.4,
+      "stop_loss": 382.0,
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44568,
+      "posted_at": "2026-11-23T07:53:34+00:00",
+      "excerpt": "🔔 STOCK MARKET HOLIDAY UPDATE 📅 24 NOVEMBER 2026 🇮🇳 GURU NANAK JAYANTI कल मंगलवार 24 November को Guru Nanak Jayanti के अवसर पर Indian Stock Market बंद रहेगा. 📊 EXCHANGE STATUS 🔴 NSE - CLOSED 🔴 BSE - CLOSED 🛢 COMMODITY MARKET 🔹 MCX Morning Session: CLOSED (9 AM – 5 PM) 🟢 MCX Evening Session: OPEN (5 PM – 11:30 PM) 🔴 NCDEX: FULL DAY CLOSED 📅 NEXT MARKET HOLIDAY 🔹 25 December 2026 - Christmas 📌 IMPORTANT 24 November को Equity और Equity Derivatives में trading नहीं होगी. MCX में केवल evening session में trading resume होगी. 📰 Source: Economic Times 📅 23 November 2026",
+      "has_media": false,
+      "version": "66309d0a0e8a4101",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155336,
+      "posted_at": "2026-11-23T07:50:51+00:00",
+      "excerpt": "GET YOUR PRIME ACCESS NOW PING NOW @SG005 ✔️",
+      "has_media": false,
+      "version": "5bd12e7c1b2ed95b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113096,
+      "posted_at": "2026-11-23T07:47:43+00:00",
+      "excerpt": "sterlite technology below 600 can open doors for 580/540/500 .... retailers who entered at higher levels are trapped .. now almost 40% loss",
+      "has_media": false,
+      "version": "e9c1835c112131e7",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137370,
+      "posted_at": "2026-11-23T07:44:19+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: https:…",
+      "has_media": false,
+      "version": "51ce7e5219f13659",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155335,
+      "posted_at": "2026-11-23T07:42:10+00:00",
+      "excerpt": "TORNTPHARMA view achieved",
+      "has_media": true,
+      "version": "7db893dd78215111",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137369,
+      "posted_at": "2026-11-23T07:42:06+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137368,
+      "posted_at": "2026-11-23T07:41:56+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18555,
+      "posted_at": "2026-11-23T07:34:29+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155334,
+      "posted_at": "2026-11-23T07:33:43+00:00",
+      "excerpt": "TORNTPHARMA TORRENTPHARMA dec fut above 4805 support 4750 view 4870 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "a50e98e36016d96f",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155333,
+      "posted_at": "2026-11-23T07:33:19+00:00",
+      "excerpt": "👉 👉 BNF BIGGEST SUPPORT IS AT 62500 SMALL SUPPORT 63000 AND 62800",
+      "has_media": false,
+      "version": "e4b4d299753a23ed",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137367,
+      "posted_at": "2026-11-23T07:28:13+00:00",
+      "excerpt": "POSITIONAL TRADE CROMPTON GREAVES (CROMPTON) Looks Good ABOVE 222.5 SL 217 Targets  2-4-6-8-10 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
+      "has_media": false,
+      "version": "3a5b29027f4b9a81",
+      "category": "watch",
+      "symbol_candidate": "CROMPTON",
+      "stop_loss": 217.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "CROMPTON",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 217.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155332,
+      "posted_at": "2026-11-23T07:27:00+00:00",
+      "excerpt": "Intraday trade profits NIFTY 25500 ce HIT ✅ sensex 83500 ce hit ✅ sensex 83300 pe hit ✅ TORNTPHARMA 4800 hit ✅ bnf 63300 ce loss",
+      "has_media": false,
+      "version": "2fbc798bff2435af",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155331,
+      "posted_at": "2026-11-23T07:24:21+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44567,
+      "posted_at": "2026-11-23T07:17:17+00:00",
+      "excerpt": "🚀 SG MART SHARES JUMP 14% 📅 23 NOVEMBER 2026 📈 FUNDRAISING PLANS IN FOCUS 🔹 SG Mart के shares करीब 14% उछलकर ₹1,253 के intraday high पर पहुंचे. 🔹 कंपनी का Board 26 November को Equity Shares और Convertible Securities के जरिए fundraising proposal पर विचार करेगा. 🔹 संभावित तरीके: • Preferential Issue • Rights Issue • QIP 🔗 WHAT IS THE APL APOLLO CONNECTION? 🔹 SG Mart और APL Apollo Tubes दोनों के promoter Sanjay Gupta family हैं. 🔹 Tata Steel ने APL Apollo Tubes में 26.38% stake करीब ₹15,510.6 Cr में acquire करने की मंजूरी दी है. 🔹 इसके अलावा public shareholders से additional 26% stake के लिए Open Offer भी घोषित किया है. 📊 SG MART Q2 PERFORMANCE 🔹 Revenue: ₹156 Cr (-8% YoY) 🔹 Net Profit: ₹54 Cr ",
+      "has_media": false,
+      "version": "c67c42866a749a16",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113095,
+      "posted_at": "2026-11-23T07:09:38+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155330,
@@ -9743,7 +9981,18 @@
       "version": "a50e98e36016d96f",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "TORNTPHARMA",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9776,7 +10025,18 @@
       "version": "a50e98e36016d96f",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "TORNTPHARMA",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9822,7 +10082,18 @@
       "version": "49e781a9ea5d4ea8",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "MARUTI SUZUKI INDIA LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9833,7 +10104,18 @@
       "version": "acc74fa6a2e297a5",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-23T07:07:26.533788+00:00"
+      "observed_at": "2026-11-23T07:07:26.533788+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "MAX HEALTHCARE INSTITUTE LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9845,6 +10127,17 @@
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
       "observed_at": "2026-11-23T07:07:26.533788+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137362,
+      "posted_at": "2026-11-23T06:12:32+00:00",
+      "excerpt": "🚨 Don’t Wait! Call Now & Enroll Yourself Today! 📞 Contact StockPro-Team: [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "a53d191e0d73993d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T08:51:48.075498+00:00"
     },
     {
       "channel": "stockpro_online",
@@ -10204,7 +10497,18 @@
       "version": "4381806709637566",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+      "observed_at": "2026-11-23T05:51:34.766590+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Nifty",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10226,7 +10530,18 @@
       "version": "3b151c28e693cc69",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+      "observed_at": "2026-11-23T05:51:34.766590+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Dixon",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
     },
     {
       "channel": "motilaloswalofficial",
@@ -10242,7 +10557,18 @@
       "entry_as_posted": 1798.5,
       "first_target": 1945.5,
       "stop_loss": 1725.0,
-      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+      "observed_at": "2026-11-23T05:51:34.766590+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "call",
+        "side": "BUY",
+        "stock_text": "TECHM",
+        "entry_as_posted": 1798.5,
+        "first_target": 1945.5,
+        "stop_loss": 1725.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T08:51:48.075498+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
