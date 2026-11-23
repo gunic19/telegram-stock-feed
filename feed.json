@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T01:17:54.555746+00:00",
+  "updated_at": "2026-11-23T02:28:21.947028+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137338,
+      "newest_id": 137339,
       "gap_detected": false,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
-      "last_success": "2026-11-23T01:17:54.555746+00:00"
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "last_success": "2026-11-23T02:28:21.947028+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18551,
       "gap_detected": false,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
-      "last_success": "2026-11-23T01:17:54.555746+00:00"
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "last_success": "2026-11-23T02:28:21.947028+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,17 +9662,17 @@
       "pages": 1,
       "newest_id": 44554,
       "gap_detected": false,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
-      "last_success": "2026-11-23T01:17:54.555746+00:00"
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "last_success": "2026-11-23T02:28:21.947028+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113071,
+      "newest_id": 113075,
       "gap_detected": false,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
-      "last_success": "2026-11-23T01:17:54.555746+00:00"
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "last_success": "2026-11-23T02:28:21.947028+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,8 +9680,8 @@
       "pages": 1,
       "newest_id": 155318,
       "gap_detected": false,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
-      "last_success": "2026-11-23T01:17:54.555746+00:00"
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "last_success": "2026-11-23T02:28:21.947028+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,8 +9689,8 @@
       "pages": 1,
       "newest_id": 64902,
       "gap_detected": false,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
-      "last_success": "2026-11-23T01:17:54.555746+00:00"
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "last_success": "2026-11-23T02:28:21.947028+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13673,
       "gap_detected": false,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
-      "last_success": "2026-11-23T01:17:54.555746+00:00"
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
+      "last_success": "2026-11-23T02:28:21.947028+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,66 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T01:17:54.555746+00:00",
+      "checked_at": "2026-11-23T02:28:21.947028+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 0,
-    "cooldown_until": null,
+    "requests_today": 1,
+    "cooldown_until": "2026-11-23T03:28:21.947028+00:00",
     "last_success": "2026-11-22T06:34:06.902023+00:00",
-    "last_attempt": "2026-11-22T06:34:06.902023+00:00",
-    "last_error": null,
-    "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "last_attempt": "2026-11-23T02:28:21.947028+00:00",
+    "last_error": "HTTP 503",
+    "pending": 1,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113075,
+      "posted_at": "2026-11-23T02:02:37+00:00",
+      "excerpt": "GIFT NIFTY NOW 25928.50 (+153.20) = DO NOT JUMP TO MAKE POSITION ON GAP UP",
+      "has_media": false,
+      "version": "1166b80be419f543",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T02:28:21.947028+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113074,
+      "posted_at": "2026-11-23T01:57:29+00:00",
+      "excerpt": "TODAY IS MONTHLY EXPIRY AS MARKETS ARE CLOED DUE TO GURU NANAK JAYANTI TOMORROW",
+      "has_media": false,
+      "version": "5973a5af2c8ccdf9",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T02:28:21.947028+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113073,
+      "posted_at": "2026-11-23T01:56:59+00:00",
+      "excerpt": "🌅 Morning Commentary 23.11.2026 🌅 ✅ Gift Nifty showing 25901.50 (+126.20) which shows GAP up opening which may be lead by Front Line Stocks. ✅ Reliance / IT / Adani Group / Banks would be key stocks to watch out. ✅ Monthly Expiry Today hence trade carefully. ✅ Sector for December Series to Watch Out 🤜 Defense 🤜 Power / Power Ancillary / Transmission 🤜 FMCG 🤜 GAS ✅ In IT Stocks = Tech Mahindra / Infosys / TCS / OFSS / Persistent system / Coforge etc in Focus ✅ Nifty Spot Closed 25800 and all time high is 26373.20 which is about 573.20 points away ... it may happen beginning of December series we may hit all time highs ✅ SPOT NIFTY 25842/64 crossed next level is 25880 once this is cross 25908/",
+      "has_media": false,
+      "version": "62cb0fe57c441f14",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-23T02:28:21.947028+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137339,
+      "posted_at": "2026-11-23T01:44:46+00:00",
+      "excerpt": "❇️ Register for Today's LIVE Market Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗗𝗜𝗦𝗖𝗨𝗦𝗦𝗜𝗢𝗡 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Early Morning Stock Market Discussions ⚜️ Early Morning Stock Selection Session ⚜️ LIVE QnA Regarding upcoming Master Trader Course? Timings: 10:00 AM -11:00 AM (Today) 📲 Register Now Via This Link [link]",
+      "has_media": true,
+      "version": "a2e04f2a38c1e509",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T02:28:21.947028+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113071,
