@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T04:49:29.593534+00:00",
+  "updated_at": "2026-11-23T05:51:34.766590+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,28 +9642,28 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137349,
+      "newest_id": 137356,
       "gap_detected": false,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
-      "last_success": "2026-11-23T04:49:29.593534+00:00"
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
+      "last_success": "2026-11-23T05:51:34.766590+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18552,
+      "newest_id": 18554,
       "gap_detected": false,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
-      "last_success": "2026-11-23T04:49:29.593534+00:00"
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
+      "last_success": "2026-11-23T05:51:34.766590+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44563,
+      "newest_id": 44565,
       "gap_detected": false,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
-      "last_success": "2026-11-23T04:49:29.593534+00:00"
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
+      "last_success": "2026-11-23T05:51:34.766590+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,35 +9671,35 @@
       "pages": 1,
       "newest_id": 113087,
       "gap_detected": false,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
-      "last_success": "2026-11-23T04:49:29.593534+00:00"
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
+      "last_success": "2026-11-23T05:51:34.766590+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155321,
+      "newest_id": 155326,
       "gap_detected": false,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
-      "last_success": "2026-11-23T04:49:29.593534+00:00"
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
+      "last_success": "2026-11-23T05:51:34.766590+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64912,
+      "newest_id": 64913,
       "gap_detected": false,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
-      "last_success": "2026-11-23T04:49:29.593534+00:00"
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
+      "last_success": "2026-11-23T05:51:34.766590+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13678,
+      "newest_id": 13679,
       "gap_detected": false,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
-      "last_success": "2026-11-23T04:49:29.593534+00:00"
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
+      "last_success": "2026-11-23T05:51:34.766590+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,255 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T04:49:29.593534+00:00",
+      "checked_at": "2026-11-23T05:51:34.766590+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 3,
+    "requests_today": 4,
     "cooldown_until": null,
-    "last_success": "2026-11-23T04:49:29.593534+00:00",
-    "last_attempt": "2026-11-23T04:49:29.593534+00:00",
+    "last_success": "2026-11-23T05:51:34.766590+00:00",
+    "last_attempt": "2026-11-23T05:51:34.766590+00:00",
     "last_error": null,
-    "pending": 7,
+    "pending": 10,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137356,
+      "posted_at": "2026-11-23T05:50:11+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 👉 Fill Up This Google From To get Master Trader Course or for PREMIUM…",
+      "has_media": false,
+      "version": "47bc2839ed6834f6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137355,
+      "posted_at": "2026-11-23T05:47:26+00:00",
+      "excerpt": "POSITIONAL TRADE RR KABEL (RRKABEL) Looks Good ABOVE 1860 SL 1770 Targets  1900-1950-2000-2050-2100 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "17db453e0207b07d",
+      "category": "watch",
+      "symbol_candidate": "RRKABEL",
+      "stop_loss": 1770.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "RR KABEL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1770.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155326,
+      "posted_at": "2026-11-23T05:46:14+00:00",
+      "excerpt": "TORNTPHARMA TORRENTPHARMA dec fut above 4805 support 4750 view 4870 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "a50e98e36016d96f",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13679,
+      "posted_at": "2026-11-23T05:46:04+00:00",
+      "excerpt": "Ready 🚀 🚀",
+      "has_media": true,
+      "version": "52b4e8948692c8f0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137354,
+      "posted_at": "2026-11-23T05:45:12+00:00",
+      "excerpt": "POSITIONAL TRADE RR KABEL (RRKABEL) Looks Good ABOVE 1860 SL 1770 Targets  1900-1950-2000-2050-2100 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "17db453e0207b07d",
+      "category": "watch",
+      "symbol_candidate": "RRKABEL",
+      "stop_loss": 1770.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "RR KABEL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1770.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137353,
+      "posted_at": "2026-11-23T05:44:19+00:00",
+      "excerpt": "POSITIONAL TRADE RR KABEL (RRKABEL) Looks Good ABOVE 1860 SL 1770 Targets  1900-1950-2000-2050-2100 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "80549553997904ac",
+      "category": "watch",
+      "symbol_candidate": "RRKABEL",
+      "stop_loss": 1770.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "RR KABEL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 1770.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137352,
+      "posted_at": "2026-11-23T05:38:37+00:00",
+      "excerpt": "POSITIONAL TRADE MPHASIS Looks Good ABOVE 2481 SL 2451 Targets  15-30-45-55 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "79a57abe2bac88af",
+      "category": "watch",
+      "symbol_candidate": "MPHASIS",
+      "stop_loss": 2451.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155325,
+      "posted_at": "2026-11-23T05:38:19+00:00",
+      "excerpt": "Nifty Nifty 25500 ce 130-135 support 80 view 175 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "4381806709637566",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155324,
+      "posted_at": "2026-11-23T05:33:00+00:00",
+      "excerpt": "TORRENTPHARMA BREAKOUT",
+      "has_media": true,
+      "version": "2810132fe416f168",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44565,
+      "posted_at": "2026-11-23T05:29:49+00:00",
+      "excerpt": "💻 IT STOCKS RALLY UP TO 3% 📅 23 NOVEMBER 2026 🟢 GLOBAL TECH SELL-OFF के बावजूद Indian IT stocks में strong buying देखने को मिली. 📊 NIFTY IT 🔹 700+ points की तेजी. 🔹 Intraday High: 32,034. 🚀 MAJOR IT STOCKS 🟢 TCS: +3% 🟢 TECH MAHINDRA: +3% 🟢 INFOSYS: +2.5% 🟢 COFORGE: +2.5% 🟢 WIPRO: +2% 🟢 HCL TECHNOLOGIES: +2% 🟢 PERSISTENT SYSTEMS: +2% 🌎 GLOBAL AI SELL-OFF 🔴 NVIDIA: Up to 14% decline 🔴 AMD: Up to 14% decline 🔴 MICRON: Up to 14% decline 🔻 META, GOOGLE और AMAZON में भी 6% तक गिरावट देखने को मिली. 📉 NASDAQ UNDER PRESSURE 🔹 पिछले सप्ताह Nasdaq करीब 10% गिरा. 🔹 March 2020 के बाद सबसे बड़ी weekly decline. 🔹 AI Infrastructure में भारी investments और future returns को लेकर investors चिंतित हैं. 🇰🇷 ASIA",
+      "has_media": false,
+      "version": "62c1032d25f9f4cc",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137351,
+      "posted_at": "2026-11-23T05:20:50+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 👉 Fill Up This Google From To get Master Trader Course or for PREMIUM RESEARCH SERVICES (PREMIUM CLUB) Details From Our Team [link]",
+      "has_media": false,
+      "version": "a6fb90feb6c40ad4",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137350,
+      "posted_at": "2026-11-23T05:20:49+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155323,
+      "posted_at": "2026-11-23T05:11:56+00:00",
+      "excerpt": "Nifty Nifty 25500 ce 130-135 support 80 view 175 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "4381806709637566",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44564,
+      "posted_at": "2026-11-23T05:11:25+00:00",
+      "excerpt": "🚀 MAHANADI COALFIELDS IPO UPDATE 📅 23 NOVEMBER 2026 📊 IPO SUBSCRIPTION STATUS 🔹 Total Issue Size: ₹8,981.12 Cr 🔹 Subscription: 50% (As of 10:10 AM) 🔹 QIB: 1.37x subscribed 🔹 Retail Investors: 0.26x subscribed 🔹 Total Bids: 24.69 Cr shares against 49.31 Cr shares on offer. 💰 IPO DETAILS 🔹 Price Band: ₹129–₹136 🔹 Lot Size: 110 Shares 🔹 Minimum Investment: ₹14,960 🔹 Issue Type: 100% Offer for Sale (OFS) 🔹 Promoter Coal India is selling 10% stake. 🔹 IPO Proceeds will go to Coal India, not Mahanadi Coalfields. 📈 GREY MARKET PREMIUM (GMP) 🔹 Latest GMP: Around 1% 🔹 Grey market sentiment remains muted. 🔹 GMP is unofficial and does not guarantee listing gains. 🏭 COMPANY PROFILE 🔹 Mahanadi Coalfields ",
+      "has_media": false,
+      "version": "1431416337218836",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155322,
+      "posted_at": "2026-11-23T05:11:18+00:00",
+      "excerpt": "Dixon Dixon cash above 13420 support 13200 view 13700 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "3b151c28e693cc69",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18553,
+      "posted_at": "2026-11-23T05:02:30+00:00",
+      "excerpt": "Conviction Delivery Idea BUY TECHM CMP 1798.50 SL 1725 TGT 1945.5 - The stock is nearing a range breakout, while the RSI has witnessed a bullish crossover, indicating strengthening upward momentum. Disclaimer- [link]",
+      "has_media": true,
+      "version": "199287d9a1d40def",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "TECHM",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 1798.5,
+      "first_target": 1945.5,
+      "stop_loss": 1725.0,
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64913,
+      "posted_at": "2026-11-23T04:58:53+00:00",
+      "excerpt": "Syncom formulation india 7% up 🔥 Pharma sector is showing strength",
+      "has_media": false,
+      "version": "2d8a03db597213ab",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T05:51:34.766590+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137349,
@@ -9980,7 +10213,18 @@
       "version": "f19d9939a74fb8b0",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T04:49:29.593534+00:00"
+      "observed_at": "2026-11-23T04:49:29.593534+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10013,7 +10257,18 @@
       "version": "840a12b23098d6d8",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T04:49:29.593534+00:00"
+      "observed_at": "2026-11-23T04:49:29.593534+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "EICHER Motors",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 7600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10061,7 +10316,18 @@
       "symbol_candidate": "MEESHO",
       "stop_loss": 175.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-23T04:49:29.593534+00:00"
+      "observed_at": "2026-11-23T04:49:29.593534+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "MEESHO",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 175.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10083,7 +10349,18 @@
       "version": "3b151c28e693cc69",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-23T04:49:29.593534+00:00"
+      "observed_at": "2026-11-23T04:49:29.593534+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Dixon",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10094,7 +10371,18 @@
       "version": "f85e8cf00df61f3d",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-23T04:49:29.593534+00:00"
+      "observed_at": "2026-11-23T04:49:29.593534+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "DABUR / RVNL / REC",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-23T05:51:34.766590+00:00"
+      }
     },
     {
       "channel": "Equiideas",
