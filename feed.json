@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T15:49:55.829243+00:00",
+  "updated_at": "2026-11-23T16:44:31.593955+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9644,8 +9644,8 @@
       "pages": 1,
       "newest_id": 137386,
       "gap_detected": false,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
-      "last_success": "2026-11-23T15:49:55.829243+00:00"
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
+      "last_success": "2026-11-23T16:44:31.593955+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
-      "last_success": "2026-11-23T15:49:55.829243+00:00"
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
+      "last_success": "2026-11-23T16:44:31.593955+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,17 +9662,17 @@
       "pages": 1,
       "newest_id": 44571,
       "gap_detected": false,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
-      "last_success": "2026-11-23T15:49:55.829243+00:00"
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
+      "last_success": "2026-11-23T16:44:31.593955+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113110,
+      "newest_id": 113111,
       "gap_detected": false,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
-      "last_success": "2026-11-23T15:49:55.829243+00:00"
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
+      "last_success": "2026-11-23T16:44:31.593955+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,17 +9680,17 @@
       "pages": 1,
       "newest_id": 155342,
       "gap_detected": false,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
-      "last_success": "2026-11-23T15:49:55.829243+00:00"
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
+      "last_success": "2026-11-23T16:44:31.593955+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64923,
+      "newest_id": 64927,
       "gap_detected": false,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
-      "last_success": "2026-11-23T15:49:55.829243+00:00"
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
+      "last_success": "2026-11-23T16:44:31.593955+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9698,8 +9698,8 @@
       "pages": 1,
       "newest_id": 13686,
       "gap_detected": false,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
-      "last_success": "2026-11-23T15:49:55.829243+00:00"
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
+      "last_success": "2026-11-23T16:44:31.593955+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,7 +9707,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "checked_at": "2026-11-23T16:44:31.593955+00:00",
       "last_success": null
     }
   },
@@ -9719,10 +9719,54 @@
     "last_attempt": "2026-11-23T15:49:55.829243+00:00",
     "last_error": "HTTP 503",
     "pending": 6,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "status": "cooldown",
+    "message": "AI paused until 2026-11-23T16:49:55.829243+00:00; last error: HTTP 503. Rules remain available."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64927,
+      "posted_at": "2026-11-23T16:26:44+00:00",
+      "excerpt": "NASDAQ HITS CIRCUIT BREAKER, NOW HALTED",
+      "has_media": true,
+      "version": "5e27738be3ac74c8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T16:44:31.593955+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64926,
+      "posted_at": "2026-11-23T16:16:14+00:00",
+      "excerpt": "NASDAQ HITS CIRCUIT BREAKER, NOW HALTED",
+      "has_media": false,
+      "version": "865655a0b2a9a91d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T16:44:31.593955+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64924,
+      "posted_at": "2026-11-23T16:15:24+00:00",
+      "excerpt": "FII bought again 5000 cr..DII & Retailers sold out",
+      "has_media": false,
+      "version": "e721d4d6bd90ee7b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T16:44:31.593955+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113111,
+      "posted_at": "2026-11-23T15:53:30+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T16:44:31.593955+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113110,
