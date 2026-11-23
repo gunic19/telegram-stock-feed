@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T14:48:16.883883+00:00",
+  "updated_at": "2026-11-23T15:49:55.829243+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137382,
+      "newest_id": 137386,
       "gap_detected": false,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
-      "last_success": "2026-11-23T14:48:16.883883+00:00"
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "last_success": "2026-11-23T15:49:55.829243+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
-      "last_success": "2026-11-23T14:48:16.883883+00:00"
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "last_success": "2026-11-23T15:49:55.829243+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,17 +9662,17 @@
       "pages": 1,
       "newest_id": 44571,
       "gap_detected": false,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
-      "last_success": "2026-11-23T14:48:16.883883+00:00"
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "last_success": "2026-11-23T15:49:55.829243+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113106,
+      "newest_id": 113110,
       "gap_detected": false,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
-      "last_success": "2026-11-23T14:48:16.883883+00:00"
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "last_success": "2026-11-23T15:49:55.829243+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,8 +9680,8 @@
       "pages": 1,
       "newest_id": 155342,
       "gap_detected": false,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
-      "last_success": "2026-11-23T14:48:16.883883+00:00"
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "last_success": "2026-11-23T15:49:55.829243+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,17 +9689,17 @@
       "pages": 1,
       "newest_id": 64923,
       "gap_detected": false,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
-      "last_success": "2026-11-23T14:48:16.883883+00:00"
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "last_success": "2026-11-23T15:49:55.829243+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13684,
+      "newest_id": 13686,
       "gap_detected": false,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
-      "last_success": "2026-11-23T14:48:16.883883+00:00"
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
+      "last_success": "2026-11-23T15:49:55.829243+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,132 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T14:48:16.883883+00:00",
+      "checked_at": "2026-11-23T15:49:55.829243+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 10,
-    "cooldown_until": "2026-11-23T15:48:16.883883+00:00",
+    "requests_today": 11,
+    "cooldown_until": "2026-11-23T16:49:55.829243+00:00",
     "last_success": "2026-11-23T11:10:34.738963+00:00",
-    "last_attempt": "2026-11-23T14:48:16.883883+00:00",
+    "last_attempt": "2026-11-23T15:49:55.829243+00:00",
     "last_error": "HTTP 503",
-    "pending": 3,
+    "pending": 6,
     "status": "error",
     "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113110,
+      "posted_at": "2026-11-23T15:49:08+00:00",
+      "excerpt": "Sportking tgt 240/50+ positional right now 186/88",
+      "has_media": false,
+      "version": "74ec77c001e03e2d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137386,
+      "posted_at": "2026-11-23T15:36:31+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137385,
+      "posted_at": "2026-11-23T15:36:07+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13685,
+      "posted_at": "2026-11-23T15:34:34+00:00",
+      "excerpt": "Nvidia is back with a bang! 🚀 The stock has surged 30%, adding more than $900 billion in market cap in a single day, recovering almost all the losses since Huang disclosed the affair. And the AI trade is catching fire again! Micron Technology: +14% CoreWeave: +29% AMD: +9% When Nvidia moves, the entire AI ecosystem seems to move with it. That’s one expensive affair! 😄",
+      "has_media": false,
+      "version": "50414b0b397d8393",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13686,
+      "posted_at": "2026-11-23T15:34:34+00:00",
+      "excerpt": "🚀 WALL STREET ROARS BACK! 🇺🇸 US markets stage a massive comeback as Nvidia surges following Jensen Huang's reinstatement as CEO 📈 Nasdaq jumps 6.5% 📈 S&P 500 rallies 4.5% 📈 Dow gains over 1,100 points 💚 Nvidia adds nearly $938 billion in market value!, market cap back at $4 trillion",
+      "has_media": false,
+      "version": "bac526b053fe9da3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113109,
+      "posted_at": "2026-11-23T15:20:00+00:00",
+      "excerpt": "Sebi Resticts publishing Grey Market Premiums for IPO's",
+      "has_media": false,
+      "version": "1e55a1b84217c26e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113108,
+      "posted_at": "2026-11-23T15:18:05+00:00",
+      "excerpt": "Had given one hint in morning commentary if you could read and understand",
+      "has_media": false,
+      "version": "5c3d7d69ca5ab041",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113107,
+      "posted_at": "2026-11-23T15:17:42+00:00",
+      "excerpt": "Most people got the shock of the day .. everyone was expecting All time highs on nifty !!! but it went up and then gave decent correction putting all those who went long in big losses today .....",
+      "has_media": false,
+      "version": "f9fe5ef290aec0b4",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137384,
+      "posted_at": "2026-11-23T15:00:20+00:00",
+      "excerpt": "🔥 Today's Informative Youtube Video Out- PLZ WATCH IT 🔥 ✅ StockPro | How to Read Stock Charts Like a Pro: Trend, Volume & Support Explained [link]",
+      "has_media": false,
+      "version": "96faa593dd2a0dbb",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137383,
+      "posted_at": "2026-11-23T14:59:03+00:00",
+      "excerpt": "🔥 Today's Informative Youtube Video Out- PLZ WATCH IT 🔥 ✅ StockPro | How to Read Stock Charts Like a Pro: Trend, Volume & Support Explained [link]",
+      "has_media": false,
+      "version": "96faa593dd2a0dbb",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-23T15:49:55.829243+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155342,
