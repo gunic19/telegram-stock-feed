@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T12:19:16.617108+00:00",
+  "updated_at": "2026-11-23T13:47:37.270339+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-22T18:16:46.288316+00:00",
@@ -9642,10 +9642,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137379,
+      "newest_id": 137380,
       "gap_detected": false,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
-      "last_success": "2026-11-23T12:19:16.617108+00:00"
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
+      "last_success": "2026-11-23T13:47:37.270339+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9653,8 +9653,8 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
-      "last_success": "2026-11-23T12:19:16.617108+00:00"
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
+      "last_success": "2026-11-23T13:47:37.270339+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9662,8 +9662,8 @@
       "pages": 1,
       "newest_id": 44571,
       "gap_detected": false,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
-      "last_success": "2026-11-23T12:19:16.617108+00:00"
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
+      "last_success": "2026-11-23T13:47:37.270339+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9671,8 +9671,8 @@
       "pages": 1,
       "newest_id": 113103,
       "gap_detected": false,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
-      "last_success": "2026-11-23T12:19:16.617108+00:00"
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
+      "last_success": "2026-11-23T13:47:37.270339+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9680,8 +9680,8 @@
       "pages": 1,
       "newest_id": 155341,
       "gap_detected": false,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
-      "last_success": "2026-11-23T12:19:16.617108+00:00"
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
+      "last_success": "2026-11-23T13:47:37.270339+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9689,17 +9689,17 @@
       "pages": 1,
       "newest_id": 64915,
       "gap_detected": false,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
-      "last_success": "2026-11-23T12:19:16.617108+00:00"
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
+      "last_success": "2026-11-23T13:47:37.270339+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13681,
+      "newest_id": 13682,
       "gap_detected": false,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
-      "last_success": "2026-11-23T12:19:16.617108+00:00"
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
+      "last_success": "2026-11-23T13:47:37.270339+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9707,22 +9707,44 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-23T12:19:16.617108+00:00",
+      "checked_at": "2026-11-23T13:47:37.270339+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-23",
-    "requests_today": 8,
-    "cooldown_until": null,
+    "requests_today": 9,
+    "cooldown_until": "2026-11-23T14:47:37.270339+00:00",
     "last_success": "2026-11-23T11:10:34.738963+00:00",
-    "last_attempt": "2026-11-23T11:10:34.738963+00:00",
-    "last_error": null,
-    "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "last_attempt": "2026-11-23T13:47:37.270339+00:00",
+    "last_error": "HTTP 503",
+    "pending": 1,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137380,
+      "posted_at": "2026-11-23T13:14:20+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-23T13:47:37.270339+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13682,
+      "posted_at": "2026-11-23T12:21:03+00:00",
+      "excerpt": "Adani Airport Holdings Ltd – INR 2,790 CR PRIMARY EQUITY RAISE Adani Airport Holdings Limited (AAHL) has entered into a binding agreement with 360 ONE Asset to raise INR 2,790 Cr (~USD 300 million) in primary equity, bringing the company's total equity raise to approximately INR 12,555 Cr (~USD 1.35 billion): - The transaction involves the issuance of new equity shares to 360 ONE Asset at a pre-money equity valuation of ~USD 18 billion. - This investment follows an earlier round of INR 9,825 Cr (~USD 1 billion) raised from a consortium including Alpha Wave Global, Premji Invest, Temasek, and BlackRock-managed funds. - Upon completion of both transactions, the investors will collectively hold",
+      "has_media": false,
+      "version": "10cfffb78a8199c9",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-23T13:47:37.270339+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137379,
