@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T02:55:43.229138+00:00",
+  "updated_at": "2026-11-24T04:00:12.441832+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-23T18:41:11.267515+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137386,
+      "newest_id": 137388,
       "gap_detected": false,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
-      "last_success": "2026-11-24T02:55:43.229138+00:00"
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "last_success": "2026-11-24T04:00:12.441832+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
-      "last_success": "2026-11-24T02:55:43.229138+00:00"
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "last_success": "2026-11-24T04:00:12.441832+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,8 +9710,8 @@
       "pages": 1,
       "newest_id": 44571,
       "gap_detected": false,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
-      "last_success": "2026-11-24T02:55:43.229138+00:00"
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "last_success": "2026-11-24T04:00:12.441832+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9719,8 +9719,8 @@
       "pages": 1,
       "newest_id": 113111,
       "gap_detected": false,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
-      "last_success": "2026-11-24T02:55:43.229138+00:00"
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "last_success": "2026-11-24T04:00:12.441832+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,17 +9728,17 @@
       "pages": 1,
       "newest_id": 155343,
       "gap_detected": false,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
-      "last_success": "2026-11-24T02:55:43.229138+00:00"
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "last_success": "2026-11-24T04:00:12.441832+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64927,
+      "newest_id": 64930,
       "gap_detected": false,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
-      "last_success": "2026-11-24T02:55:43.229138+00:00"
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "last_success": "2026-11-24T04:00:12.441832+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13686,
       "gap_detected": false,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
-      "last_success": "2026-11-24T02:55:43.229138+00:00"
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "last_success": "2026-11-24T04:00:12.441832+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,66 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-24T02:55:43.229138+00:00",
+      "checked_at": "2026-11-24T04:00:12.441832+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-24",
-    "requests_today": 1,
-    "cooldown_until": null,
+    "requests_today": 2,
+    "cooldown_until": "2026-11-24T05:00:12.441832+00:00",
     "last_success": "2026-11-24T00:30:09.279167+00:00",
-    "last_attempt": "2026-11-24T00:30:09.279167+00:00",
-    "last_error": null,
-    "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "last_attempt": "2026-11-24T04:00:12.441832+00:00",
+    "last_error": "Network timeout",
+    "pending": 1,
+    "status": "error",
+    "message": "Gemini Network timeout; retry later. Rules remain available."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64930,
+      "posted_at": "2026-11-24T03:56:02+00:00",
+      "excerpt": "Save these candle pattern",
+      "has_media": true,
+      "version": "e0a44cbfe5e30a2d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T04:00:12.441832+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64929,
+      "posted_at": "2026-11-24T03:31:39+00:00",
+      "excerpt": "PRECISION CAMSHAFTS: CO WINS NEW BUSINESS FROM MARUTI SUZUKI AND HYUNDAI VIA TIER 1 FOR 7 LAKH CAMSHAFTS ANNUALLY; MARUTI SOP TARGETED JUNE 2030 WITH ₹50 CRORE ANNUAL REVENUE",
+      "has_media": false,
+      "version": "63007caee62d1efc",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-24T04:00:12.441832+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64928,
+      "posted_at": "2026-11-24T03:24:25+00:00",
+      "excerpt": "Aj apna Mkt band h 😰 😰 Global mkt is 💥 💥",
+      "has_media": false,
+      "version": "a91533cf069e85b6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T04:00:12.441832+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137388,
+      "posted_at": "2026-11-24T03:03:44+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T04:00:12.441832+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155343,
