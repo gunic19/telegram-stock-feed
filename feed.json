@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T08:50:29.842127+00:00",
+  "updated_at": "2026-11-24T09:54:34.239244+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-23T18:41:11.267515+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137395,
+      "newest_id": 137397,
       "gap_detected": false,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
-      "last_success": "2026-11-24T08:50:29.842127+00:00"
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
+      "last_success": "2026-11-24T09:54:34.239244+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
-      "last_success": "2026-11-24T08:50:29.842127+00:00"
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
+      "last_success": "2026-11-24T09:54:34.239244+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,17 +9710,17 @@
       "pages": 1,
       "newest_id": 44572,
       "gap_detected": false,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
-      "last_success": "2026-11-24T08:50:29.842127+00:00"
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
+      "last_success": "2026-11-24T09:54:34.239244+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113116,
+      "newest_id": 113118,
       "gap_detected": false,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
-      "last_success": "2026-11-24T08:50:29.842127+00:00"
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
+      "last_success": "2026-11-24T09:54:34.239244+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,8 +9728,8 @@
       "pages": 1,
       "newest_id": 155344,
       "gap_detected": false,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
-      "last_success": "2026-11-24T08:50:29.842127+00:00"
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
+      "last_success": "2026-11-24T09:54:34.239244+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9737,8 +9737,8 @@
       "pages": 1,
       "newest_id": 64932,
       "gap_detected": false,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
-      "last_success": "2026-11-24T08:50:29.842127+00:00"
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
+      "last_success": "2026-11-24T09:54:34.239244+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13686,
       "gap_detected": false,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
-      "last_success": "2026-11-24T08:50:29.842127+00:00"
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
+      "last_success": "2026-11-24T09:54:34.239244+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,7 +9755,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-24T08:50:29.842127+00:00",
+      "checked_at": "2026-11-24T09:54:34.239244+00:00",
       "last_success": null
     }
   },
@@ -9771,6 +9771,39 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113118,
+      "posted_at": "2026-11-24T09:32:56+00:00",
+      "excerpt": "Our markets are closed and will open in the evening.. Asset class may see huge pressure as Bitcoin unwinding may happen",
+      "has_media": false,
+      "version": "3da5f90c348b45de",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T09:54:34.239244+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113117,
+      "posted_at": "2026-11-24T09:31:30+00:00",
+      "excerpt": "Those who went long in silver and Gold now trapped",
+      "has_media": false,
+      "version": "8f09e10c74ba96a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T09:54:34.239244+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137397,
+      "posted_at": "2026-11-24T09:13:33+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T09:54:34.239244+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137395,
