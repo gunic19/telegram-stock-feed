@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T06:18:36.500032+00:00",
+  "updated_at": "2026-11-24T07:48:23.375274+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-23T18:41:11.267515+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137394,
+      "newest_id": 137395,
       "gap_detected": false,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
-      "last_success": "2026-11-24T06:18:36.500032+00:00"
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
+      "last_success": "2026-11-24T07:48:23.375274+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,17 +9701,17 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
-      "last_success": "2026-11-24T06:18:36.500032+00:00"
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
+      "last_success": "2026-11-24T07:48:23.375274+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44571,
+      "newest_id": 44572,
       "gap_detected": false,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
-      "last_success": "2026-11-24T06:18:36.500032+00:00"
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
+      "last_success": "2026-11-24T07:48:23.375274+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9719,8 +9719,8 @@
       "pages": 1,
       "newest_id": 113116,
       "gap_detected": false,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
-      "last_success": "2026-11-24T06:18:36.500032+00:00"
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
+      "last_success": "2026-11-24T07:48:23.375274+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,8 +9728,8 @@
       "pages": 1,
       "newest_id": 155344,
       "gap_detected": false,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
-      "last_success": "2026-11-24T06:18:36.500032+00:00"
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
+      "last_success": "2026-11-24T07:48:23.375274+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9737,8 +9737,8 @@
       "pages": 1,
       "newest_id": 64932,
       "gap_detected": false,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
-      "last_success": "2026-11-24T06:18:36.500032+00:00"
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
+      "last_success": "2026-11-24T07:48:23.375274+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13686,
       "gap_detected": false,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
-      "last_success": "2026-11-24T06:18:36.500032+00:00"
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
+      "last_success": "2026-11-24T07:48:23.375274+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,7 +9755,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-24T06:18:36.500032+00:00",
+      "checked_at": "2026-11-24T07:48:23.375274+00:00",
       "last_success": null
     }
   },
@@ -9771,6 +9771,28 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137395,
+      "posted_at": "2026-11-24T06:55:54+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T07:48:23.375274+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44572,
+      "posted_at": "2026-11-24T06:42:45+00:00",
+      "excerpt": "🤖 NVIDIA CEO JENSEN HUANG RETURNS 🇮🇳 India की AI Growth Story पर क्या होगा असर? 🔹 $4-5 BILLION - India में NVIDIA GPU-powered AI data centres के लिए commitments. 🔹 INDIA AI MISSION - ₹10372 करोड़ के mission के तहत 25000+ GPUs onboard हो चुके हैं. 🔹 BIG PARTNERSHIPS - Reliance / Tata / L&T / Yotta / TCS / Infosys और Tech Mahindra समेत कई Indian companies NVIDIA ecosystem का हिस्सा हैं. 🔹 FUTURE ORDERS - Blackwell और Vera Rubin GPUs के orders पहले से locked in हैं. फिलहाल India business पर short-to-medium term impact की उम्मीद नहीं. 🔹 $300 BILLION OPPORTUNITY - Counterpoint Research के estimate के मुताबिक 2030 तक India enterprise AI ecosystem में $300+ billion opportunity बन सकती है. 📌 BIG PIC",
+      "has_media": false,
+      "version": "30ea465601073301",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T07:48:23.375274+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137394,
