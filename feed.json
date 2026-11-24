@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T04:00:12.441832+00:00",
+  "updated_at": "2026-11-24T05:10:02.029210+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-23T18:41:11.267515+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137388,
+      "newest_id": 137389,
       "gap_detected": false,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
-      "last_success": "2026-11-24T04:00:12.441832+00:00"
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
+      "last_success": "2026-11-24T05:10:02.029210+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
-      "last_success": "2026-11-24T04:00:12.441832+00:00"
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
+      "last_success": "2026-11-24T05:10:02.029210+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,17 +9710,17 @@
       "pages": 1,
       "newest_id": 44571,
       "gap_detected": false,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
-      "last_success": "2026-11-24T04:00:12.441832+00:00"
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
+      "last_success": "2026-11-24T05:10:02.029210+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113111,
+      "newest_id": 113113,
       "gap_detected": false,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
-      "last_success": "2026-11-24T04:00:12.441832+00:00"
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
+      "last_success": "2026-11-24T05:10:02.029210+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,17 +9728,17 @@
       "pages": 1,
       "newest_id": 155343,
       "gap_detected": false,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
-      "last_success": "2026-11-24T04:00:12.441832+00:00"
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
+      "last_success": "2026-11-24T05:10:02.029210+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64930,
+      "newest_id": 64932,
       "gap_detected": false,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
-      "last_success": "2026-11-24T04:00:12.441832+00:00"
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
+      "last_success": "2026-11-24T05:10:02.029210+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13686,
       "gap_detected": false,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
-      "last_success": "2026-11-24T04:00:12.441832+00:00"
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
+      "last_success": "2026-11-24T05:10:02.029210+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,77 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-24T04:00:12.441832+00:00",
+      "checked_at": "2026-11-24T05:10:02.029210+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-24",
-    "requests_today": 2,
-    "cooldown_until": "2026-11-24T05:00:12.441832+00:00",
-    "last_success": "2026-11-24T00:30:09.279167+00:00",
-    "last_attempt": "2026-11-24T04:00:12.441832+00:00",
-    "last_error": "Network timeout",
-    "pending": 1,
-    "status": "error",
-    "message": "Gemini Network timeout; retry later. Rules remain available."
+    "requests_today": 3,
+    "cooldown_until": null,
+    "last_success": "2026-11-24T05:10:02.029210+00:00",
+    "last_attempt": "2026-11-24T05:10:02.029210+00:00",
+    "last_error": null,
+    "pending": 0,
+    "status": "ok",
+    "message": "AI processed 1/1 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113113,
+      "posted_at": "2026-11-24T05:09:41+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-24T05:10:02.029210+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64932,
+      "posted_at": "2026-11-24T04:49:30+00:00",
+      "excerpt": "Very useful candle, must save these pattern",
+      "has_media": false,
+      "version": "f6a0b5a19262415a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T05:10:02.029210+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113112,
+      "posted_at": "2026-11-24T04:41:15+00:00",
+      "excerpt": "Suprabhat 🌅 investors 🙏 💐",
+      "has_media": false,
+      "version": "246f7ef470dda864",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T05:10:02.029210+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137389,
+      "posted_at": "2026-11-24T04:39:50+00:00",
+      "excerpt": "❇️ Register for Today's LIVE Interaction Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Get all your queries answered regarding Master Trader Course Date: 24th NOV 2026 Timings: 11:00 AM -12:30 PM (Today) 📲 Register Now Via This Link [link]",
+      "has_media": true,
+      "version": "6454796f85e6a032",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T05:10:02.029210+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64930,
+      "posted_at": "2026-11-24T03:56:02+00:00",
+      "excerpt": "Very useful candle, must save these pattern",
+      "has_media": true,
+      "version": "c6d08830b37471ca",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-24T05:10:02.029210+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64930,
@@ -9791,7 +9846,18 @@
       "version": "63007caee62d1efc",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-24T04:00:12.441832+00:00"
+      "observed_at": "2026-11-24T04:00:12.441832+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "PRECISION CAMSHAFTS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-24T05:10:02.029210+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
