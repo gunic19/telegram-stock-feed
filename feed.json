@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T15:39:11.621599+00:00",
+  "updated_at": "2026-11-25T16:51:32.185419+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-24T19:49:33.579890+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137450,
+      "newest_id": 137452,
       "gap_detected": false,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
-      "last_success": "2026-11-25T15:39:11.621599+00:00"
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "last_success": "2026-11-25T16:51:32.185419+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18562,
       "gap_detected": false,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
-      "last_success": "2026-11-25T15:39:11.621599+00:00"
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "last_success": "2026-11-25T16:51:32.185419+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,8 +9710,8 @@
       "pages": 1,
       "newest_id": 44590,
       "gap_detected": false,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
-      "last_success": "2026-11-25T15:39:11.621599+00:00"
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "last_success": "2026-11-25T16:51:32.185419+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9719,8 +9719,8 @@
       "pages": 1,
       "newest_id": 113181,
       "gap_detected": false,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
-      "last_success": "2026-11-25T15:39:11.621599+00:00"
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "last_success": "2026-11-25T16:51:32.185419+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,8 +9728,8 @@
       "pages": 1,
       "newest_id": 155363,
       "gap_detected": false,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
-      "last_success": "2026-11-25T15:39:11.621599+00:00"
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "last_success": "2026-11-25T16:51:32.185419+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9737,8 +9737,8 @@
       "pages": 1,
       "newest_id": 64972,
       "gap_detected": false,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
-      "last_success": "2026-11-25T15:39:11.621599+00:00"
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "last_success": "2026-11-25T16:51:32.185419+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13698,
       "gap_detected": false,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
-      "last_success": "2026-11-25T15:39:11.621599+00:00"
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "last_success": "2026-11-25T16:51:32.185419+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,33 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "checked_at": "2026-11-25T16:51:32.185419+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-25",
-    "requests_today": 12,
-    "cooldown_until": "2026-11-25T16:39:11.621599+00:00",
+    "requests_today": 13,
+    "cooldown_until": "2026-11-25T17:51:32.185419+00:00",
     "last_success": "2026-11-25T12:52:53.588687+00:00",
-    "last_attempt": "2026-11-25T15:39:11.621599+00:00",
+    "last_attempt": "2026-11-25T16:51:32.185419+00:00",
     "last_error": "HTTP 503",
     "pending": 2,
     "status": "error",
     "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137452,
+      "posted_at": "2026-11-25T15:57:09+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 4 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "167047b5adbb56d1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T16:51:32.185419+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113181,
