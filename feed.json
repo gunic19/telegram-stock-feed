@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T06:49:07.492615+00:00",
+  "updated_at": "2026-11-25T08:19:11.991825+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-24T19:49:33.579890+00:00",
@@ -9692,53 +9692,53 @@
       "pages": 1,
       "newest_id": 137438,
       "gap_detected": false,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
-      "last_success": "2026-11-25T06:49:07.492615+00:00"
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "last_success": "2026-11-25T08:19:11.991825+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18558,
+      "newest_id": 18561,
       "gap_detected": false,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
-      "last_success": "2026-11-25T06:49:07.492615+00:00"
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "last_success": "2026-11-25T08:19:11.991825+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44585,
+      "newest_id": 44586,
       "gap_detected": false,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
-      "last_success": "2026-11-25T06:49:07.492615+00:00"
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "last_success": "2026-11-25T08:19:11.991825+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113164,
+      "newest_id": 113167,
       "gap_detected": false,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
-      "last_success": "2026-11-25T06:49:07.492615+00:00"
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "last_success": "2026-11-25T08:19:11.991825+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155355,
+      "newest_id": 155360,
       "gap_detected": false,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
-      "last_success": "2026-11-25T06:49:07.492615+00:00"
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "last_success": "2026-11-25T08:19:11.991825+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64964,
+      "newest_id": 64966,
       "gap_detected": false,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
-      "last_success": "2026-11-25T06:49:07.492615+00:00"
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "last_success": "2026-11-25T08:19:11.991825+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13695,
       "gap_detected": false,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
-      "last_success": "2026-11-25T06:49:07.492615+00:00"
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "last_success": "2026-11-25T08:19:11.991825+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,170 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-25T06:49:07.492615+00:00",
+      "checked_at": "2026-11-25T08:19:11.991825+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-25",
-    "requests_today": 5,
+    "requests_today": 6,
     "cooldown_until": null,
-    "last_success": "2026-11-25T06:49:07.492615+00:00",
-    "last_attempt": "2026-11-25T06:49:07.492615+00:00",
+    "last_success": "2026-11-25T08:19:11.991825+00:00",
+    "last_attempt": "2026-11-25T08:19:11.991825+00:00",
     "last_error": null,
-    "pending": 23,
+    "pending": 20,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18561,
+      "posted_at": "2026-11-25T08:05:23+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44586,
+      "posted_at": "2026-11-25T07:34:00+00:00",
+      "excerpt": "🛒 FMCG STOCKS RALLY | 3-MONTH HIGH 📅 25 NOVEMBER 2026 🚀 NIFTY FMCG - करीब 2.6% उछलकर 49,559.3 पर पहुंचा. तीन महीने से ज्यादा का high बनाया. 🏆 TOP GAINERS 🔹 HUL - +4.0% | ₹2,099.50 🔹 TATA CONSUMER - +3.9% | ₹1,177.50 🔹 ITC - +3.0% | ₹310 🔹 NESTLE INDIA - +2.1% | ₹1,333.70 🔹 TRENT - +3.4% | ₹3,335.10 💰 FII BUYING SUPPORT FIIs लगातार 10 trading sessions से net buyers रहे. इस दौरान Indian equities में ₹71,662 Cr से ज्यादा का investment आया. 🛢 LOWER CRUDE PRICES Brent Crude करीब $90.80 पर trade कर रहा था. November में अब तक करीब 23% की गिरावट. इससे FMCG companies के packaging और transportation costs को राहत मिल सकती है. 📊 MARKET RECOVERY 🟢 SENSEX - +2.3% | 84,306.5 🟢 NIFTY 50 - +2.2% | 25,900.3 📌",
+      "has_media": false,
+      "version": "7929b4a6dbd74eab",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155360,
+      "posted_at": "2026-11-25T07:30:46+00:00",
+      "excerpt": "FMCG SECTOR IS LEADING TODAY",
+      "has_media": true,
+      "version": "12cc1a1cf05a3944",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64966,
+      "posted_at": "2026-11-25T07:24:41+00:00",
+      "excerpt": "Jupiter wagon 15% up 🔥 🔥 Reason is here 👇 JUPITER WAGONS: CO SIGNS PACT WITH WOOJIN FOR METRO COACH MANUFACTURING AND PROPULSION TECHNOLOGY; TO HOLD 80% IN JV",
+      "has_media": false,
+      "version": "72e107885fe8dd3c",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64965,
+      "posted_at": "2026-11-25T07:20:57+00:00",
+      "excerpt": "Same situation 😁 😁",
+      "has_media": true,
+      "version": "90752e1d7e459641",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155359,
+      "posted_at": "2026-11-25T07:18:56+00:00",
+      "excerpt": "TORNTPHARMA breakout above 4900",
+      "has_media": true,
+      "version": "27c7cb207875732c",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155358,
+      "posted_at": "2026-11-25T07:11:00+00:00",
+      "excerpt": "Selling pressure in market",
+      "has_media": false,
+      "version": "a40a35a6278b6e7f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155357,
+      "posted_at": "2026-11-25T07:10:50+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155356,
+      "posted_at": "2026-11-25T07:09:04+00:00",
+      "excerpt": "HUL HUL 2060 CE 75-77 SUPPORT 60 VIEW 90 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "fd4bd10344b03d07",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113167,
+      "posted_at": "2026-11-25T07:02:59+00:00",
+      "excerpt": "TWEET !!! TODAY DABUR IS TOP F&O GAINER",
+      "has_media": true,
+      "version": "13208fc01018de19",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18560,
+      "posted_at": "2026-11-25T06:58:50+00:00",
+      "excerpt": "Conviction Delivery Idea BUY DRREDDY CMP 1407.40 SL 1360 TGT 1503 - On verge of breakout above previous high resistance Disclaimer - [link]",
+      "has_media": true,
+      "version": "e7707c2bf263d321",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "DRREDDY",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 1407.4,
+      "first_target": 1503.0,
+      "stop_loss": 1360.0,
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113166,
+      "posted_at": "2026-11-25T06:57:00+00:00",
+      "excerpt": "आसमां में बदलाव, बहुत सारे आने लगे। चांदी के अंदर अब चांद तारे भी नज़र आने लगे। 🥈",
+      "has_media": false,
+      "version": "f3021547f6a8b8bd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113165,
+      "posted_at": "2026-11-25T06:54:30+00:00",
+      "excerpt": "pfc and rec before merger can see strong moves",
+      "has_media": false,
+      "version": "441b9f280a83d02c",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-25T08:19:11.991825+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113164,
@@ -10235,7 +10383,18 @@
       "version": "840a12b23098d6d8",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T05:38:09.450167+00:00"
+      "observed_at": "2026-11-25T05:38:09.450167+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "EICHER Motors",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 7600.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10393,7 +10552,18 @@
       "version": "41e1a4227bb1c54c",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-25T05:38:09.450167+00:00"
+      "observed_at": "2026-11-25T05:38:09.450167+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "Texrail",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10404,7 +10574,18 @@
       "version": "d2b54a0b520a5041",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-25T05:38:09.450167+00:00"
+      "observed_at": "2026-11-25T05:38:09.450167+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10483,7 +10664,18 @@
       "version": "3c069f58b3dc096e",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T05:38:09.450167+00:00"
+      "observed_at": "2026-11-25T05:38:09.450167+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "INFY",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -11280,7 +11472,18 @@
       "version": "63007caee62d1efc",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-25T04:36:12.884887+00:00"
+      "observed_at": "2026-11-25T04:36:12.884887+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "PRECISION CAMSHAFTS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -11302,7 +11505,18 @@
       "version": "ffb822663b3125ac",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T04:36:12.884887+00:00"
+      "observed_at": "2026-11-25T04:36:12.884887+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -11335,7 +11549,18 @@
       "version": "1584a05f84c86465",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-25T04:36:12.884887+00:00"
+      "observed_at": "2026-11-25T04:36:12.884887+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -11368,7 +11593,18 @@
       "version": "26fe7480922ff053",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-25T04:36:12.884887+00:00"
+      "observed_at": "2026-11-25T04:36:12.884887+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T08:19:11.991825+00:00"
+      }
     },
     {
       "channel": "Equiideas",
