@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T16:51:32.185419+00:00",
+  "updated_at": "2026-11-25T17:41:12.846209+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-24T19:49:33.579890+00:00",
@@ -9692,8 +9692,8 @@
       "pages": 1,
       "newest_id": 137452,
       "gap_detected": false,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
-      "last_success": "2026-11-25T16:51:32.185419+00:00"
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
+      "last_success": "2026-11-25T17:41:12.846209+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18562,
       "gap_detected": false,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
-      "last_success": "2026-11-25T16:51:32.185419+00:00"
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
+      "last_success": "2026-11-25T17:41:12.846209+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,8 +9710,8 @@
       "pages": 1,
       "newest_id": 44590,
       "gap_detected": false,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
-      "last_success": "2026-11-25T16:51:32.185419+00:00"
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
+      "last_success": "2026-11-25T17:41:12.846209+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9719,17 +9719,17 @@
       "pages": 1,
       "newest_id": 113181,
       "gap_detected": false,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
-      "last_success": "2026-11-25T16:51:32.185419+00:00"
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
+      "last_success": "2026-11-25T17:41:12.846209+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155363,
+      "newest_id": 155364,
       "gap_detected": false,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
-      "last_success": "2026-11-25T16:51:32.185419+00:00"
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
+      "last_success": "2026-11-25T17:41:12.846209+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9737,8 +9737,8 @@
       "pages": 1,
       "newest_id": 64972,
       "gap_detected": false,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
-      "last_success": "2026-11-25T16:51:32.185419+00:00"
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
+      "last_success": "2026-11-25T17:41:12.846209+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13698,
       "gap_detected": false,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
-      "last_success": "2026-11-25T16:51:32.185419+00:00"
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
+      "last_success": "2026-11-25T17:41:12.846209+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,7 +9755,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-25T16:51:32.185419+00:00",
+      "checked_at": "2026-11-25T17:41:12.846209+00:00",
       "last_success": null
     }
   },
@@ -9767,10 +9767,21 @@
     "last_attempt": "2026-11-25T16:51:32.185419+00:00",
     "last_error": "HTTP 503",
     "pending": 2,
-    "status": "error",
-    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
+    "status": "cooldown",
+    "message": "AI paused until 2026-11-25T17:51:32.185419+00:00; last error: HTTP 503. Rules remain available."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155364,
+      "posted_at": "2026-11-25T17:09:51+00:00",
+      "excerpt": "Stock Gainers (SEBI REGISTERED) ⭐️ Live Analysis of 25th NOV 1. OPTION ANALYSIS SENSEX 84300PE 680 TO 500 ➖ HUL 2060CE 75 TO 90+ 🔥 DMART 3550CE 113 TO 140 🔥 KALYAN JEWELLERY 700CE 15 TO made high 17.30 🔥 2.STOCK FUTURE & EQUITY CASH ANALYSIS GLENMARK(FUT) 2735 TO made high 2750 🔥 Note: Those who are tracking our Live Analysis please read our disclaimer Focus On the Right Analysis FOR PRIME  MEMBERSHIP PING @SG005 ✔️",
+      "has_media": false,
+      "version": "5b314095961f4dd8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T17:41:12.846209+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137452,
