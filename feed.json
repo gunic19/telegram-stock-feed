@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T08:19:11.991825+00:00",
+  "updated_at": "2026-11-25T09:40:39.884948+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-24T19:49:33.579890+00:00",
@@ -9690,55 +9690,55 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137438,
+      "newest_id": 137442,
       "gap_detected": false,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
-      "last_success": "2026-11-25T08:19:11.991825+00:00"
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
+      "last_success": "2026-11-25T09:40:39.884948+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18561,
+      "newest_id": 18562,
       "gap_detected": false,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
-      "last_success": "2026-11-25T08:19:11.991825+00:00"
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
+      "last_success": "2026-11-25T09:40:39.884948+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44586,
+      "newest_id": 44588,
       "gap_detected": false,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
-      "last_success": "2026-11-25T08:19:11.991825+00:00"
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
+      "last_success": "2026-11-25T09:40:39.884948+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113167,
+      "newest_id": 113170,
       "gap_detected": false,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
-      "last_success": "2026-11-25T08:19:11.991825+00:00"
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
+      "last_success": "2026-11-25T09:40:39.884948+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155360,
+      "newest_id": 155362,
       "gap_detected": false,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
-      "last_success": "2026-11-25T08:19:11.991825+00:00"
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
+      "last_success": "2026-11-25T09:40:39.884948+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64966,
+      "newest_id": 64969,
       "gap_detected": false,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
-      "last_success": "2026-11-25T08:19:11.991825+00:00"
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
+      "last_success": "2026-11-25T09:40:39.884948+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13695,
       "gap_detected": false,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
-      "last_success": "2026-11-25T08:19:11.991825+00:00"
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
+      "last_success": "2026-11-25T09:40:39.884948+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,154 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-25T08:19:11.991825+00:00",
+      "checked_at": "2026-11-25T09:40:39.884948+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-25",
-    "requests_today": 6,
+    "requests_today": 7,
     "cooldown_until": null,
-    "last_success": "2026-11-25T08:19:11.991825+00:00",
-    "last_attempt": "2026-11-25T08:19:11.991825+00:00",
+    "last_success": "2026-11-25T09:40:39.884948+00:00",
+    "last_attempt": "2026-11-25T09:40:39.884948+00:00",
     "last_error": null,
-    "pending": 20,
+    "pending": 14,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64969,
+      "posted_at": "2026-11-25T09:40:03+00:00",
+      "excerpt": "Apollo tyre 423 Looking good due to falling crude & breakout on chart",
+      "has_media": true,
+      "version": "a20c476da9605c0f",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44588,
+      "posted_at": "2026-11-25T09:36:51+00:00",
+      "excerpt": "🛢 INDIA PETROLEUM EXPORTS | APR-OCT FY27 📅 25 NOVEMBER 2026 📉 EXPORT VOLUME DOWN - Petroleum product exports 13% गिरकर 32.1 Million Tonnes रहे. पिछले साल इसी अवधि में 37.1 Million Tonnes थे. 💰 EXPORT VALUE UP - Higher crude prices के चलते export value 47% बढ़कर $34.1 Billion पहुंची. 🌍 CRUDE OIL PRICES - Indian crude basket का average price October में $119.9 per barrel रहा. October 2025 में यह $65.08 था. 🇮🇳 DOMESTIC CONSUMPTION - Petroleum products consumption 3.2% घटकर 134.2 Million Tonnes रही. ⚠️ IMPORT BILL SURGES 🔹 Crude Imports - 2.6% बढ़कर 146.6 Million Tonnes. 🔹 Import Bill - 53.5% उछलकर $111 Billion. 📊 OCTOBER EXPORT UPDATE • Export volume - +5.8% to 5.4 Million Tonnes. • Export valu",
+      "has_media": false,
+      "version": "7099b60de0873e66",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113170,
+      "posted_at": "2026-11-25T09:25:01+00:00",
+      "excerpt": "CELEBRATIONS FOR 2027 MAY START WITH PARTIES = LIQUOR / PIZZA / DELIVERY STOCKS IN FOCUS",
+      "has_media": false,
+      "version": "0be219dcd0b5a442",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137442,
+      "posted_at": "2026-11-25T09:09:18+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions…",
+      "has_media": false,
+      "version": "e761c48649be886b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137439,
+      "posted_at": "2026-11-25T09:08:13+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 4 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "167047b5adbb56d1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113169,
+      "posted_at": "2026-11-25T09:01:31+00:00",
+      "excerpt": "DELHI & OTHER METRO CITY POLLUTION = PUSH FOR CNG / PNG likely !!!",
+      "has_media": false,
+      "version": "9c436abe9dbe7f4f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113168,
+      "posted_at": "2026-11-25T09:00:20+00:00",
+      "excerpt": "CELEBRATIONS FOR 2027 MAY START WITH PARTIES = LIQUOR / PIZZA / DELIVERY STOCKS IN FOCUS",
+      "has_media": false,
+      "version": "0be219dcd0b5a442",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155362,
+      "posted_at": "2026-11-25T08:49:50+00:00",
+      "excerpt": "आखिर ऐसी तेजी का क्या फायदा, जब स्टॉक्स ऊपर ही नहीं जा रहे हैं? सब वहीं के वहीं रेंग रहे हैं। 😑",
+      "has_media": false,
+      "version": "659b6253e1bc4020",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155361,
+      "posted_at": "2026-11-25T08:41:49+00:00",
+      "excerpt": "Dabur breakout",
+      "has_media": true,
+      "version": "15f992540f9193c6",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64967,
+      "posted_at": "2026-11-25T08:40:29+00:00",
+      "excerpt": "Very useful candle, must save these pattern",
+      "has_media": true,
+      "version": "c6d08830b37471ca",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44587,
+      "posted_at": "2026-11-25T08:33:59+00:00",
+      "excerpt": "💊 CIPLA | USFDA APPROVAL 📅 25 NOVEMBER 2026 🚀 MAJOR PRODUCT LAUNCH - Cipla ने US में asthma treatment Flovent HFA का first generic equivalent launch किया. USFDA से approval भी मिल गया. 💰 $350 MILLION MARKET US में Fluticasone HFA 110 mcg और 220 mcg products का market करीब $350 million का है. 🤝 CIPLA-TEVA PARTNERSHIP 🔹 CIPLA - Product manufacture और supply करेगी. 🔹 TEVA PHARMACEUTICALS - US market में product commercialise करेगी. Teva के पास ANDA ownership है. 💊 PRODUCT DETAILS • Drug - Fluticasone HFA • Strengths - 110 mcg और 220 mcg • Dosage - Metered Dose Inhaler • Use - Asthma का long-term maintenance treatment. • Approved for patients aged 4 years and above. 📈 STOCK REACTION Cipla shares",
+      "has_media": false,
+      "version": "8c960c562c925bc1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18562,
+      "posted_at": "2026-11-25T08:20:24+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T09:40:39.884948+00:00"
+    },
     {
       "channel": "motilaloswalofficial",
       "message_id": 18561,
@@ -9950,7 +10082,18 @@
       "version": "feeca571efc23f81",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T06:49:07.492615+00:00"
+      "observed_at": "2026-11-25T06:49:07.492615+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "DMART",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9961,7 +10104,18 @@
       "version": "03070407d1edb204",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T06:49:07.492615+00:00"
+      "observed_at": "2026-11-25T06:49:07.492615+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -9983,7 +10137,18 @@
       "version": "bdffc06849625f0d",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T06:49:07.492615+00:00"
+      "observed_at": "2026-11-25T06:49:07.492615+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "SILVER",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10016,7 +10181,18 @@
       "version": "feeca571efc23f81",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T06:49:07.492615+00:00"
+      "observed_at": "2026-11-25T06:49:07.492615+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "DMART",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10038,7 +10214,18 @@
       "version": "fd4bd10344b03d07",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T06:49:07.492615+00:00"
+      "observed_at": "2026-11-25T06:49:07.492615+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "HUL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10071,7 +10258,18 @@
       "version": "71ec7626061c5562",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T06:49:07.492615+00:00"
+      "observed_at": "2026-11-25T06:49:07.492615+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10776,7 +10974,18 @@
       "version": "3d56568360925ca2",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-25T05:38:09.450167+00:00"
+      "observed_at": "2026-11-25T05:38:09.450167+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "GLENMARK",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10855,7 +11064,18 @@
       "version": "8c9b194e65e8a7e1",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-25T05:38:09.450167+00:00"
+      "observed_at": "2026-11-25T05:38:09.450167+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "RMC SWITCHGEARS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T09:40:39.884948+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
