@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T14:26:32.110394+00:00",
+  "updated_at": "2026-11-25T15:39:11.621599+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-24T19:49:33.579890+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137448,
+      "newest_id": 137450,
       "gap_detected": false,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
-      "last_success": "2026-11-25T14:26:32.110394+00:00"
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "last_success": "2026-11-25T15:39:11.621599+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18562,
       "gap_detected": false,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
-      "last_success": "2026-11-25T14:26:32.110394+00:00"
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "last_success": "2026-11-25T15:39:11.621599+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,17 +9710,17 @@
       "pages": 1,
       "newest_id": 44590,
       "gap_detected": false,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
-      "last_success": "2026-11-25T14:26:32.110394+00:00"
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "last_success": "2026-11-25T15:39:11.621599+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113178,
+      "newest_id": 113181,
       "gap_detected": false,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
-      "last_success": "2026-11-25T14:26:32.110394+00:00"
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "last_success": "2026-11-25T15:39:11.621599+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,17 +9728,17 @@
       "pages": 1,
       "newest_id": 155363,
       "gap_detected": false,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
-      "last_success": "2026-11-25T14:26:32.110394+00:00"
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "last_success": "2026-11-25T15:39:11.621599+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64971,
+      "newest_id": 64972,
       "gap_detected": false,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
-      "last_success": "2026-11-25T14:26:32.110394+00:00"
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "last_success": "2026-11-25T15:39:11.621599+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13698,
       "gap_detected": false,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
-      "last_success": "2026-11-25T14:26:32.110394+00:00"
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
+      "last_success": "2026-11-25T15:39:11.621599+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,77 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-25T14:26:32.110394+00:00",
+      "checked_at": "2026-11-25T15:39:11.621599+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-25",
-    "requests_today": 11,
-    "cooldown_until": "2026-11-25T15:26:32.110394+00:00",
+    "requests_today": 12,
+    "cooldown_until": "2026-11-25T16:39:11.621599+00:00",
     "last_success": "2026-11-25T12:52:53.588687+00:00",
-    "last_attempt": "2026-11-25T14:26:32.110394+00:00",
+    "last_attempt": "2026-11-25T15:39:11.621599+00:00",
     "last_error": "HTTP 503",
-    "pending": 1,
+    "pending": 2,
     "status": "error",
     "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113181,
+      "posted_at": "2026-11-25T15:20:15+00:00",
+      "excerpt": "GOLD BHI JAYEGA",
+      "has_media": false,
+      "version": "17f76eec91301799",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T15:39:11.621599+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113180,
+      "posted_at": "2026-11-25T15:19:55+00:00",
+      "excerpt": "SILVER BOLO JO PROFITS HAI LE KE NIKLO..... ABHI BHI WAQT",
+      "has_media": false,
+      "version": "561fce99a9b9b61e",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-25T15:39:11.621599+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113179,
+      "posted_at": "2026-11-25T14:55:05+00:00",
+      "excerpt": "140k Gaya 😁 😁 😁 😜 😜 😜",
+      "has_media": false,
+      "version": "ea1de8196a242233",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T15:39:11.621599+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64972,
+      "posted_at": "2026-11-25T14:41:21+00:00",
+      "excerpt": "US PROPOSES 17% TARIFF DEAL RATE ON INDIA",
+      "has_media": false,
+      "version": "49d55f24b8a900f3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T15:39:11.621599+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137450,
+      "posted_at": "2026-11-25T14:38:00+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 4 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "167047b5adbb56d1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T15:39:11.621599+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137448,
