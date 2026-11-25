@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T02:08:01.728852+00:00",
+  "updated_at": "2026-11-25T03:22:00.599753+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-24T19:49:33.579890+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137404,
+      "newest_id": 137407,
       "gap_detected": false,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
-      "last_success": "2026-11-25T02:08:01.728852+00:00"
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
+      "last_success": "2026-11-25T03:22:00.599753+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,17 +9701,17 @@
       "pages": 1,
       "newest_id": 18557,
       "gap_detected": false,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
-      "last_success": "2026-11-25T02:08:01.728852+00:00"
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
+      "last_success": "2026-11-25T03:22:00.599753+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44572,
+      "newest_id": 44573,
       "gap_detected": false,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
-      "last_success": "2026-11-25T02:08:01.728852+00:00"
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
+      "last_success": "2026-11-25T03:22:00.599753+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9719,8 +9719,8 @@
       "pages": 1,
       "newest_id": 113123,
       "gap_detected": false,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
-      "last_success": "2026-11-25T02:08:01.728852+00:00"
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
+      "last_success": "2026-11-25T03:22:00.599753+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,26 +9728,26 @@
       "pages": 1,
       "newest_id": 155345,
       "gap_detected": false,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
-      "last_success": "2026-11-25T02:08:01.728852+00:00"
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
+      "last_success": "2026-11-25T03:22:00.599753+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64933,
+      "newest_id": 64934,
       "gap_detected": false,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
-      "last_success": "2026-11-25T02:08:01.728852+00:00"
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
+      "last_success": "2026-11-25T03:22:00.599753+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13686,
+      "newest_id": 13690,
       "gap_detected": false,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
-      "last_success": "2026-11-25T02:08:01.728852+00:00"
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
+      "last_success": "2026-11-25T03:22:00.599753+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,165 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-25T02:08:01.728852+00:00",
+      "checked_at": "2026-11-25T03:22:00.599753+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-25",
-    "requests_today": 1,
+    "requests_today": 2,
     "cooldown_until": null,
-    "last_success": "2026-11-25T02:08:01.728852+00:00",
-    "last_attempt": "2026-11-25T02:08:01.728852+00:00",
+    "last_success": "2026-11-25T03:22:00.599753+00:00",
+    "last_attempt": "2026-11-25T03:22:00.599753+00:00",
     "last_error": null,
     "pending": 0,
     "status": "ok",
-    "message": "AI processed 1/1 shortlisted posts; outputs unverified."
+    "message": "AI processed 5/5 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13690,
+      "posted_at": "2026-11-25T03:08:03+00:00",
+      "excerpt": "📊 STOCKS TO WATCH 🟢 POSITIVE • Adani Enterprises – Raises additional ₹2,790 Cr from 360 ONE Alternates for Adani Airport Holdings. • Tata Motors PV, Hyundai – Price hike effective December 1. • GSK Pharma – Launches CDSCO-approved drug. • ABB India – Parent company to acquire Ziehl-Abegg, a HVAC and cooling solutions company. • Gland Pharma – Gets NAI classification from USFDA for Visakhapatnam unit. • Ventive Hospitality – Expects operating EBITDA to double by FY31. • Waaree Energy Storage Solutions – Commences battery pack manufacturing. • Lupin – Receives USFDA approval for kidney disease treatment drug. • Hindalco Industries – Reappoints Satish Pai as MD. 🔴 NEGATIVE • APL Apollo, Tata St",
+      "has_media": false,
+      "version": "23e9ec841c5e7cc0",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T03:22:00.599753+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13689,
+      "posted_at": "2026-11-25T03:07:54+00:00",
+      "excerpt": "Where's The Alpha? IT Stocks-AI Sell-Off Resumes Can Fin Homes, Ventive Hospitality, Horizon, Kolte Patil-Vision Announcements Pharma- Strong Technical Setup Welspun Group Stocks-Positive commentary on investor day Minda Corp, Gujarat Themiis-Fund raising Carysil-Supply Pact with Germany-based specialist retailer La Opala RG-Promoter buying",
+      "has_media": false,
+      "version": "62c8bf01a7be2c38",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T03:22:00.599753+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44573,
+      "posted_at": "2026-11-25T03:07:35+00:00",
+      "excerpt": "📊 FII & DII CASH ACTIVITY 📅 23 NOVEMBER 2026 🔴 FII ACTIVITY • Buy: ₹23,474 Cr • Sell: ₹17,801 Cr • Net: +₹5,673 Cr 🟢 🔵 DII ACTIVITY • Buy: ₹16,506 Cr • Sell: ₹19,266 Cr • Net: -₹2,760 Cr 🔴 📌 MARKET INSIGHT FIIs remained net buyers while DIIs recorded net selling in the cash market. Source: NSE",
+      "has_media": false,
+      "version": "f42d9b761d06e0f4",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T03:22:00.599753+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13688,
+      "posted_at": "2026-11-25T03:07:07+00:00",
+      "excerpt": "SEBI SOCIAL MEDIA MANDATE & MANDATORY DISCLAIMER AS REQUIRED BY SEBI KIND ATTENTION OF ALL MEMBERS Disclaimer from Admins as per SEBI norms: Equity Investment are subject to 100% market risks. Refer your financial consultant advice before Investing. This group/channel is only for Educational and Learning, Knowledge Purposes. Admins have no responsibility for your intended decision & financial losses. Keep calculated & always analyzed your cash position and risk bearing capacity before following msg of our group postings. Stock market investments are VERY RISKY and being part of this group, you agree that you understand the Market risks involved. Profits and Losses are part of Share market. K",
+      "has_media": false,
+      "version": "10b65f956b8430d8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T03:22:00.599753+00:00"
+      }
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13687,
+      "posted_at": "2026-11-25T03:07:00+00:00",
+      "excerpt": "💐 GOOD MORNING 😊 🙏 🌄",
+      "has_media": false,
+      "version": "f064367430620c51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64934,
+      "posted_at": "2026-11-25T02:57:42+00:00",
+      "excerpt": "Gift nifty is indicating a 270 points gap up opening.. AI stocks & commodities sell off continue after one day pullback in the global market. Fiis has increased index short position 80% from 66% on expiry day. Dollar index remains near 104 👀 Nifty strong support in range of 24800-25000. If it closes below 24800 then it may try to fill a gap of 23900 -24300. US may impose new tarrifs on 16 countries ~ WSJ Retailers sentiment is again weak after global selloff.",
+      "has_media": false,
+      "version": "580e06e0b3411fb4",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-25T03:22:00.599753+00:00"
+      }
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137407,
+      "posted_at": "2026-11-25T02:33:51+00:00",
+      "excerpt": "🚨 Nothing is more Expensive Than a Missed Opportunity 🚨 ✅ GRAB THE OPPORTUNITY ✅ MASTER TRADER COURSE Fresh November 2026 Batch Starting from TODAY 📅 Admissions Are Still Open- LAST 5 SEATS LEFT 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "38ff18904b51492b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137405,
+      "posted_at": "2026-11-25T02:07:54+00:00",
+      "excerpt": "❇️ Register for Today's LIVE Market Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗗𝗜𝗦𝗖𝗨𝗦𝗦𝗜𝗢𝗡 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Early Morning Stock Market Discussions ⚜️ Early Morning Stock Selection Session ⚜️ LIVE QnA Regarding upcoming Master Trader Course? Timings: 10:00 AM -11:00 AM (Today) 📲 Register Now Via This Link [link]",
+      "has_media": true,
+      "version": "a2e04f2a38c1e509",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T03:22:00.599753+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155345,
