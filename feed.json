@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T10:43:39.846583+00:00",
+  "updated_at": "2026-11-25T11:44:39.745741+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-24T19:49:33.579890+00:00",
@@ -9692,8 +9692,8 @@
       "pages": 1,
       "newest_id": 137444,
       "gap_detected": false,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
-      "last_success": "2026-11-25T10:43:39.846583+00:00"
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
+      "last_success": "2026-11-25T11:44:39.745741+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,26 +9701,26 @@
       "pages": 1,
       "newest_id": 18562,
       "gap_detected": false,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
-      "last_success": "2026-11-25T10:43:39.846583+00:00"
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
+      "last_success": "2026-11-25T11:44:39.745741+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44589,
+      "newest_id": 44590,
       "gap_detected": false,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
-      "last_success": "2026-11-25T10:43:39.846583+00:00"
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
+      "last_success": "2026-11-25T11:44:39.745741+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113171,
+      "newest_id": 113173,
       "gap_detected": false,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
-      "last_success": "2026-11-25T10:43:39.846583+00:00"
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
+      "last_success": "2026-11-25T11:44:39.745741+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9728,8 +9728,8 @@
       "pages": 1,
       "newest_id": 155363,
       "gap_detected": false,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
-      "last_success": "2026-11-25T10:43:39.846583+00:00"
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
+      "last_success": "2026-11-25T11:44:39.745741+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9737,8 +9737,8 @@
       "pages": 1,
       "newest_id": 64969,
       "gap_detected": false,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
-      "last_success": "2026-11-25T10:43:39.846583+00:00"
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
+      "last_success": "2026-11-25T11:44:39.745741+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13695,
       "gap_detected": false,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
-      "last_success": "2026-11-25T10:43:39.846583+00:00"
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
+      "last_success": "2026-11-25T11:44:39.745741+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,55 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-25T10:43:39.846583+00:00",
+      "checked_at": "2026-11-25T11:44:39.745741+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-25",
-    "requests_today": 8,
-    "cooldown_until": null,
+    "requests_today": 9,
+    "cooldown_until": "2026-11-25T12:44:39.745741+00:00",
     "last_success": "2026-11-25T10:43:39.846583+00:00",
-    "last_attempt": "2026-11-25T10:43:39.846583+00:00",
-    "last_error": null,
-    "pending": 6,
-    "status": "ok",
-    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
+    "last_attempt": "2026-11-25T11:44:39.745741+00:00",
+    "last_error": "HTTP 503",
+    "pending": 7,
+    "status": "error",
+    "message": "Gemini HTTP 503; check API/model access. Rules remain available."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113173,
+      "posted_at": "2026-11-25T11:20:37+00:00",
+      "excerpt": "Let's see 🙈 😉",
+      "has_media": false,
+      "version": "6e8524c4698c2036",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T11:44:39.745741+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113172,
+      "posted_at": "2026-11-25T11:20:32+00:00",
+      "excerpt": "BULLS trying to protect silver and gold",
+      "has_media": false,
+      "version": "811f6b15beced589",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-25T11:44:39.745741+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44590,
+      "posted_at": "2026-11-25T10:46:16+00:00",
+      "excerpt": "Nifty ने बनाया ज़बरदस्त Inside Candle अब Breakout या Breakdown? | Nifty Inside Candle Strategy [link]",
+      "has_media": false,
+      "version": "c95363b97392ceab",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-25T11:44:39.745741+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137444,
