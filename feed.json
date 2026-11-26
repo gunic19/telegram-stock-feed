@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T01:57:13.918681+00:00",
+  "updated_at": "2026-11-26T02:57:19.821328+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-25T20:31:47.321857+00:00",
@@ -9694,10 +9694,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137452,
+      "newest_id": 137454,
       "gap_detected": false,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
-      "last_success": "2026-11-26T01:57:13.918681+00:00"
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "last_success": "2026-11-26T02:57:19.821328+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,53 +9705,53 @@
       "pages": 1,
       "newest_id": 18562,
       "gap_detected": false,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
-      "last_success": "2026-11-26T01:57:13.918681+00:00"
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "last_success": "2026-11-26T02:57:19.821328+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44590,
+      "newest_id": 44591,
       "gap_detected": false,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
-      "last_success": "2026-11-26T01:57:13.918681+00:00"
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "last_success": "2026-11-26T02:57:19.821328+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113182,
+      "newest_id": 113184,
       "gap_detected": false,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
-      "last_success": "2026-11-26T01:57:13.918681+00:00"
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "last_success": "2026-11-26T02:57:19.821328+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155364,
+      "newest_id": 155365,
       "gap_detected": false,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
-      "last_success": "2026-11-26T01:57:13.918681+00:00"
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "last_success": "2026-11-26T02:57:19.821328+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64972,
+      "newest_id": 64973,
       "gap_detected": false,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
-      "last_success": "2026-11-26T01:57:13.918681+00:00"
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "last_success": "2026-11-26T02:57:19.821328+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13698,
+      "newest_id": 13701,
       "gap_detected": false,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
-      "last_success": "2026-11-26T01:57:13.918681+00:00"
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "last_success": "2026-11-26T02:57:19.821328+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,22 +9759,132 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-26T01:57:13.918681+00:00",
+      "checked_at": "2026-11-26T02:57:19.821328+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-26",
-    "requests_today": 0,
-    "cooldown_until": null,
+    "requests_today": 1,
+    "cooldown_until": "2026-11-26T03:57:19.821328+00:00",
     "last_success": "2026-11-25T18:34:17.200921+00:00",
-    "last_attempt": "2026-11-25T18:34:17.200921+00:00",
-    "last_error": null,
-    "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "last_attempt": "2026-11-26T02:57:19.821328+00:00",
+    "last_error": "Network timeout",
+    "pending": 4,
+    "status": "error",
+    "message": "Gemini Network timeout; retry later. Rules remain available."
   },
   "events": [
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44591,
+      "posted_at": "2026-11-26T02:55:39+00:00",
+      "excerpt": "📊 FII & DII CASH ACTIVITY 📅 25 NOVEMBER 2026 🌍 FII CASH MARKET 🟢 Buy - ₹24,310 Cr 🔴 Sell - ₹19,831 Cr ✅ Net Buying - +₹4,479 Cr 🏦 DII CASH MARKET 🟢 Buy - ₹22,380 Cr 🔴 Sell - ₹18,361 Cr ✅ Net Buying - +₹4,019 Cr 📌 MARKET INSIGHT FIIs और DIIs दोनों ने 25 November को net buying की. 💰 COMBINED NET BUYING +₹8,498 Cr",
+      "has_media": false,
+      "version": "683180c494c17621",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13701,
+      "posted_at": "2026-11-26T02:52:27+00:00",
+      "excerpt": "📌 STOCKS IN NEWS | 26 NOVEMBER 2026 🔹 Wipro: Partners with bp to transform finance operations; around 3,000 bp employees across India, Hungary and Malaysia to transition to Wipro in 2027. 🔹 Diamond Power: Receives purchase orders worth ₹488 Cr from Adani Energy Solutions for supply of AL-59 conductors for HVDC transmission projects. 🔹 Atlanta Electricals: Receives ₹523 Cr order from Andhra Pradesh transmission utility for supply of 95 power transformers. 🔹 KSB: Receives ₹117 Cr Letter of Award from Triveni Turbines for supply of boiler feed pumps and accessories. 🔹 Lupin: Receives USFDA approval for Sitagliptin and Metformin Hydrochloride Tablets and Dalbavancin Injection. 🔹 Alembic Pharma: ",
+      "has_media": false,
+      "version": "d4030c8e73292e44",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13700,
+      "posted_at": "2026-11-26T02:51:56+00:00",
+      "excerpt": "SEBI SOCIAL MEDIA MANDATE & MANDATORY DISCLAIMER AS REQUIRED BY SEBI KIND ATTENTION OF ALL MEMBERS Disclaimer from Admins as per SEBI norms: Equity Investment are subject to 100% market risks. Refer your financial consultant advice before Investing. This group/channel is only for Educational and Learning, Knowledge Purposes. Admins have no responsibility for your intended decision & financial losses. Keep calculated & always analyzed your cash position and risk bearing capacity before following msg of our group postings. Stock market investments are VERY RISKY and being part of this group, you agree that you understand the Market risks involved. Profits and Losses are part of Share market. K",
+      "has_media": false,
+      "version": "10b65f956b8430d8",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13699,
+      "posted_at": "2026-11-26T02:51:48+00:00",
+      "excerpt": "💐 GOOD MORNING 😊 🙏 🌄",
+      "has_media": false,
+      "version": "f064367430620c51",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137454,
+      "posted_at": "2026-11-26T02:46:56+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 4 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "167047b5adbb56d1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113184,
+      "posted_at": "2026-11-26T02:07:54+00:00",
+      "excerpt": "🌅 Morning Commentary 26.11.2026 🌅 ✅ Gift Nifty suggesting gap up opening 24049.... 26081/108/124 remains crucial levels in SPOT nifty if that is crossed we can see moves towards 26180/26224 and then above 26264/80 can see 26318/324+ ✅ Downside in spot nifty if 25980/25964 broken can see 25942/18/25880 ✅ Bank nifty looking bit tired and some profit booking from higher levels may be visible ✅ Stocks / Sector in Focus 🤜 FMCG = hind lvr , Jubilant Food, Marico , Godrej Cp , Dabur , Britannia 🤜 Power = Rec / PFC / Adani Power / Power Grid / NPTC / Coal India 🤜 Metals = Looking weak and profit booking may continue 🤜 Railway Stocks = RVNL / RAILTEL / RITES / IRCON / IRCTC may be seeing some buying ",
+      "has_media": false,
+      "version": "ea6f4187b4994236",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64973,
+      "posted_at": "2026-11-26T02:06:41+00:00",
+      "excerpt": "INDIA-US TRADE DEAL TO BE CONCLUDED SOON: COMMERCE SECY",
+      "has_media": false,
+      "version": "398879ac9060c893",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137453,
+      "posted_at": "2026-11-26T02:05:04+00:00",
+      "excerpt": "❇️ Register for Today's LIVE Market Session with StockPro Chief Mentor Dr. Seema Jain- PhD IIT Delhi (SEBI Registered Research Analyst) [link] ❇️ 𝗗𝗜𝗦𝗖𝗨𝗦𝗦𝗜𝗢𝗡 𝗧𝗢𝗣𝗜𝗖𝗦- ⚜️ Early Morning Stock Market Discussions ⚜️ Early Morning Stock Selection Session ⚜️ LIVE QnA Regarding upcoming Master Trader Course? Timings: 10:00 AM -11:00 AM (Today) 📲 Register Now Via This Link [link]",
+      "has_media": true,
+      "version": "a2e04f2a38c1e509",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155365,
+      "posted_at": "2026-11-26T02:00:24+00:00",
+      "excerpt": "🙏 GOOD MORNING ALL 🌻 🌺 Have A Profitable Day today 🌹 NOTE: POSTS HERE ARE BASED ON MY RESEARCH AND ARE FOR EDUCATIONAL PURPOSES ONLY. We are not liable for any Profit or Loss. PLEASE CONSULT YOUR FINANCIAL ADVISOR BEFORE BUYING OR SELLING. THANKS! ✨ Few useful Abbreviations for new traders: SL: Stop Loss TGT: Target CMP: Current Market PRICE BTST: Buy Today Sell Tomorrow STBT: Sell Today Buy Tomorrow The profit/loss figures mentioned are indicative and based on assumptions. Futures: Single Lot OPTIONS: Single lot Index: 4-5lots",
+      "has_media": false,
+      "version": "c4f956dc1071b58d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113183,
+      "posted_at": "2026-11-26T01:59:43+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113182,
