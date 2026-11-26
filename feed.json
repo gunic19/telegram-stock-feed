@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T14:41:22.371307+00:00",
+  "updated_at": "2026-11-26T15:46:32.004634+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-25T20:31:47.321857+00:00",
@@ -9696,8 +9696,8 @@
       "pages": 1,
       "newest_id": 137490,
       "gap_detected": false,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
-      "last_success": "2026-11-26T14:41:22.371307+00:00"
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
+      "last_success": "2026-11-26T15:46:32.004634+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,8 +9705,8 @@
       "pages": 1,
       "newest_id": 18565,
       "gap_detected": false,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
-      "last_success": "2026-11-26T14:41:22.371307+00:00"
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
+      "last_success": "2026-11-26T15:46:32.004634+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9714,17 +9714,17 @@
       "pages": 1,
       "newest_id": 44604,
       "gap_detected": false,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
-      "last_success": "2026-11-26T14:41:22.371307+00:00"
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
+      "last_success": "2026-11-26T15:46:32.004634+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113214,
+      "newest_id": 113216,
       "gap_detected": false,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
-      "last_success": "2026-11-26T14:41:22.371307+00:00"
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
+      "last_success": "2026-11-26T15:46:32.004634+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9732,8 +9732,8 @@
       "pages": 1,
       "newest_id": 155408,
       "gap_detected": false,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
-      "last_success": "2026-11-26T14:41:22.371307+00:00"
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
+      "last_success": "2026-11-26T15:46:32.004634+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9741,8 +9741,8 @@
       "pages": 1,
       "newest_id": 64993,
       "gap_detected": false,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
-      "last_success": "2026-11-26T14:41:22.371307+00:00"
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
+      "last_success": "2026-11-26T15:46:32.004634+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9750,8 +9750,8 @@
       "pages": 1,
       "newest_id": 13706,
       "gap_detected": false,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
-      "last_success": "2026-11-26T14:41:22.371307+00:00"
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
+      "last_success": "2026-11-26T15:46:32.004634+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,7 +9759,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-26T14:41:22.371307+00:00",
+      "checked_at": "2026-11-26T15:46:32.004634+00:00",
       "last_success": null
     }
   },
@@ -9775,6 +9775,28 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113216,
+      "posted_at": "2026-11-26T14:45:00+00:00",
+      "excerpt": "SPOT NIFTY CLOSED EXACTLY AT CRUCIAL LEVELS 25884.50 = ALL TIME HIGH IS 26373 = ABOUT 488.50 POINTS AWAY ... TOMORROW FRIDAY = ALL TIME HIGH ????? KNOCKING AMBANI / ADANI / BANKS TO TAKE LEAD ??????????",
+      "has_media": false,
+      "version": "218a10c8278db807",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T15:46:32.004634+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113215,
+      "posted_at": "2026-11-26T14:43:45+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-26T15:46:32.004634+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137490,
