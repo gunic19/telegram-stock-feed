@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T16:51:50.114499+00:00",
+  "updated_at": "2026-11-26T17:45:54.530751+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-25T20:31:47.321857+00:00",
@@ -9696,8 +9696,8 @@
       "pages": 1,
       "newest_id": 137492,
       "gap_detected": false,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
-      "last_success": "2026-11-26T16:51:50.114499+00:00"
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
+      "last_success": "2026-11-26T17:45:54.530751+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,8 +9705,8 @@
       "pages": 1,
       "newest_id": 18565,
       "gap_detected": false,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
-      "last_success": "2026-11-26T16:51:50.114499+00:00"
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
+      "last_success": "2026-11-26T17:45:54.530751+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9714,8 +9714,8 @@
       "pages": 1,
       "newest_id": 44604,
       "gap_detected": false,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
-      "last_success": "2026-11-26T16:51:50.114499+00:00"
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
+      "last_success": "2026-11-26T17:45:54.530751+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9723,26 +9723,26 @@
       "pages": 1,
       "newest_id": 113216,
       "gap_detected": false,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
-      "last_success": "2026-11-26T16:51:50.114499+00:00"
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
+      "last_success": "2026-11-26T17:45:54.530751+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155408,
+      "newest_id": 155409,
       "gap_detected": false,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
-      "last_success": "2026-11-26T16:51:50.114499+00:00"
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
+      "last_success": "2026-11-26T17:45:54.530751+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64993,
+      "newest_id": 64995,
       "gap_detected": false,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
-      "last_success": "2026-11-26T16:51:50.114499+00:00"
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
+      "last_success": "2026-11-26T17:45:54.530751+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9750,8 +9750,8 @@
       "pages": 1,
       "newest_id": 13706,
       "gap_detected": false,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
-      "last_success": "2026-11-26T16:51:50.114499+00:00"
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
+      "last_success": "2026-11-26T17:45:54.530751+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,7 +9759,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-26T16:51:50.114499+00:00",
+      "checked_at": "2026-11-26T17:45:54.530751+00:00",
       "last_success": null
     }
   },
@@ -9775,6 +9775,39 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64995,
+      "posted_at": "2026-11-26T17:18:54+00:00",
+      "excerpt": "What a prediction on Gold 😁 [link]",
+      "has_media": false,
+      "version": "c2fdaebe32e3aaea",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T17:45:54.530751+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64994,
+      "posted_at": "2026-11-26T17:16:51+00:00",
+      "excerpt": "What a prediction on Gold 😁 [link]",
+      "has_media": false,
+      "version": "c2fdaebe32e3aaea",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T17:45:54.530751+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155409,
+      "posted_at": "2026-11-26T17:02:24+00:00",
+      "excerpt": "Stock Gainers (SEBI REGISTERED) ⭐️ Live Analysis of 26th NOV 1. OPTION ANALYSIS SENSEX 84000CE 70 TO 400 🔥 MIDCP 14500CE 311 TO made high 330 🔥 MIDCP 14500CE 306 TO 291 BHEL 420PE 12.3 TO 15+ 🔥 MCX 3800PE 154 TO 141 LODHA 1260CE 54 TO 63 🔥 SENSEX 84000CE 210 TO 250 🔥 CONFORGE 2000CE 77 TO made high 97 🔥 SYRMA TECH 1500CE 72 TO made hig 77 🔥 2.STOCK FUTURE & EQUITY CASH ANALYSIS BSE 3860 TO 3998 🔥 MCX 3765 TO made high 3865 🔥 CUMMINS 4180 TO 4140 ➖ KNEW 689 TO made high 693 🔥 Note: Those who are tracking our Live Analysis please read our disclaimer Focus On the Right Analysis FOR PRIME  MEMBERSHIP PING @SG005 ✔️",
+      "has_media": false,
+      "version": "19e4bea85eade295",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T17:45:54.530751+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137492,
