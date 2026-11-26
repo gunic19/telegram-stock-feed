@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T19:51:29.288366+00:00",
+  "updated_at": "2026-11-26T20:42:29.637215+00:00",
   "catalog": {
     "state": "ok",
-    "fetched_at": "2026-11-25T20:31:47.321857+00:00",
+    "fetched_at": "2026-11-26T20:42:29.637215+00:00",
     "source": "NSE EQUITY_L.csv EQ series",
     "stocks": [
       {
@@ -1975,6 +1975,10 @@
         "name": "Crown Lifters Limited"
       },
       {
+        "sym": "CRYSTALCP",
+        "name": "Crystal Crop Protection Limited"
+      },
+      {
         "sym": "CSBBANK",
         "name": "CSB Bank Limited"
       },
@@ -2081,10 +2085,6 @@
       {
         "sym": "DCBBANK",
         "name": "DCB Bank Limited"
-      },
-      {
-        "sym": "DCI",
-        "name": "Dc Infotech And Communication Limited"
       },
       {
         "sym": "DCM",
@@ -5607,6 +5607,10 @@
         "name": "MRF Limited"
       },
       {
+        "sym": "MROTEK",
+        "name": "MRO-TEK Networks Limited"
+      },
+      {
         "sym": "MRPL",
         "name": "Mangalore Refinery and Petrochemicals Limited"
       },
@@ -8955,10 +8959,6 @@
         "name": "Ujaas Energy Limited"
       },
       {
-        "sym": "UFBL",
-        "name": "United Foodbrands Limited"
-      },
-      {
         "sym": "UFLEX",
         "name": "UFLEX Limited"
       },
@@ -8989,10 +8989,6 @@
       {
         "sym": "UMESLTD",
         "name": "Usha Martin Education & Solutions Limited"
-      },
-      {
-        "sym": "UMIYA-MRO",
-        "name": "UMIYA BUILDCON LIMITED"
       },
       {
         "sym": "UNICHEMLAB",
@@ -9696,8 +9692,8 @@
       "pages": 1,
       "newest_id": 137492,
       "gap_detected": false,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
-      "last_success": "2026-11-26T19:51:29.288366+00:00"
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
+      "last_success": "2026-11-26T20:42:29.637215+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18565,
       "gap_detected": false,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
-      "last_success": "2026-11-26T19:51:29.288366+00:00"
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
+      "last_success": "2026-11-26T20:42:29.637215+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9714,8 +9710,8 @@
       "pages": 1,
       "newest_id": 44604,
       "gap_detected": false,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
-      "last_success": "2026-11-26T19:51:29.288366+00:00"
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
+      "last_success": "2026-11-26T20:42:29.637215+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9723,8 +9719,8 @@
       "pages": 1,
       "newest_id": 113216,
       "gap_detected": false,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
-      "last_success": "2026-11-26T19:51:29.288366+00:00"
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
+      "last_success": "2026-11-26T20:42:29.637215+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9732,8 +9728,8 @@
       "pages": 1,
       "newest_id": 155409,
       "gap_detected": false,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
-      "last_success": "2026-11-26T19:51:29.288366+00:00"
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
+      "last_success": "2026-11-26T20:42:29.637215+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9741,8 +9737,8 @@
       "pages": 1,
       "newest_id": 64995,
       "gap_detected": false,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
-      "last_success": "2026-11-26T19:51:29.288366+00:00"
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
+      "last_success": "2026-11-26T20:42:29.637215+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9750,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13706,
       "gap_detected": false,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
-      "last_success": "2026-11-26T19:51:29.288366+00:00"
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
+      "last_success": "2026-11-26T20:42:29.637215+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,7 +9755,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-26T19:51:29.288366+00:00",
+      "checked_at": "2026-11-26T20:42:29.637215+00:00",
       "last_success": null
     }
   },
