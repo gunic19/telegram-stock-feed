@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T02:57:19.821328+00:00",
+  "updated_at": "2026-11-26T04:02:42.292414+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-25T20:31:47.321857+00:00",
@@ -9694,10 +9694,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137454,
+      "newest_id": 137457,
       "gap_detected": false,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
-      "last_success": "2026-11-26T02:57:19.821328+00:00"
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
+      "last_success": "2026-11-26T04:02:42.292414+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,44 +9705,44 @@
       "pages": 1,
       "newest_id": 18562,
       "gap_detected": false,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
-      "last_success": "2026-11-26T02:57:19.821328+00:00"
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
+      "last_success": "2026-11-26T04:02:42.292414+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44591,
+      "newest_id": 44595,
       "gap_detected": false,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
-      "last_success": "2026-11-26T02:57:19.821328+00:00"
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
+      "last_success": "2026-11-26T04:02:42.292414+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113184,
+      "newest_id": 113186,
       "gap_detected": false,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
-      "last_success": "2026-11-26T02:57:19.821328+00:00"
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
+      "last_success": "2026-11-26T04:02:42.292414+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155365,
+      "newest_id": 155369,
       "gap_detected": false,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
-      "last_success": "2026-11-26T02:57:19.821328+00:00"
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
+      "last_success": "2026-11-26T04:02:42.292414+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64973,
+      "newest_id": 64980,
       "gap_detected": false,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
-      "last_success": "2026-11-26T02:57:19.821328+00:00"
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
+      "last_success": "2026-11-26T04:02:42.292414+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9750,8 +9750,8 @@
       "pages": 1,
       "newest_id": 13701,
       "gap_detected": false,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
-      "last_success": "2026-11-26T02:57:19.821328+00:00"
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
+      "last_success": "2026-11-26T04:02:42.292414+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,22 +9759,292 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-26T02:57:19.821328+00:00",
+      "checked_at": "2026-11-26T04:02:42.292414+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-26",
-    "requests_today": 1,
-    "cooldown_until": "2026-11-26T03:57:19.821328+00:00",
-    "last_success": "2026-11-25T18:34:17.200921+00:00",
-    "last_attempt": "2026-11-26T02:57:19.821328+00:00",
-    "last_error": "Network timeout",
-    "pending": 4,
-    "status": "error",
-    "message": "Gemini Network timeout; retry later. Rules remain available."
+    "requests_today": 2,
+    "cooldown_until": null,
+    "last_success": "2026-11-26T04:02:42.292414+00:00",
+    "last_attempt": "2026-11-26T04:02:42.292414+00:00",
+    "last_error": null,
+    "pending": 6,
+    "status": "ok",
+    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "stockpro_online",
+      "message_id": 137457,
+      "posted_at": "2026-11-26T04:01:37+00:00",
+      "excerpt": "POSITIONAL TRADE GREAVES COTTON (GREAVESCOT) Looks Good ABOVE 206 SL 180 Targets  5-10-15-20-25 points from entry Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to…",
+      "has_media": true,
+      "version": "965fc560da2dcd55",
+      "category": "watch",
+      "symbol_candidate": "GREAVESCOT",
+      "stop_loss": 180.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "GREAVES COTTON (GREAVESCOT)",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 180.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64980,
+      "posted_at": "2026-11-26T03:58:19+00:00",
+      "excerpt": "JWL 20% Texrail 4% both firing on chart",
+      "has_media": false,
+      "version": "26599bb220d28bcd",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137456,
+      "posted_at": "2026-11-26T03:57:27+00:00",
+      "excerpt": "POSITIONAL TRADE JWL Looks Good ABOVE 239 SL 210 Targets 250-260-270-280 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "90f51b6913dac4b5",
+      "category": "watch",
+      "symbol_candidate": "JWL",
+      "stop_loss": 210.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "JWL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 210.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113186,
+      "posted_at": "2026-11-26T03:56:31+00:00",
+      "excerpt": "railway stocks looking interesting",
+      "has_media": false,
+      "version": "d200d3c46913c19a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113185,
+      "posted_at": "2026-11-26T03:55:52+00:00",
+      "excerpt": "petronet above 334.35 crossed future can see moves towards 336/38/42+ - keep eyes on that",
+      "has_media": false,
+      "version": "8fae0edf821552b3",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155369,
+      "posted_at": "2026-11-26T03:54:47+00:00",
+      "excerpt": "BSE BSE CASH ABOVE 3860 support 3760 view 4000 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "2c2cf8e94f33ed40",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "BSE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64979,
+      "posted_at": "2026-11-26T03:51:45+00:00",
+      "excerpt": "Krishna defence 1170 good for investment, coming in buying zone, you know how it hits 1300 every time",
+      "has_media": false,
+      "version": "022fbbdc9c8f470e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155368,
+      "posted_at": "2026-11-26T03:51:23+00:00",
+      "excerpt": "HOLDING OPTION BUYING KALYAN JWELLERY 700CE CMP 15 Support 5 For 25-35",
+      "has_media": false,
+      "version": "4b5b28639e29b137",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137455,
+      "posted_at": "2026-11-26T03:50:38+00:00",
+      "excerpt": "POSITIONAL TRADE JWL Looks Good ABOVE 239 SL 210 Targets 250-260-270-280 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers with good volumes.",
+      "has_media": false,
+      "version": "90f51b6913dac4b5",
+      "category": "watch",
+      "symbol_candidate": "JWL",
+      "stop_loss": 210.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "JWL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 210.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155367,
+      "posted_at": "2026-11-26T03:50:27+00:00",
+      "excerpt": "BSE BSE CASH ABOVE 3860 support 3760 view 4000 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "2c2cf8e94f33ed40",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64978,
+      "posted_at": "2026-11-26T03:48:58+00:00",
+      "excerpt": "TD power 3% up Siemens energy 5% up",
+      "has_media": false,
+      "version": "2163a78ce1b41122",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64977,
+      "posted_at": "2026-11-26T03:48:25+00:00",
+      "excerpt": "Krishna defence 1170 good for investment, coming in buying zone, you know how it hits 1300 every time",
+      "has_media": false,
+      "version": "022fbbdc9c8f470e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64976,
+      "posted_at": "2026-11-26T03:46:39+00:00",
+      "excerpt": "NIFTY IT 2% up",
+      "has_media": false,
+      "version": "48b6aea0870773e0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64975,
+      "posted_at": "2026-11-26T03:41:23+00:00",
+      "excerpt": "CNBC asked to buy only Large cap , again small midcap will be sideways",
+      "has_media": false,
+      "version": "7617e27bc36bd55c",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64974,
+      "posted_at": "2026-11-26T03:39:53+00:00",
+      "excerpt": "🇺🇸 US proposes up to 25% tariff on Indian goods over “excess capacity”. If India-US trade deal is signed, tariff could be 17%. ⚠️ Not effective today. The proposal is expected to go through the process, with implementation likely from January 2027 or later.…",
+      "has_media": false,
+      "version": "ee8dd98c70428592",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155366,
+      "posted_at": "2026-11-26T03:35:31+00:00",
+      "excerpt": "OPTION BUYING GROUP BTST NIL INTRADAY KALYAN 620PE 25 to 30 🔥 🔥 🔥 HDFC LIFE 580CE 32 to 38 🔥 🔥 DMART 3500CE 135 to 165 🔥 🔥 HUL 2060CE NIL BN 64000PE 1400 to 1460 🔥 🔥 SX 64000CE 375 to 430 🔥 🔥 Nifty 25600PE 150 to 100 ❌",
+      "has_media": false,
+      "version": "ff71ebcc7920b29f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44595,
+      "posted_at": "2026-11-26T03:13:34+00:00",
+      "excerpt": "🔔 BULK DEALS UPDATE 📅 26 NOVEMBER 2026 🔴 LG ELECTRONICS INDIA ▪️ Promoter may sell up to 2% stake. ▪️ Deal Size - लगभग ₹2,320.5 Cr ▪️ Floor Price - ₹1,709.30 🔴 SCHAEFFLER INDIA ▪️ Parent company may sell up to 6% stake. ▪️ Deal Size - लगभग ₹3,188 Cr ▪️ Floor Price - ₹3,400 📌 LISTING & F&O BAN इन supplied reports में कोई specific update नहीं दिया गया. Source: Zee Business",
+      "has_media": false,
+      "version": "b6bb9132919537c6",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44594,
+      "posted_at": "2026-11-26T03:09:40+00:00",
+      "excerpt": "📌 STOCKS TO FOCUS TODAY 📅 26 NOVEMBER 2026 🔹 WIPRO - bp के साथ finance operations partnership. करीब 3,000 employees Wipro में होंगे transition. 🔹 RATEGAIN TRAVEL - Winter holiday flight bookings में slowdown के बीच Europe में hotel searches बढ़ीं. 🔹 CESC - 153.7 MW wind power projects के लिए Madhya Pradesh में contract update. 🔹 LUPIN - USFDA से Sitagliptin और Metformin tablets को approval. 🔹 ALEMBIC PHARMA - Vadodara facility के लिए USFDA से 2 Establishment Inspection Reports मिले. 🔹 KSB - ₹117 Cr का boiler feed pumps और accessories का order मिला. 🔹 PNB - Deutsche Bank के साथ acquisition financing cooperation agreement. 🔹 ACME SOLAR - Renewable energy projects में additional discharge capac",
+      "has_media": false,
+      "version": "692ccfd07a8fe846",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44593,
+      "posted_at": "2026-11-26T03:01:26+00:00",
+      "excerpt": "🌍 GLOBAL & INDIAN MARKET UPDATE 📅 26 NOVEMBER 2026 🇮🇳 GIFT NIFTY - आज domestic markets में positive opening के संकेत. 📈 PREVIOUS MARKET CLOSE 🟢 SENSEX - 83,938.28 | +1,502.29 pts (+1.82%) 🟢 NIFTY 50 - 25,819.25 | +469.60 pts (+1.85%) 🌎 GLOBAL MARKET CUES ▪️ DOW JONES - +0.33% 🔴 S&P 500 - -0.25% 🔴 NASDAQ - -0.62% 🟢 HANG SENG - +2.5% 💰 INSTITUTIONAL FLOWS ▪️ DIIs ने 25 November को ₹4,018 Cr की net buying की. ▪️ November में FIIs का cumulative investment $14 Billion के पार. 📦 MAJOR BLOCK DEAL UPDATES ▪️ LG ELECTRONICS - Promoter की 2% तक stake sale की संभावना. ▪️ SCHAEFFLER INDIA - Parent company की 6% तक stake sale की संभावना. ▪️ APL APOLLO TUBES - Smallcap World Fund ने 1.1% stake बेची. Deal ",
+      "has_media": false,
+      "version": "1056c22a4a9ec5f9",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44592,
+      "posted_at": "2026-11-26T02:57:44+00:00",
+      "excerpt": "📊 QUARTERLY RESULTS 📅 26 NOVEMBER 2026 ⚡️ SIEMENS ENERGY INDIA 🟢 Net Profit - ₹653 Cr vs ₹360 Cr 📈 Growth - 81.4% YoY 🟢 Revenue - ₹3,453 Cr vs ₹2,646 Cr 📈 Growth - 30.5% YoY 🟢 EBITDA - ₹823 Cr vs ₹480 Cr 📈 Growth - 71.5% YoY 📌 EBITDA Margin - 23.8% vs 18.1% Source: Zee Business",
+      "has_media": false,
+      "version": "a3bfe0228a36bd20",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+    },
     {
       "channel": "GHANSHYAMTECH",
       "message_id": 44591,
@@ -9784,7 +10054,18 @@
       "version": "683180c494c17621",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+      "observed_at": "2026-11-26T02:57:19.821328+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -9806,7 +10087,18 @@
       "version": "10b65f956b8430d8",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+      "observed_at": "2026-11-26T02:57:19.821328+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -9839,7 +10131,18 @@
       "version": "ea6f4187b4994236",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+      "observed_at": "2026-11-26T02:57:19.821328+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9872,7 +10175,18 @@
       "version": "c4f956dc1071b58d",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T02:57:19.821328+00:00"
+      "observed_at": "2026-11-26T02:57:19.821328+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T04:02:42.292414+00:00"
+      }
     },
     {
       "channel": "Equiideas",
