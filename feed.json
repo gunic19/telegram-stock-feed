@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T07:50:26.429970+00:00",
+  "updated_at": "2026-11-26T08:51:55.837469+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-25T20:31:47.321857+00:00",
@@ -9694,10 +9694,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137472,
+      "newest_id": 137475,
       "gap_detected": false,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
-      "last_success": "2026-11-26T07:50:26.429970+00:00"
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
+      "last_success": "2026-11-26T08:51:55.837469+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,35 +9705,35 @@
       "pages": 1,
       "newest_id": 18564,
       "gap_detected": false,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
-      "last_success": "2026-11-26T07:50:26.429970+00:00"
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
+      "last_success": "2026-11-26T08:51:55.837469+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44600,
+      "newest_id": 44602,
       "gap_detected": false,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
-      "last_success": "2026-11-26T07:50:26.429970+00:00"
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
+      "last_success": "2026-11-26T08:51:55.837469+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113200,
+      "newest_id": 113203,
       "gap_detected": false,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
-      "last_success": "2026-11-26T07:50:26.429970+00:00"
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
+      "last_success": "2026-11-26T08:51:55.837469+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155391,
+      "newest_id": 155402,
       "gap_detected": false,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
-      "last_success": "2026-11-26T07:50:26.429970+00:00"
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
+      "last_success": "2026-11-26T08:51:55.837469+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9741,17 +9741,17 @@
       "pages": 1,
       "newest_id": 64987,
       "gap_detected": false,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
-      "last_success": "2026-11-26T07:50:26.429970+00:00"
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
+      "last_success": "2026-11-26T08:51:55.837469+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13704,
+      "newest_id": 13705,
       "gap_detected": false,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
-      "last_success": "2026-11-26T07:50:26.429970+00:00"
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
+      "last_success": "2026-11-26T08:51:55.837469+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,22 +9759,281 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "checked_at": "2026-11-26T08:51:55.837469+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-26",
-    "requests_today": 5,
+    "requests_today": 6,
     "cooldown_until": null,
-    "last_success": "2026-11-26T07:50:26.429970+00:00",
-    "last_attempt": "2026-11-26T07:50:26.429970+00:00",
+    "last_success": "2026-11-26T08:51:55.837469+00:00",
+    "last_attempt": "2026-11-26T08:51:55.837469+00:00",
     "last_error": null,
-    "pending": 14,
+    "pending": 10,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155402,
+      "posted_at": "2026-11-26T08:48:40+00:00",
+      "excerpt": "JOINING PRIME IS IN 2 EASY STEPS PING @SG005 to know more",
+      "has_media": false,
+      "version": "bd1d11c638988af7",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137475,
+      "posted_at": "2026-11-26T08:47:44+00:00",
+      "excerpt": "POSITIONAL TRADE BRIGADE ENT (BRIGADE) Looks Good ABOVE 621-623 SL 570 Targets  700-725-750-775 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "e2854ea0927e8a72",
+      "category": "watch",
+      "symbol_candidate": "BRIGADE",
+      "stop_loss": 570.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "BRIGADE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 570.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155401,
+      "posted_at": "2026-11-26T08:42:57+00:00",
+      "excerpt": "THE MASTER BLASTER CLOSURE THE HERO CALLS 💪",
+      "has_media": false,
+      "version": "5c1fcece9f8c6288",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155400,
+      "posted_at": "2026-11-26T08:41:43+00:00",
+      "excerpt": "SENSEX 84000CE 130 to 230 🔥 🔥 Second Time 135 to 87 ❌ Third Time 75 to 150 🔥 🔥 🔥",
+      "has_media": true,
+      "version": "24b95f3b3ac31b8f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155399,
+      "posted_at": "2026-11-26T08:40:27+00:00",
+      "excerpt": "POSITIONAL VIEW COFORGE 2000CE CMP 77-78 SUPPORT 50 FOR 110+",
+      "has_media": false,
+      "version": "557a06f91d560969",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155398,
+      "posted_at": "2026-11-26T08:40:22+00:00",
+      "excerpt": "SX 84000CE Hero Zero Study CML 70-75",
+      "has_media": false,
+      "version": "68286ce06356d7ea",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113203,
+      "posted_at": "2026-11-26T08:40:09+00:00",
+      "excerpt": "infosys / tech mahindra big moves = short covering",
+      "has_media": false,
+      "version": "8f87166b42604507",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155397,
+      "posted_at": "2026-11-26T08:37:02+00:00",
+      "excerpt": "SX 84000CE Hero Zero Study CML 70-75",
+      "has_media": false,
+      "version": "68286ce06356d7ea",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155396,
+      "posted_at": "2026-11-26T08:36:48+00:00",
+      "excerpt": "OPTION BUYING VIEW BHEL 420PE CMP 12.3 Support 9 For 15-18+",
+      "has_media": false,
+      "version": "1ab7bae9fc2c2549",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155395,
+      "posted_at": "2026-11-26T08:36:11+00:00",
+      "excerpt": "POSITIONAL VIEW COFORGE 2000CE CMP 77-78 SUPPORT 50 FOR 110+",
+      "has_media": false,
+      "version": "557a06f91d560969",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137474,
+      "posted_at": "2026-11-26T08:33:53+00:00",
+      "excerpt": "POSITIONAL TRADE CUMMINS Looks Good ABOVE 4120 SL 4070 Targets  -20-40-60-80-100-125-150 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross…",
+      "has_media": false,
+      "version": "e9a63a4fafa6537b",
+      "category": "watch",
+      "symbol_candidate": "CUMMINS",
+      "stop_loss": 4070.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "CUMMINS",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 4070.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113202,
+      "posted_at": "2026-11-26T08:33:53+00:00",
+      "excerpt": "infosys days high",
+      "has_media": false,
+      "version": "26c5b366e26c667f",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13705,
+      "posted_at": "2026-11-26T08:23:06+00:00",
+      "excerpt": "Hero MotoCorp Ltd – HARLEY-DAVIDSON PARTNERSHIP MILESTONE Hero MotoCorp and Harley-Davidson have announced a strategic initiative titled \"Mission: The Big RIDE\" to mark 17 years of the Harley-Davidson brand in India: - The Harley-Davidson X range, co-developed with Hero MotoCorp, has contributed over 50,000 units since its launch in 2023. - Harley-Davidson has surpassed a cumulative customer base of 80,000 motorcycles in India since commencing dealer operations in 2010. - The partnership will expand the retail network with two new full-line dealerships in Raipur and Indore, bringing the total to 23 dealerships. - Hero PREMIA, which supports the sales of Harley-Davidson X motorcycles, has exp",
+      "has_media": false,
+      "version": "4dc1fa97fa81d68a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113201,
+      "posted_at": "2026-11-26T08:21:03+00:00",
+      "excerpt": "84100 PE SPIKED",
+      "has_media": false,
+      "version": "e8e095d8e94eec2d",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155394,
+      "posted_at": "2026-11-26T08:18:24+00:00",
+      "excerpt": "On My Radar PAYTM",
+      "has_media": false,
+      "version": "5a994849a5a66577",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155393,
+      "posted_at": "2026-11-26T08:18:15+00:00",
+      "excerpt": "Expiry Option SENSEX 84000CE 130 to 220++ TGT achieved 80+ points",
+      "has_media": false,
+      "version": "667e4848116d58bc",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155392,
+      "posted_at": "2026-11-26T08:09:27+00:00",
+      "excerpt": "OPTION BUYING VIEW BHEL 420PE CMP 12.3 Support 9 For 15-18+",
+      "has_media": false,
+      "version": "1ab7bae9fc2c2549",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44602,
+      "posted_at": "2026-11-26T07:56:55+00:00",
+      "excerpt": "⛏️ MAHANADI COALFIELDS IPO 📅 LISTING - 27 NOVEMBER 2026 🏦 COAL INDIA SUBSIDIARY की होगी STOCK MARKET DEBUT. 💰 IPO DETAILS ▪️ Issue Size - ₹8,981 Cr ▪️ Price Band - ₹129 to ₹136 ▪️ Anchor Investors - ₹2,295 Cr ▪️ IPO - Final day पर fully subscribed ▪️ Issue Type - Entirely Offer For Sale 📊 COMPANY HIGHLIGHTS ▪️ FY26 Domestic Coal Production Contribution - 21% ▪️ Operational Mines - 17 ▪️ Audited Coal Reserves - 9,840 Million Tonnes ▪️ Estimated Mine Life - 45 Years ▪️ FY26 EBITDA Margin - 41.7% 🚀 FUTURE EXPANSION ▪️ Coal Washery Capacity को 10 MTPA से बढ़ाकर 37 MTPA करने की योजना. ▪️ Coal Gasification और Renewable Energy में diversification. ▪️ Mineral Mining और Rare Earth Elements में भी exp",
+      "has_media": false,
+      "version": "808924a846def987",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137473,
+      "posted_at": "2026-11-26T07:52:03+00:00",
+      "excerpt": "POSITIONAL TRADE BRIGADE ENT (BRIGADE) Looks Good ABOVE 621-623 SL 570 Targets  700-725-750-775 Hold few weeks Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": false,
+      "version": "e2854ea0927e8a72",
+      "category": "watch",
+      "symbol_candidate": "BRIGADE",
+      "stop_loss": 570.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "BRIGADE",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 570.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44601,
+      "posted_at": "2026-11-26T07:50:24+00:00",
+      "excerpt": "🍬 SUGAR STOCKS RALLY UP TO 15% 📅 26 NOVEMBER 2026 🚀 ISMA ने FY27 के लिए sugar production में गिरावट का अनुमान दिया. इसके बाद sugar stocks में जोरदार buying देखने को मिली. 📊 STOCK PERFORMANCE 🟢 DHAMPUR SUGAR - +15% 🟢 UTTAM SUGAR - +12% 🟢 SHREE RENUKA SUGARS - +12% 🟢 BAJAJ HINDUSTHAN - +9% 🟢 BALRAMPUR CHINI - +7% 🟢 DALMIA BHARAT SUGAR - +7% 📉 ISMA PRODUCTION ESTIMATES ▪️ FY27 Gross Output - 265.21 Lakh Tonnes ▪️ Previous Season - 312.13 Lakh Tonnes ▪️ Decline - लगभग 15% 🌾 KEY REASONS ▪️ Sugarcane acreage घटकर 55.53 lakh hectares. ▪️ Previous Year - 57.35 lakh hectares. ▪️ Maharashtra में production 112.45 से घटकर 86.85 lakh tonnes expected. ▪️ Uttar Pradesh में production 95.42 से घटकर 88.96 l",
+      "has_media": false,
+      "version": "1ae80b79a91dc714",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T08:51:55.837469+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155391,
@@ -9784,7 +10043,18 @@
       "version": "89593808fa516592",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+      "observed_at": "2026-11-26T07:50:26.429970+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Sensex",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10121,7 +10391,18 @@
       "version": "4ce916270ecbee12",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T06:19:26.386653+00:00"
+      "observed_at": "2026-11-26T06:19:26.386653+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "MCX",
+        "entry_as_posted": 3765.0,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10154,7 +10435,18 @@
       "version": "4ce916270ecbee12",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T06:19:26.386653+00:00"
+      "observed_at": "2026-11-26T06:19:26.386653+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "MCX",
+        "entry_as_posted": 3765.0,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10176,7 +10468,18 @@
       "version": "9582f32080bd0bcf",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-26T06:19:26.386653+00:00"
+      "observed_at": "2026-11-26T06:19:26.386653+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10593,7 +10896,18 @@
       "version": "3c069f58b3dc096e",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T05:13:52.819920+00:00"
+      "observed_at": "2026-11-26T05:13:52.819920+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "INFY",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T08:51:55.837469+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
