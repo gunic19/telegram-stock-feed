@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T06:19:26.386653+00:00",
+  "updated_at": "2026-11-26T07:50:26.429970+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-25T20:31:47.321857+00:00",
@@ -9694,64 +9694,64 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137468,
+      "newest_id": 137472,
       "gap_detected": false,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
-      "last_success": "2026-11-26T06:19:26.386653+00:00"
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "last_success": "2026-11-26T07:50:26.429970+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18563,
+      "newest_id": 18564,
       "gap_detected": false,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
-      "last_success": "2026-11-26T06:19:26.386653+00:00"
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "last_success": "2026-11-26T07:50:26.429970+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44599,
+      "newest_id": 44600,
       "gap_detected": false,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
-      "last_success": "2026-11-26T06:19:26.386653+00:00"
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "last_success": "2026-11-26T07:50:26.429970+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113199,
+      "newest_id": 113200,
       "gap_detected": false,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
-      "last_success": "2026-11-26T06:19:26.386653+00:00"
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "last_success": "2026-11-26T07:50:26.429970+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155377,
+      "newest_id": 155391,
       "gap_detected": false,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
-      "last_success": "2026-11-26T06:19:26.386653+00:00"
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "last_success": "2026-11-26T07:50:26.429970+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64984,
+      "newest_id": 64987,
       "gap_detected": false,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
-      "last_success": "2026-11-26T06:19:26.386653+00:00"
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "last_success": "2026-11-26T07:50:26.429970+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13701,
+      "newest_id": 13704,
       "gap_detected": false,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
-      "last_success": "2026-11-26T06:19:26.386653+00:00"
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
+      "last_success": "2026-11-26T07:50:26.429970+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,22 +9759,326 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-26T06:19:26.386653+00:00",
+      "checked_at": "2026-11-26T07:50:26.429970+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-26",
-    "requests_today": 4,
-    "cooldown_until": "2026-11-26T07:19:26.386653+00:00",
-    "last_success": "2026-11-26T05:13:52.819920+00:00",
-    "last_attempt": "2026-11-26T06:19:26.386653+00:00",
-    "last_error": "Network timeout",
-    "pending": 11,
-    "status": "error",
-    "message": "Gemini Network timeout; retry later. Rules remain available."
+    "requests_today": 5,
+    "cooldown_until": null,
+    "last_success": "2026-11-26T07:50:26.429970+00:00",
+    "last_attempt": "2026-11-26T07:50:26.429970+00:00",
+    "last_error": null,
+    "pending": 14,
+    "status": "ok",
+    "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155391,
+      "posted_at": "2026-11-26T07:48:39+00:00",
+      "excerpt": "Sensex Sensex 84000 ce 210 support 150 view 250 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "89593808fa516592",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155390,
+      "posted_at": "2026-11-26T07:47:46+00:00",
+      "excerpt": "Sensex Sensex 84000 ce 210 support 150 view 250 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "89593808fa516592",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137472,
+      "posted_at": "2026-11-26T07:45:03+00:00",
+      "excerpt": "POSITIONAL TRADE WELSPUN LIVING Looks Good ABOVE 247 SL 238 Targets  5-10-15-20 points from entry Hold few days Please consult your financial advisor before investing All research is for educational purposes only. Stock is ready to cross past barriers…",
+      "has_media": true,
+      "version": "e04ab7773ff9ce1c",
+      "category": "watch",
+      "symbol_candidate": "LIVING",
+      "stop_loss": 238.0,
+      "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "WELSPUN LIVING",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 238.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155389,
+      "posted_at": "2026-11-26T07:42:32+00:00",
+      "excerpt": "LODHA LODHA 1260 CE 54-55 SUPPORT 47 VIEW 65 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "1d5d97ef75e13991",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13704,
+      "posted_at": "2026-11-26T07:27:57+00:00",
+      "excerpt": "Mere hisab se dhire dhire strength dikhegi i am hold with patience",
+      "has_media": true,
+      "version": "8bcf56da11b87f13",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155387,
+      "posted_at": "2026-11-26T07:20:05+00:00",
+      "excerpt": "JOINED PRIME TODAY ✔️ RECOVERED FEES ✔️ FIRST TIME GREEN WHEN YOUR DEDICATION MEETS THE RIGHT ANALYSIS IT UNLEASH THE POWER 💪 Keep it up mate 👏 👏 👏",
+      "has_media": true,
+      "version": "be3e10faf20d01b8",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155386,
+      "posted_at": "2026-11-26T07:18:46+00:00",
+      "excerpt": "OPTION BUYING VIEW BHEL 420PE CMP 12.3 Support 9 For 15-18+",
+      "has_media": false,
+      "version": "1ab7bae9fc2c2549",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155385,
+      "posted_at": "2026-11-26T07:16:21+00:00",
+      "excerpt": "अगर आपकी Capital 1 लाख से कम है, तो Option Buyers को बड़े Risk वाले Trades से हर हाल में बचना चाहिए। चाहे कोई बड़ा ट्रेड कितना भी Profit क्यों न दे दे, आपको अपनी Capital और Risk Capacity देखकर ही ट्रेड लेना है। दोस्तों, कम Capital वाले ट्रेडर्स छोटे-छोटे Profits बुक करते रहें। 1,500–2,000 का Profit भी काफी है। धीरे-धीरे अपनी Capital बढ़ाइए। याद रखिए, बड़ा Profit कमाने का कोई Shortcut नहीं होता।इसके लिए Patience, Discipline और Risk Management बहुत जरूरी है। ✅ Stop Loss का पालन करें। ✅ Group Updates को जरूर Follow करें। ✅ अपनी Risk Capacity से ज्यादा कभी ट्रेड न लें।",
+      "has_media": false,
+      "version": "133ce81f0a7bf767",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64987,
+      "posted_at": "2026-11-26T07:13:57+00:00",
+      "excerpt": "3 stocks for long term study Texrail 111 , E2E 544 , Sasken tech 1733",
+      "has_media": false,
+      "version": "8d6ebb4e60c569d6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64986,
+      "posted_at": "2026-11-26T07:11:58+00:00",
+      "excerpt": "TD power 3% up Siemens energy 5% up",
+      "has_media": false,
+      "version": "2163a78ce1b41122",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155384,
+      "posted_at": "2026-11-26T07:10:58+00:00",
+      "excerpt": "OPTION BUYING FOR OPTION PLAYER MCX 3800PE CMP 154 Support 100 For 200+",
+      "has_media": false,
+      "version": "9bb9ee267c56f5ff",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155383,
+      "posted_at": "2026-11-26T07:10:11+00:00",
+      "excerpt": "Momentum Swing Trade SEDEMAC MECH SOLID CHART",
+      "has_media": true,
+      "version": "f69bdaf1af8e84f0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155382,
+      "posted_at": "2026-11-26T07:09:47+00:00",
+      "excerpt": "ONE SWING CHART SHARED TO PRIME MEMBERS",
+      "has_media": false,
+      "version": "b9095eb949d504b1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18564,
+      "posted_at": "2026-11-26T07:09:42+00:00",
+      "excerpt": "MOSt Overnight BUY LCCPROJECT CMP 129.74 SL 123.80 TGT 141.62 Disclaimer- [link]",
+      "has_media": false,
+      "version": "e4cc38cc286526d9",
+      "category": "call",
+      "side": "BUY",
+      "symbol_candidate": "LCCPROJECT",
+      "reason": "Automatically detected, not verified. Confirm symbol, entry and context.",
+      "entry_as_posted": 129.74,
+      "first_target": 141.62,
+      "stop_loss": 123.8,
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64985,
+      "posted_at": "2026-11-26T07:09:11+00:00",
+      "excerpt": "CLSA's technical analyst laurance Balanco is giving Nifty upside level 31700.. if it crosses the previous ATH 26300.",
+      "has_media": false,
+      "version": "9170e5b59ee9332c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44600,
+      "posted_at": "2026-11-26T06:54:37+00:00",
+      "excerpt": "🏦 INCRED HOLDINGS IPO UPDATE 📅 26 NOVEMBER 2026 📉 IPO SIZE में बड़ी कटौती 💰 REVISED ISSUE SIZE ▪️ FRESH ISSUE Earlier - ₹1,250 Cr Revised - ₹750 Cr Reduction - 40% ▪️ OFFER FOR SALE Earlier - 9.9 Crore Shares Revised - 6.28 Crore Shares Reduction - 36.58% 📌 KEY DEVELOPMENTS ▪️ Company ने pre-IPO private placement का plan drop किया. ▪️ Board ने 25 November को revised offer size approve किया. ▪️ OFS में existing shareholders अपनी हिस्सेदारी बेचेंगे. 🏦 IPO PROCEEDS Fresh issue से मिलने वाला पैसा subsidiary InCred Financial Services के capital base को मजबूत करने में इस्तेमाल होगा. 🏢 ABOUT THE COMPANY InCred Holdings एक Mumbai-based financial services company है. इसका प्रमुख business subsidiary I",
+      "has_media": false,
+      "version": "2854f45ffda091e1",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155381,
+      "posted_at": "2026-11-26T06:49:38+00:00",
+      "excerpt": "Equity Pick SWING VIEW KMEW CMP 689 Support 650 For 750-800+",
+      "has_media": false,
+      "version": "002cff41be62e158",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155380,
+      "posted_at": "2026-11-26T06:48:07+00:00",
+      "excerpt": "OPTION BUYING VIEW BHEL 420PE CMP 12.3 Support 9 For 15-18+",
+      "has_media": false,
+      "version": "1ab7bae9fc2c2549",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137471,
+      "posted_at": "2026-11-26T06:43:57+00:00",
+      "excerpt": "Prestige Estates Projects Ltd ✅ 𝟏𝟓/𝟏𝟎/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟏𝟓𝟎𝟓 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟏𝟕𝟔𝟗.𝟒 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "2a705d30e34fcd8d",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137470,
+      "posted_at": "2026-11-26T06:43:43+00:00",
+      "excerpt": "JUPITER WAGONS LIMITED ✅ 𝟐𝟓/𝟏𝟏/𝟐𝟎𝟐𝟔,we shared an educational chart analysis highlighting a key level around 𝟐𝟐𝟑 ✅ 𝗧𝗼𝗱𝗮𝘆, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗰𝗸 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝗵𝗶𝗴𝗵 𝗼𝗳 ₹𝟐𝟒𝟐.𝟗𝟗 aligning with the technical study discussed 📊 A classic example of how technical levels and price action can provide insights for learning purposes only 🎥 Watch the full analysis: [link] 📌 This is not investment advice. Please consult a SEBI-registered advisor before making decisions",
+      "has_media": false,
+      "version": "c19a4dd220601202",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155379,
+      "posted_at": "2026-11-26T06:41:54+00:00",
+      "excerpt": "HOLDING MIDCPNIFTY 14500 CE ONLY AT 306 SUPPORT 265 VIEW 360 Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "4364f8f5852c2d3f",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137469,
+      "posted_at": "2026-11-26T06:40:18+00:00",
+      "excerpt": "NIFTY 25700 - Longs - 92985 (Intraday - 26832) Shorts - 30969 (Intraday - minus 7840) 25750 - Longs - 45373 (Intraday - 19164) Shorts - 20092 (Intraday - minus 3197) 25800 - Longs - 1.11L (Intraday - 43092) Shorts - 77575 (Intraday - minus 292) 25850 - Longs - 45827 (Intraday - 31703) Shorts - 37177 (Intraday - 12623) 25900 - Longs - 80378 (Intraday - 52930) Shorts - 1.00L (Intraday - 40675) 25950 - Longs - 30569 (Intraday - 23512) Shorts - 58413 (Intraday - 33058) 26000 - Longs - 58831 (Intraday - 21482) Shorts - 1.68L (Intraday - 35434) BANKNIFTY 62000 - Longs - 18299 (Intraday - 775) Shorts - 5841 (Intraday - minus 20) 62500 - Longs - 7086 (Intraday - 810) Shorts - 3885 (Intraday - minus ",
+      "has_media": false,
+      "version": "a6f9522ba2f765ca",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113200,
+      "posted_at": "2026-11-26T06:33:26+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13703,
+      "posted_at": "2026-11-26T06:33:07+00:00",
+      "excerpt": "#AD Please Support dikhao sab Free swing Stocks Set-up And Market Info Group free for my members Join now free [link] Don't Miss join fast",
+      "has_media": false,
+      "version": "b1769aa7cdc4cb3e",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13702,
+      "posted_at": "2026-11-26T06:30:49+00:00",
+      "excerpt": "ADANI POWER: GODDA PLANT TO SHUT ONE UNIT FOR 25 DAYS; BANGLADESH POWER SUPPLY TO HALVE One of the two generating units at Adani Power's 1,496 MW Godda plant in Jharkhand will undergo a scheduled overhaul until December 18. Bangladesh, which receives the plant's entire power output, will see electricity supply reduced by 50% during the maintenance period. The shutdown comes amid political uncertainty and protests in Bangladesh.",
+      "has_media": false,
+      "version": "bbbff5225b98b5d2",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155378,
+      "posted_at": "2026-11-26T06:20:00+00:00",
+      "excerpt": "CUMMINS CUMMINS cash above 4180 support 4140 view 4250 holding Disclaimer :- Above calls are Not Buy or Sell Levels,These opinions are for educational purposes only, based on research. Consult your financial advisor before investing.",
+      "has_media": false,
+      "version": "d825519367aa5bbf",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-26T07:50:26.429970+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113199,
@@ -10004,7 +10308,18 @@
       "version": "1f2fc09e3901344c",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T05:13:52.819920+00:00"
+      "observed_at": "2026-11-26T05:13:52.819920+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Midcp 14500 ce",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10059,7 +10374,18 @@
       "version": "73b2784f18c8ccc1",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-26T05:13:52.819920+00:00"
+      "observed_at": "2026-11-26T05:13:52.819920+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "CRYSTAL CROP PROTECTION",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10118,7 +10444,18 @@
       "version": "1f2fc09e3901344c",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-26T05:13:52.819920+00:00"
+      "observed_at": "2026-11-26T05:13:52.819920+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Midcp 14500 ce",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10186,7 +10523,18 @@
       "version": "7c61a458c23375f6",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-26T05:13:52.819920+00:00"
+      "observed_at": "2026-11-26T05:13:52.819920+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "LG ELECTRONICS INDIA",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10223,7 +10571,18 @@
       "symbol_candidate": "JWL",
       "stop_loss": 210.0,
       "reason": "Conditional looks-good-above setup; exact NSE symbol and AI assessment require verification.",
-      "observed_at": "2026-11-26T05:13:52.819920+00:00"
+      "observed_at": "2026-11-26T05:13:52.819920+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "JWL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": 210.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -10537,7 +10896,18 @@
       "version": "1056c22a4a9ec5f9",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+      "observed_at": "2026-11-26T04:02:42.292414+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
@@ -10548,7 +10918,18 @@
       "version": "a3bfe0228a36bd20",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-26T04:02:42.292414+00:00"
+      "observed_at": "2026-11-26T04:02:42.292414+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "SIEMENS ENERGY INDIA",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-26T07:50:26.429970+00:00"
+      }
     },
     {
       "channel": "GHANSHYAMTECH",
