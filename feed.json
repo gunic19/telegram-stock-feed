@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T17:13:53.165106+00:00",
+  "updated_at": "2026-11-27T18:09:37.943840+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-26T20:42:29.637215+00:00",
@@ -9692,8 +9692,8 @@
       "pages": 1,
       "newest_id": 137540,
       "gap_detected": false,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
-      "last_success": "2026-11-27T17:13:53.165106+00:00"
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
+      "last_success": "2026-11-27T18:09:37.943840+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18570,
       "gap_detected": false,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
-      "last_success": "2026-11-27T17:13:53.165106+00:00"
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
+      "last_success": "2026-11-27T18:09:37.943840+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,8 +9710,8 @@
       "pages": 1,
       "newest_id": 44620,
       "gap_detected": false,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
-      "last_success": "2026-11-27T17:13:53.165106+00:00"
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
+      "last_success": "2026-11-27T18:09:37.943840+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9719,17 +9719,17 @@
       "pages": 1,
       "newest_id": 113266,
       "gap_detected": false,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
-      "last_success": "2026-11-27T17:13:53.165106+00:00"
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
+      "last_success": "2026-11-27T18:09:37.943840+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155455,
+      "newest_id": 155456,
       "gap_detected": false,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
-      "last_success": "2026-11-27T17:13:53.165106+00:00"
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
+      "last_success": "2026-11-27T18:09:37.943840+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9737,8 +9737,8 @@
       "pages": 1,
       "newest_id": 65027,
       "gap_detected": false,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
-      "last_success": "2026-11-27T17:13:53.165106+00:00"
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
+      "last_success": "2026-11-27T18:09:37.943840+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13723,
       "gap_detected": false,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
-      "last_success": "2026-11-27T17:13:53.165106+00:00"
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
+      "last_success": "2026-11-27T18:09:37.943840+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,7 +9755,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-27T17:13:53.165106+00:00",
+      "checked_at": "2026-11-27T18:09:37.943840+00:00",
       "last_success": null
     }
   },
@@ -9771,6 +9771,17 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155456,
+      "posted_at": "2026-11-27T17:14:08+00:00",
+      "excerpt": "Stock Gainers (SEBI REGISTERED) ⭐️ Live Analysis of 27th NOV 1. OPTION ANALYSIS MCX3900CE 185 TO 185 .15 CONFORGE 2000CE 77 TO 110+ 🔥 SYRMA TECH 1500CE 72 TO 96 🔥 BSE 4000CE 210 TO 228 🔥 ANGELONE 380CE 13.7 TO 20+ 🔥 2.STOCK FUTURE & EQUITY CASH ANALYSIS TATA ELEXI 3940 TO 387 ICIL 592 TO made high 596 🔥 Note: Those who are tracking our Live Analysis please read our disclaimer Focus On the Right Analysis FOR PRIME  MEMBERSHIP PING @SG005 ✔️",
+      "has_media": false,
+      "version": "0a8b3647dd98a13b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T18:09:37.943840+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137540,
