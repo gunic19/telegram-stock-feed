@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T06:50:14.810635+00:00",
+  "updated_at": "2026-11-27T08:18:13.557570+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-26T20:42:29.637215+00:00",
@@ -9690,64 +9690,64 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137523,
+      "newest_id": 137524,
       "gap_detected": false,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
-      "last_success": "2026-11-27T06:50:14.810635+00:00"
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "last_success": "2026-11-27T08:18:13.557570+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18567,
+      "newest_id": 18568,
       "gap_detected": false,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
-      "last_success": "2026-11-27T06:50:14.810635+00:00"
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "last_success": "2026-11-27T08:18:13.557570+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44615,
+      "newest_id": 44618,
       "gap_detected": false,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
-      "last_success": "2026-11-27T06:50:14.810635+00:00"
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "last_success": "2026-11-27T08:18:13.557570+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113241,
+      "newest_id": 113244,
       "gap_detected": false,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
-      "last_success": "2026-11-27T06:50:14.810635+00:00"
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "last_success": "2026-11-27T08:18:13.557570+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155444,
+      "newest_id": 155447,
       "gap_detected": false,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
-      "last_success": "2026-11-27T06:50:14.810635+00:00"
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "last_success": "2026-11-27T08:18:13.557570+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 65018,
+      "newest_id": 65023,
       "gap_detected": false,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
-      "last_success": "2026-11-27T06:50:14.810635+00:00"
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "last_success": "2026-11-27T08:18:13.557570+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 13719,
+      "newest_id": 13722,
       "gap_detected": false,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
-      "last_success": "2026-11-27T06:50:14.810635+00:00"
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "last_success": "2026-11-27T08:18:13.557570+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,220 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-27T06:50:14.810635+00:00",
+      "checked_at": "2026-11-27T08:18:13.557570+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-27",
-    "requests_today": 5,
+    "requests_today": 6,
     "cooldown_until": null,
-    "last_success": "2026-11-27T06:50:14.810635+00:00",
-    "last_attempt": "2026-11-27T06:50:14.810635+00:00",
+    "last_success": "2026-11-27T08:18:13.557570+00:00",
+    "last_attempt": "2026-11-27T08:18:13.557570+00:00",
     "last_error": null,
-    "pending": 9,
+    "pending": 6,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113244,
+      "posted_at": "2026-11-27T08:11:20+00:00",
+      "excerpt": "SOME SUGAR STOCKS MAY DOUBLE GOING AHEAD FROM CURRENT LEVELS = EL NINO , SHORT SUPPLY big factor",
+      "has_media": false,
+      "version": "a5584174b6de9b09",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13722,
+      "posted_at": "2026-11-27T08:10:02+00:00",
+      "excerpt": "LCC Projects Ltd – INR 553.55 CR NEW ORDER WIN LCC Projects Ltd has received a Letter of Acceptance from the Office of the Executive Engineer, Raigarh Medium Irrigation Division, for a major irrigation project valued at INR 553.55 Cr: - The company has been awarded the contract for the construction of the Chhoti Kalisindh Medium Irrigation Project on an E.P.C. (Engineering, Procurement, and Construction) Single Responsibility Turnkey basis. - The project involves the implementation of a sprinkler-based irrigation system integrated with solar power at the Chhoti Kalisindh and Chahurni rivers in the Jhalawar district of Rajasthan. - The total value of the order is INR 553.55 Cr, excluding GST.",
+      "has_media": false,
+      "version": "90ae2b1083e5cfb2",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13721,
+      "posted_at": "2026-11-27T08:08:36+00:00",
+      "excerpt": "Lo bhai CDSL me bhi ban gya 16% Cdsl me abhi bahut kuch baki hai abhi to bull run aayega to cdsl or bhagega nifty ke sath chalne wala stock hai wait karte hai 1600-1700 tak ka",
+      "has_media": true,
+      "version": "d11bf8c86e66162a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "stockmarketadviser91",
+      "message_id": 13720,
+      "posted_at": "2026-11-27T08:06:39+00:00",
+      "excerpt": "#PROMO Option trading ke liye ye link badi mushkil se mila hai join now Zero to Hero big jackpot trade Join fast ⏩ NITFY-SENSEX-GOLD-SILVER ,SWING TRADING DAILY 4_5 CALLS & 24×7 CUSTOMER SUPPORT ALl MEMBERS JOIN FAST ROCKET GROUP FREE JOIN FAST ALL…",
+      "has_media": false,
+      "version": "a136ace2f4551399",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113243,
+      "posted_at": "2026-11-27T08:05:18+00:00",
+      "excerpt": "last 2 hrs =khela hobe",
+      "has_media": false,
+      "version": "511e44a4dda05cc0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113242,
+      "posted_at": "2026-11-27T08:03:52+00:00",
+      "excerpt": "expecting some strong moves in RVNL",
+      "has_media": false,
+      "version": "6b0bc3eaaa39a1da",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44618,
+      "posted_at": "2026-11-27T08:00:09+00:00",
+      "excerpt": "⛏️ MAHANADI COALFIELDS 📅 27 NOVEMBER 2026 🟢 LISTING के बाद RECOVERY Weak market debut के बाद shares में recovery देखने को मिली. 📊 SHARE PRICE UPDATE 🔹 IPO Price - ₹136 🔹 Listing Price - ₹133.15 🔹 Listing Day Low - ₹133 🔹 Day Low से Recovery - 1.65% हालांकि recovery के बाद भी stock IPO issue price से नीचे trade कर रहा था. 📈 IPO SUBSCRIPTION DETAILS 🔹 Overall Subscription - 1.5 Times 🔹 QIB - Full Subscription 🔹 Retail Investors - 0.46 Times 🔹 NII - 66% Subscription 🏭 COMPANY PROFILE Mahanadi Coalfields Coal India की subsidiary है और Odisha के Talcher तथा Ib Valley coalfields में operations करती है. 🔹 Total Operational Mines - 17 📌 KEY UPDATE Weak listing के बाद stock में recovery आई लेकिन IPO ",
+      "has_media": false,
+      "version": "e95ad544508ad6b5",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44617,
+      "posted_at": "2026-11-27T07:50:45+00:00",
+      "excerpt": "🥇 GOLD & SILVER MARKET UPDATE 📅 27 NOVEMBER 2026 🚀 PRECIOUS METALS REBOUND 🟡 GOLD FUTURES ₹1,25,409 प्रति 10 ग्राम 🟢 Gain - 2.57% ⚪️ SILVER FUTURES ₹1,54,150 प्रति kg 🟢 Gain - 5.7% 🌍 INTERNATIONAL MARKET 🔹 Spot Gold - $3,660 प्रति ounce के ऊपर 🔹 Comex Silver - $44 प्रति ounce के ऊपर 📈 WHY ARE PRICES RISING? 🔹 US Dollar में कमजोरी 🔹 Recent correction के बाद fresh buying 🔹 Improved global market sentiment 🔹 Central Bank buying और investment demand ⚠️ IMPORTANT FACTORS आगे precious metals की direction December FOMC meeting और important US economic data पर निर्भर रहेगी. Gold और Silver में recent recovery के बावजूद volatility बनी रह सकती है. 📌 Recent sell-off के बाद precious metals में strong reb",
+      "has_media": false,
+      "version": "f3324e2b612c027e",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 65023,
+      "posted_at": "2026-11-27T07:45:33+00:00",
+      "excerpt": "TEXRAIL 3% up 🔥",
+      "has_media": false,
+      "version": "abdb3e47a36a1505",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137524,
+      "posted_at": "2026-11-27T07:34:55+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions…",
+      "has_media": false,
+      "version": "e761c48649be886b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155447,
+      "posted_at": "2026-11-27T07:33:15+00:00",
+      "excerpt": "JOIN THE PRIME GROUP , PING @SG005 ✔️",
+      "has_media": false,
+      "version": "48b6e2681b900d00",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155446,
+      "posted_at": "2026-11-27T07:31:34+00:00",
+      "excerpt": "Investment: Rs 10,000 NET PROFIT: Rs 3400/- ✔️ ROI 34% in a day 💪",
+      "has_media": true,
+      "version": "cd7f3847834d4726",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 65021,
+      "posted_at": "2026-11-27T07:18:10+00:00",
+      "excerpt": "Har kutte ka din aata hai NIFTY BANK NIFTY k bad small cap ka v din aayega Har bar aata hai , har sal aata hai Intzar karo achhe stocks load kro, FII ki wajah se Large cap kitne sal bad ab chal rha...chal lene do",
+      "has_media": false,
+      "version": "679823c0b0fcee6c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 65020,
+      "posted_at": "2026-11-27T07:16:40+00:00",
+      "excerpt": "Har kutte ka din aata hai NIFTY BANK NIFTY k bad small cap ka v din aayega Har bar aata hai , har sal aata hai Intzar karo achhe stocks load kro, FII ki wajah se Large cap kitne sal bad ab chal rha...chal lene do",
+      "has_media": false,
+      "version": "679823c0b0fcee6c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155445,
+      "posted_at": "2026-11-27T07:14:12+00:00",
+      "excerpt": "CDSL Perfect Setup for Breakout Keep Light Position",
+      "has_media": true,
+      "version": "b055cc59121a496a",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18568,
+      "posted_at": "2026-11-27T07:05:22+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 65019,
+      "posted_at": "2026-11-27T06:58:50+00:00",
+      "excerpt": "Marine electrical 3.3% 433 Td power 623 1.5% Check both chart , you will surprise 😉",
+      "has_media": false,
+      "version": "32e129bbfe5bef79",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44616,
+      "posted_at": "2026-11-27T06:55:55+00:00",
+      "excerpt": "⚖️ TATA STEEL – APL APOLLO DEAL 📅 27 NOVEMBER 2026 🏛 SEBI SCRUTINY SEBI Chairman Tuhin Kanta Pandey ने कहा कि regulator Tata Steel और APL Apollo के proposed deal की जांच कर रहा है. Minority shareholders के interests और investor protection को priority दी जाएगी. 🟢 APL APOLLO SHARES SEBI Chairman के बयान के बाद shares में 4% की तेजी आई और stock ₹1,544.30 तक पहुंचा. 🔍 WHY IS SEBI LOOKING INTO THE DEAL? 🔹 करीब ₹28,000 Cr का business transaction. 🔹 APL Apollo पर भारी debt burden आने की चिंता. 🔹 Existing promoter को exit का फायदा मिलने पर सवाल. 🔹 Minority shareholders पर financial risk बढ़ने की आशंका. 📊 DEAL STRUCTURE Tata Steel की proposed acquisition और open offer के बाद APL Apollo में holding कर",
+      "has_media": false,
+      "version": "cded0757246ad1fc",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+    },
     {
       "channel": "STOCKGAINERSS",
       "message_id": 155444,
@@ -9791,7 +9989,18 @@
       "version": "68e32238d8d07173",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-27T06:50:14.810635+00:00"
+      "observed_at": "2026-11-27T06:50:14.810635+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Bharatforge",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -9835,7 +10044,18 @@
       "version": "5432e6292f30c5eb",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-27T06:50:14.810635+00:00"
+      "observed_at": "2026-11-27T06:50:14.810635+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "NECCLTD",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -9901,7 +10121,18 @@
       "version": "0d533ada5a9179a4",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-27T06:50:14.810635+00:00"
+      "observed_at": "2026-11-27T06:50:14.810635+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "NAVIN FLOURINE INTERNATIONAL LTD",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9912,7 +10143,18 @@
       "version": "bb2919bca4c37ac2",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-27T06:50:14.810635+00:00"
+      "observed_at": "2026-11-27T06:50:14.810635+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "HINUSTAN AERONATICS LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "stockpro_online",
@@ -9923,7 +10165,18 @@
       "version": "c570ee54981b2900",
       "category": "watch",
       "reason": "Watch wording detected; confirm symbol and context.",
-      "observed_at": "2026-11-27T06:50:14.810635+00:00"
+      "observed_at": "2026-11-27T06:50:14.810635+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "DATA PATTERN INDIA LIMITED",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10224,7 +10477,18 @@
       "version": "7df1d212d105b46d",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-27T05:45:56.633420+00:00"
+      "observed_at": "2026-11-27T05:45:56.633420+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "WAAREE RENEWABLE TECHNOLOGIES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "Equiideas",
@@ -10246,7 +10510,18 @@
       "version": "fc7db488f853e34d",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-27T05:45:56.633420+00:00"
+      "observed_at": "2026-11-27T05:45:56.633420+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -10378,7 +10653,18 @@
       "entry_as_posted": 1894.6,
       "first_target": 2053.8,
       "stop_loss": 1815.0,
-      "observed_at": "2026-11-27T05:45:56.633420+00:00"
+      "observed_at": "2026-11-27T05:45:56.633420+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "call",
+        "side": "BUY",
+        "stock_text": "MAZDOCK",
+        "entry_as_posted": 1894.6,
+        "first_target": 2053.8,
+        "stop_loss": 1815.0,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T08:18:13.557570+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
