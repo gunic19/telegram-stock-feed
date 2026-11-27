@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T13:57:02.432211+00:00",
+  "updated_at": "2026-11-27T14:58:40.720997+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-26T20:42:29.637215+00:00",
@@ -9690,10 +9690,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137533,
+      "newest_id": 137536,
       "gap_detected": false,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
-      "last_success": "2026-11-27T13:57:02.432211+00:00"
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
+      "last_success": "2026-11-27T14:58:40.720997+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18570,
       "gap_detected": false,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
-      "last_success": "2026-11-27T13:57:02.432211+00:00"
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
+      "last_success": "2026-11-27T14:58:40.720997+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,8 +9710,8 @@
       "pages": 1,
       "newest_id": 44620,
       "gap_detected": false,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
-      "last_success": "2026-11-27T13:57:02.432211+00:00"
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
+      "last_success": "2026-11-27T14:58:40.720997+00:00"
     },
     "Equiideas": {
       "state": "ok",
@@ -9719,17 +9719,17 @@
       "pages": 1,
       "newest_id": 113266,
       "gap_detected": false,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
-      "last_success": "2026-11-27T13:57:02.432211+00:00"
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
+      "last_success": "2026-11-27T14:58:40.720997+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155452,
+      "newest_id": 155455,
       "gap_detected": false,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
-      "last_success": "2026-11-27T13:57:02.432211+00:00"
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
+      "last_success": "2026-11-27T14:58:40.720997+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9737,8 +9737,8 @@
       "pages": 1,
       "newest_id": 65027,
       "gap_detected": false,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
-      "last_success": "2026-11-27T13:57:02.432211+00:00"
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
+      "last_success": "2026-11-27T14:58:40.720997+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13723,
       "gap_detected": false,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
-      "last_success": "2026-11-27T13:57:02.432211+00:00"
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
+      "last_success": "2026-11-27T14:58:40.720997+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,88 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-27T13:57:02.432211+00:00",
+      "checked_at": "2026-11-27T14:58:40.720997+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-27",
-    "requests_today": 9,
+    "requests_today": 10,
     "cooldown_until": null,
-    "last_success": "2026-11-27T12:35:25.099096+00:00",
-    "last_attempt": "2026-11-27T12:35:25.099096+00:00",
+    "last_success": "2026-11-27T14:58:40.720997+00:00",
+    "last_attempt": "2026-11-27T14:58:40.720997+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "status": "ok",
+    "message": "AI processed 1/1 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155455,
+      "posted_at": "2026-11-27T14:40:53+00:00",
+      "excerpt": "Update GOLDM 130000CE 65 to 25 40 points profit 4000/+ per 10 lots 122000PE 110 to 100 +10 points 1000 profit per 10 lots 127000CE 110 to 35 +80 points 8000 profit per 10 lots 4000+1000-8000=13000 profit so Far 10 Lots 130 00++ 🔥 🔥 profit not bad Book Full Profit 🔥",
+      "has_media": false,
+      "version": "f1d96f6c1521a89a",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-27T14:58:40.720997+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "GOLDM",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T14:58:40.720997+00:00"
+      }
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155454,
+      "posted_at": "2026-11-27T14:40:52+00:00",
+      "excerpt": "MARKET HOURS CLOSED WE WILL CONTINUE HERE 💪 ⬇️",
+      "has_media": false,
+      "version": "1c4ed6648d609b84",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T14:58:40.720997+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137536,
+      "posted_at": "2026-11-27T14:32:16+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 3 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "af4ac1bdd6576dba",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T14:58:40.720997+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137534,
+      "posted_at": "2026-11-27T14:31:56+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-27T14:58:40.720997+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155453,
+      "posted_at": "2026-11-27T14:30:11+00:00",
+      "excerpt": "MOMENTUM STOCK SWING VIEW SHUKRA PHARMA CMP 74 Support 60 For 90-118",
+      "has_media": false,
+      "version": "9b48ed9f798b2241",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T14:58:40.720997+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 65027,
