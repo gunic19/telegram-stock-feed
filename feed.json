@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T08:18:13.557570+00:00",
+  "updated_at": "2026-11-27T09:35:40.540763+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-26T20:42:29.637215+00:00",
@@ -9690,55 +9690,55 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137524,
+      "newest_id": 137528,
       "gap_detected": false,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
-      "last_success": "2026-11-27T08:18:13.557570+00:00"
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
+      "last_success": "2026-11-27T09:35:40.540763+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 18568,
+      "newest_id": 18569,
       "gap_detected": false,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
-      "last_success": "2026-11-27T08:18:13.557570+00:00"
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
+      "last_success": "2026-11-27T09:35:40.540763+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 44618,
+      "newest_id": 44620,
       "gap_detected": false,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
-      "last_success": "2026-11-27T08:18:13.557570+00:00"
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
+      "last_success": "2026-11-27T09:35:40.540763+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113244,
+      "newest_id": 113252,
       "gap_detected": false,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
-      "last_success": "2026-11-27T08:18:13.557570+00:00"
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
+      "last_success": "2026-11-27T09:35:40.540763+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155447,
+      "newest_id": 155450,
       "gap_detected": false,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
-      "last_success": "2026-11-27T08:18:13.557570+00:00"
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
+      "last_success": "2026-11-27T09:35:40.540763+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 65023,
+      "newest_id": 65025,
       "gap_detected": false,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
-      "last_success": "2026-11-27T08:18:13.557570+00:00"
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
+      "last_success": "2026-11-27T09:35:40.540763+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13722,
       "gap_detected": false,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
-      "last_success": "2026-11-27T08:18:13.557570+00:00"
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
+      "last_success": "2026-11-27T09:35:40.540763+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,253 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-27T08:18:13.557570+00:00",
+      "checked_at": "2026-11-27T09:35:40.540763+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-27",
-    "requests_today": 6,
+    "requests_today": 7,
     "cooldown_until": null,
-    "last_success": "2026-11-27T08:18:13.557570+00:00",
-    "last_attempt": "2026-11-27T08:18:13.557570+00:00",
+    "last_success": "2026-11-27T09:35:40.540763+00:00",
+    "last_attempt": "2026-11-27T09:35:40.540763+00:00",
     "last_error": null,
-    "pending": 6,
+    "pending": 0,
     "status": "ok",
     "message": "AI processed 8/8 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113252,
+      "posted_at": "2026-11-27T09:34:55+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113251,
+      "posted_at": "2026-11-27T09:28:54+00:00",
+      "excerpt": "Once 888 crossed expecting 1000+",
+      "has_media": false,
+      "version": "620a1ec9a7e4fd30",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113250,
+      "posted_at": "2026-11-27T09:28:27+00:00",
+      "excerpt": "GOKEX 824/28 CROSSED 844 STRONG RESISTANCE ABOVE THIS 862/68/76/84+",
+      "has_media": false,
+      "version": "a98614dcbfbd9d39",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44620,
+      "posted_at": "2026-11-27T09:26:19+00:00",
+      "excerpt": "🍪 BRITANNIA INDUSTRIES 📅 27 NOVEMBER 2026 🔴 SHARES FALL OVER 2% Britannia Industries के shares NSE पर ₹5,062.70 तक गिर गए. करीब 2.36% की कमजोरी दर्ज हुई. 👔 SENIOR MANAGEMENT EXIT Company के Chief Marketing Officer (CMO) Puneet Das ने अपने पद से इस्तीफा दे दिया है. 🔹 RESIGNATION DATE - 26 November 2026 🔹 LAST WORKING DAY - 9 December 2026 🔹 REASON - External career opportunity 📢 SUCCESSOR UPDATE Company ने अभी तक नए Chief Marketing Officer के नाम की घोषणा नहीं की है. 📌 KEY UPDATE Britannia में senior management level पर बदलाव होने जा रहा है. CMO Puneet Das 9 December को अपनी जिम्मेदारियों से मुक्त होंगे. Source: Moneycontrol",
+      "has_media": false,
+      "version": "7e519622d9c1cccd",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "BRITANNIA INDUSTRIES",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113249,
+      "posted_at": "2026-11-27T09:25:07+00:00",
+      "excerpt": "gokex on blast mode 778/84 crossed can see 788/96/800+",
+      "has_media": false,
+      "version": "e1578455c99135e6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137528,
+      "posted_at": "2026-11-27T09:24:49+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions…",
+      "has_media": false,
+      "version": "e761c48649be886b",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137527,
+      "posted_at": "2026-11-27T09:24:16+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 3 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "af4ac1bdd6576dba",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137525,
+      "posted_at": "2026-11-27T09:23:40+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113248,
+      "posted_at": "2026-11-27T09:22:01+00:00",
+      "excerpt": "sharing email from one of my supplier = this is the situation - capacity sold out in terry towels",
+      "has_media": true,
+      "version": "5e20615a591cc434",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113247,
+      "posted_at": "2026-11-27T09:18:43+00:00",
+      "excerpt": "gokex on blast mode 778/84 crossed can see 788/96/800+",
+      "has_media": false,
+      "version": "e1578455c99135e6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113246,
+      "posted_at": "2026-11-27T09:14:10+00:00",
+      "excerpt": "gokex on blast mode 778/84 crossed can see 788/96/800+",
+      "has_media": false,
+      "version": "e1578455c99135e6",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155450,
+      "posted_at": "2026-11-27T09:13:54+00:00",
+      "excerpt": "WISHING YOU ALL A HAPPY WEEKEND 🎆 -From PRIME MEMBERS 💪",
+      "has_media": true,
+      "version": "ea53cd92d731e096",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 65025,
+      "posted_at": "2026-11-27T08:53:14+00:00",
+      "excerpt": "TEXRAIL 124 5% up 🔥 🔥",
+      "has_media": true,
+      "version": "5006e18628ea3563",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 65024,
+      "posted_at": "2026-11-27T08:50:44+00:00",
+      "excerpt": "What a prediction on Gold 😁 [link]",
+      "has_media": false,
+      "version": "c2fdaebe32e3aaea",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155449,
+      "posted_at": "2026-11-27T08:49:35+00:00",
+      "excerpt": "ICIL GOOD UPTREND",
+      "has_media": true,
+      "version": "32013c5be45db032",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155448,
+      "posted_at": "2026-11-27T08:49:11+00:00",
+      "excerpt": "Equity Pick ICIL CMP 592 Support 565 For 650++",
+      "has_media": false,
+      "version": "50bd6d5e5204900a",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "GHANSHYAMTECH",
+      "message_id": 44619,
+      "posted_at": "2026-11-27T08:46:03+00:00",
+      "excerpt": "🚀 DEFENCE STOCKS – BROAD-BASED RALLY 📅 27 NOVEMBER 2026 📈 SECTORAL INDEX Nifty India Defence Index में 3% से ज्यादा की तेजी. BEML और Data Patterns सहित कई defence stocks में strong buying देखने को मिली. 🔥 TOP GAINERS 🟢 BEML - 11% तेजी 🟢 IDEAFORGE - 7% तेजी 🟢 DATA PATTERNS - करीब 6% तेजी 🟢 SOLAR INDUSTRIES - करीब 6% तेजी 🟢 PARAS DEFENCE - करीब 6% तेजी 🟢 UNIMECH AEROSPACE - करीब 6% तेजी 🟢 GRSE - करीब 6% तेजी 🔹 MAZAGON DOCK 🔹 BHARAT DYNAMICS (BDL) 🔹 CENTUM ELECTRONICS 🔹 DYNAMATIC TECHNOLOGIES 🔹 HAL इन stocks में भी 4-5% की तेजी दर्ज हुई. 📊 Q2 FY27 SECTOR PERFORMANCE 🏛 DEFENCE PSUs 🔹 Revenue Growth - 14.7% YoY 🔻 EBITDA Growth - 1% की गिरावट 🏭 PRIVATE DEFENCE COMPANIES 🔹 Revenue Growth - 24.9% Yo",
+      "has_media": false,
+      "version": "3d573acbafd7ed63",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "review",
+        "side": "NONE",
+        "stock_text": "Nifty India Defence Index",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113245,
+      "posted_at": "2026-11-27T08:45:08+00:00",
+      "excerpt": "EMERGING SITUATION IN BANGLADESH = MAJOR FACTORIES ARE CLOSED DUE TO UNREST SINCE LAST 10 DAYS = SOME FACTORIES ARE WORKING ONLY IN NIGHT HOURS = DURING DAY THEY ARE CLOSED = SOME FACTORY OWNERS HAVE ALREADY LEFT COUNTRY LEAVING PROPERTY AND FACTORY EVERYTHING CLOSED = MAJOR COMPANIES MID / SOME BIG EXPORTERS FACING BANKRUPTCY This will provide boost to Indian Textile Companies Indian Terry Towels factories are over booked till March / April 2027 Strong demand Emerging in Terry Towels / Yarn",
+      "has_media": false,
+      "version": "01a34e4e203997f9",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
+    {
+      "channel": "motilaloswalofficial",
+      "message_id": 18569,
+      "posted_at": "2026-11-27T08:20:24+00:00",
+      "excerpt": "Join Now : [link]",
+      "has_media": true,
+      "version": "8221482e22e815a0",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T09:35:40.540763+00:00"
+    },
     {
       "channel": "Equiideas",
       "message_id": 113244,
@@ -9791,7 +10022,18 @@
       "version": "90ae2b1083e5cfb2",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+      "observed_at": "2026-11-27T08:18:13.557570+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "LCC Projects Ltd",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
     },
     {
       "channel": "stockmarketadviser91",
@@ -9857,7 +10099,18 @@
       "version": "f3324e2b612c027e",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+      "observed_at": "2026-11-27T08:18:13.557570+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9901,7 +10154,18 @@
       "version": "cd7f3847834d4726",
       "category": "news",
       "reason": "Possible company news; AI/name and original require verification.",
-      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+      "observed_at": "2026-11-27T08:18:13.557570+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
@@ -9934,7 +10198,18 @@
       "version": "b055cc59121a496a",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+      "observed_at": "2026-11-27T08:18:13.557570+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "CDSL",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
     },
     {
       "channel": "motilaloswalofficial",
@@ -9967,7 +10242,18 @@
       "version": "cded0757246ad1fc",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-27T08:18:13.557570+00:00"
+      "observed_at": "2026-11-27T08:18:13.557570+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "news",
+        "side": "NONE",
+        "stock_text": "APL APOLLO",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
     },
     {
       "channel": "STOCKGAINERSS",
@@ -10220,7 +10506,18 @@
       "version": "1a7d796b54677d2d",
       "category": "review",
       "reason": "Ambiguous or update/news; verify original post.",
-      "observed_at": "2026-11-27T06:50:14.810635+00:00"
+      "observed_at": "2026-11-27T06:50:14.810635+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "watch",
+        "side": "NONE",
+        "stock_text": "TATAELXI",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T09:35:40.540763+00:00"
+      }
     },
     {
       "channel": "eagleeyesmarketanalysis",
