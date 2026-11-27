@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T00:43:38.313571+00:00",
+  "updated_at": "2026-11-27T02:10:09.966405+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-26T20:42:29.637215+00:00",
@@ -9692,8 +9692,8 @@
       "pages": 1,
       "newest_id": 137492,
       "gap_detected": false,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
-      "last_success": "2026-11-27T00:43:38.313571+00:00"
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
+      "last_success": "2026-11-27T02:10:09.966405+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9701,8 +9701,8 @@
       "pages": 1,
       "newest_id": 18565,
       "gap_detected": false,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
-      "last_success": "2026-11-27T00:43:38.313571+00:00"
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
+      "last_success": "2026-11-27T02:10:09.966405+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9710,35 +9710,35 @@
       "pages": 1,
       "newest_id": 44604,
       "gap_detected": false,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
-      "last_success": "2026-11-27T00:43:38.313571+00:00"
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
+      "last_success": "2026-11-27T02:10:09.966405+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113216,
+      "newest_id": 113218,
       "gap_detected": false,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
-      "last_success": "2026-11-27T00:43:38.313571+00:00"
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
+      "last_success": "2026-11-27T02:10:09.966405+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 155409,
+      "newest_id": 155410,
       "gap_detected": false,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
-      "last_success": "2026-11-27T00:43:38.313571+00:00"
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
+      "last_success": "2026-11-27T02:10:09.966405+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 64995,
+      "newest_id": 64997,
       "gap_detected": false,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
-      "last_success": "2026-11-27T00:43:38.313571+00:00"
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
+      "last_success": "2026-11-27T02:10:09.966405+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9746,8 +9746,8 @@
       "pages": 1,
       "newest_id": 13706,
       "gap_detected": false,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
-      "last_success": "2026-11-27T00:43:38.313571+00:00"
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
+      "last_success": "2026-11-27T02:10:09.966405+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9755,22 +9755,88 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-27T00:43:38.313571+00:00",
+      "checked_at": "2026-11-27T02:10:09.966405+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-27",
-    "requests_today": 0,
+    "requests_today": 1,
     "cooldown_until": null,
-    "last_success": "2026-11-26T13:24:25.439254+00:00",
-    "last_attempt": "2026-11-26T13:24:25.439254+00:00",
+    "last_success": "2026-11-27T02:10:09.966405+00:00",
+    "last_attempt": "2026-11-27T02:10:09.966405+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "status": "ok",
+    "message": "AI processed 2/2 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113218,
+      "posted_at": "2026-11-27T01:58:12+00:00",
+      "excerpt": "🌅 Morning Commentary 27.11.2026 🌅 ✅ Gift Nifty showing Flat to negative opening 25969.00 (-60.40) Actual opening may vary keep in Mind. ✅ US market were closed due to THANKSGIVING holiday , today also US markets will open but will be for 1/2 day ..so we shall have very less ques for Monday opening. ✅ Our Markets Bank Nifty looking bit tired and saw profit booking from Higher Levels be it Pvt Banks or PSU banks ✅ IT and Reliance Powered the sensex expiry and markets yesterday. 🤜 IT = Tech Mahindra / Infosys / TCS are key 3 stocks to watch out. 🤜 Reliance future 1418/24 needs to cross to see 1428/34 and above 1438/42 then can head towards 1458/64+ 🤜 Power Stocks seeing accumulation from Lower ",
+      "has_media": false,
+      "version": "7eac2736a8ee90ca",
+      "category": "watch",
+      "reason": "Watch wording detected; confirm symbol and context.",
+      "observed_at": "2026-11-27T02:10:09.966405+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T02:10:09.966405+00:00"
+      }
+    },
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 64997,
+      "posted_at": "2026-11-27T01:54:13+00:00",
+      "excerpt": "CLSA's technical analyst laurance Balanco is giving Nifty upside level 31700.. if it crosses the previous ATH 26300.",
+      "has_media": false,
+      "version": "9170e5b59ee9332c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T02:10:09.966405+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113217,
+      "posted_at": "2026-11-27T01:47:55+00:00",
+      "excerpt": "Suprabhat 🌅 Investors 🙏 💐",
+      "has_media": false,
+      "version": "8124c54dc654d5a4",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-27T02:10:09.966405+00:00"
+    },
+    {
+      "channel": "STOCKGAINERSS",
+      "message_id": 155410,
+      "posted_at": "2026-11-27T01:32:29+00:00",
+      "excerpt": "🙏 GOOD MORNING ALL 🌻 🌺 Have A Profitable Day today 🌹 NOTE: POSTS HERE ARE BASED ON MY RESEARCH AND ARE FOR EDUCATIONAL PURPOSES ONLY. We are not liable for any Profit or Loss. PLEASE CONSULT YOUR FINANCIAL ADVISOR BEFORE BUYING OR SELLING. THANKS! ✨ Few useful Abbreviations for new traders: SL: Stop Loss TGT: Target CMP: Current Market PRICE BTST: Buy Today Sell Tomorrow STBT: Sell Today Buy Tomorrow The profit/loss figures mentioned are indicative and based on assumptions. Futures: Single Lot OPTIONS: Single lot Index: 4-5lots",
+      "has_media": false,
+      "version": "c4f956dc1071b58d",
+      "category": "review",
+      "reason": "Ambiguous or update/news; verify original post.",
+      "observed_at": "2026-11-27T02:10:09.966405+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-27T02:10:09.966405+00:00"
+      }
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 64995,
