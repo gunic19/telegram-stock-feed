@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-28T08:25:45.657162+00:00",
+  "updated_at": "2026-11-28T09:27:46.586388+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-27T21:31:37.830029+00:00",
@@ -9694,10 +9694,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137546,
+      "newest_id": 137548,
       "gap_detected": false,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
-      "last_success": "2026-11-28T08:25:45.657162+00:00"
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
+      "last_success": "2026-11-28T09:27:46.586388+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,8 +9705,8 @@
       "pages": 1,
       "newest_id": 18570,
       "gap_detected": false,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
-      "last_success": "2026-11-28T08:25:45.657162+00:00"
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
+      "last_success": "2026-11-28T09:27:46.586388+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9714,17 +9714,17 @@
       "pages": 1,
       "newest_id": 44621,
       "gap_detected": false,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
-      "last_success": "2026-11-28T08:25:45.657162+00:00"
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
+      "last_success": "2026-11-28T09:27:46.586388+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113274,
+      "newest_id": 113277,
       "gap_detected": false,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
-      "last_success": "2026-11-28T08:25:45.657162+00:00"
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
+      "last_success": "2026-11-28T09:27:46.586388+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9732,8 +9732,8 @@
       "pages": 1,
       "newest_id": 155456,
       "gap_detected": false,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
-      "last_success": "2026-11-28T08:25:45.657162+00:00"
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
+      "last_success": "2026-11-28T09:27:46.586388+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9741,8 +9741,8 @@
       "pages": 1,
       "newest_id": 65029,
       "gap_detected": false,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
-      "last_success": "2026-11-28T08:25:45.657162+00:00"
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
+      "last_success": "2026-11-28T09:27:46.586388+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9750,8 +9750,8 @@
       "pages": 1,
       "newest_id": 13723,
       "gap_detected": false,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
-      "last_success": "2026-11-28T08:25:45.657162+00:00"
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
+      "last_success": "2026-11-28T09:27:46.586388+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,7 +9759,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-28T08:25:45.657162+00:00",
+      "checked_at": "2026-11-28T09:27:46.586388+00:00",
       "last_success": null
     }
   },
@@ -9775,6 +9775,61 @@
     "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113277,
+      "posted_at": "2026-11-28T09:27:31+00:00",
+      "excerpt": "💫 Poonawalla Fincorp 💫 Closed 494.95 ... 498/506 crossed can see 512/19 ... once 519/24 crossed can see 528/34 and above this can see 554/62/74+ 💫 Above 578/84 can see moves towards 588/600+ 💫 Downside 488/82 broken can see 478/72/64/52 and below 448/42 broken can see 434/26/17 and below 408 can see 396/388 also 💫 Interesting Days ahead",
+      "has_media": true,
+      "version": "688b4b734bb5bc89",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T09:27:46.586388+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113276,
+      "posted_at": "2026-11-28T09:18:16+00:00",
+      "excerpt": "💫 Elgi Equipments 💫 Closed at 561 .... next level 568/74 crossed can see 578/86 ... 594/98 crucial resistance zone crossed can see 604/608 and above 618/626 can see moves towards 642/48/52+ 💫 Above 656/664 can see levels of 680+ and then 694/704+ 💫 Downside 554/46 broken can see 534/22/516 and below 508/492 then can see 488/82/74 and 454 💫 Interesting days ahead",
+      "has_media": true,
+      "version": "c35c9e3a750834af",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T09:27:46.586388+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113275,
+      "posted_at": "2026-11-28T09:14:30+00:00",
+      "excerpt": "💫 GOKULDAS EXPORTS = GOKEX 💫 Closed at 789 , which is crucial level if it crosses friday high which is 819 next resistance is 824/28 then can see 824/38 and 844 is next major resistance above this it can see moves towards 854/68/76/88 💫 Once 888 crossed then 894/98/904 and above 916/22 can see fresh 52 wk highs 💫 958/64 crossed can see 1000+ 💫 Downside 766/52 broken can see 744/732 and then 718/708 broken can see 696/680/664",
+      "has_media": true,
+      "version": "bd803aa103749762",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T09:27:46.586388+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137548,
+      "posted_at": "2026-11-28T08:38:30+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 3 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "af4ac1bdd6576dba",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T09:27:46.586388+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137547,
+      "posted_at": "2026-11-28T08:38:13+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-28T09:27:46.586388+00:00"
+    },
     {
       "channel": "stockpro_online",
       "message_id": 137546,
