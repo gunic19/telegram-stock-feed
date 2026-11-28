@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-28T05:03:04.486156+00:00",
+  "updated_at": "2026-11-28T06:01:53.242839+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-27T21:31:37.830029+00:00",
@@ -9696,8 +9696,8 @@
       "pages": 1,
       "newest_id": 137543,
       "gap_detected": false,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
-      "last_success": "2026-11-28T05:03:04.486156+00:00"
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "last_success": "2026-11-28T06:01:53.242839+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,8 +9705,8 @@
       "pages": 1,
       "newest_id": 18570,
       "gap_detected": false,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
-      "last_success": "2026-11-28T05:03:04.486156+00:00"
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "last_success": "2026-11-28T06:01:53.242839+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9714,17 +9714,17 @@
       "pages": 1,
       "newest_id": 44621,
       "gap_detected": false,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
-      "last_success": "2026-11-28T05:03:04.486156+00:00"
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "last_success": "2026-11-28T06:01:53.242839+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113269,
+      "newest_id": 113273,
       "gap_detected": false,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
-      "last_success": "2026-11-28T05:03:04.486156+00:00"
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "last_success": "2026-11-28T06:01:53.242839+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9732,17 +9732,17 @@
       "pages": 1,
       "newest_id": 155456,
       "gap_detected": false,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
-      "last_success": "2026-11-28T05:03:04.486156+00:00"
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "last_success": "2026-11-28T06:01:53.242839+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 65027,
+      "newest_id": 65028,
       "gap_detected": false,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
-      "last_success": "2026-11-28T05:03:04.486156+00:00"
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "last_success": "2026-11-28T06:01:53.242839+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9750,8 +9750,8 @@
       "pages": 1,
       "newest_id": 13723,
       "gap_detected": false,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
-      "last_success": "2026-11-28T05:03:04.486156+00:00"
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "last_success": "2026-11-28T06:01:53.242839+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,22 +9759,66 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-28T05:03:04.486156+00:00",
+      "checked_at": "2026-11-28T06:01:53.242839+00:00",
       "last_success": null
     }
   },
   "ai_status": {
     "day_utc": "2026-11-28",
-    "requests_today": 0,
+    "requests_today": 1,
     "cooldown_until": null,
-    "last_success": "2026-11-27T14:58:40.720997+00:00",
-    "last_attempt": "2026-11-27T14:58:40.720997+00:00",
+    "last_success": "2026-11-28T06:01:53.242839+00:00",
+    "last_attempt": "2026-11-28T06:01:53.242839+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "idle",
-    "message": "No text shortlisted for AI."
+    "status": "ok",
+    "message": "AI processed 1/1 shortlisted posts; outputs unverified."
   },
   "events": [
+    {
+      "channel": "eagleeyesmarketanalysis",
+      "message_id": 65028,
+      "posted_at": "2026-11-28T05:33:24+00:00",
+      "excerpt": "Krishna defence 1170 good for investment, coming in buying zone, you know how it hits 1300 every time",
+      "has_media": true,
+      "version": "fb97a6321ad8a62c",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T06:01:53.242839+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113272,
+      "posted_at": "2026-11-28T05:12:28+00:00",
+      "excerpt": "EVERYTHING CANNOT BE SERVED ON PLATTER ... REMEMBER THAT ... KHUD SE THODI MEHNAT KARO !!!!",
+      "has_media": false,
+      "version": "555907b35c506fee",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T06:01:53.242839+00:00"
+    },
+    {
+      "channel": "Equiideas",
+      "message_id": 113270,
+      "posted_at": "2026-11-28T05:07:58+00:00",
+      "excerpt": "The Biggest Issue with all Retailers who are into stock markets is following :- 1) They do not have patience of holding stocks 2) Need Instant returns be it immediate or couple of days or weeks or maximum 2 to 4 months 3) Highly influenced by Social Media post and never want to do research of their own 4) They want everything Ready Made be it a) Stock tips b) levels c) Targets 5) They spend money on lot many things which are non productive but will never spend time to about markets Profits and Portfolio building is all about timing, patience and vision Use every Holiday to study, make notes to be the first mover in markets rather than following others",
+      "has_media": false,
+      "version": "40bf519c602fc48f",
+      "category": "news",
+      "reason": "Possible company news; AI/name and original require verification.",
+      "observed_at": "2026-11-28T06:01:53.242839+00:00",
+      "ai_attempts": 1,
+      "ai": {
+        "kind": "noise",
+        "side": "NONE",
+        "stock_text": "",
+        "entry_as_posted": null,
+        "first_target": null,
+        "stop_loss": null,
+        "model": "gemini-3.1-flash-lite",
+        "processed_at": "2026-11-28T06:01:53.242839+00:00"
+      }
+    },
     {
       "channel": "Equiideas",
       "message_id": 113269,
