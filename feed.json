@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-28T06:01:53.242839+00:00",
+  "updated_at": "2026-11-28T07:15:36.298314+00:00",
   "catalog": {
     "state": "ok",
     "fetched_at": "2026-11-27T21:31:37.830029+00:00",
@@ -9694,10 +9694,10 @@
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 137543,
+      "newest_id": 137545,
       "gap_detected": false,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
-      "last_success": "2026-11-28T06:01:53.242839+00:00"
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
+      "last_success": "2026-11-28T07:15:36.298314+00:00"
     },
     "motilaloswalofficial": {
       "state": "ok",
@@ -9705,8 +9705,8 @@
       "pages": 1,
       "newest_id": 18570,
       "gap_detected": false,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
-      "last_success": "2026-11-28T06:01:53.242839+00:00"
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
+      "last_success": "2026-11-28T07:15:36.298314+00:00"
     },
     "GHANSHYAMTECH": {
       "state": "ok",
@@ -9714,17 +9714,17 @@
       "pages": 1,
       "newest_id": 44621,
       "gap_detected": false,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
-      "last_success": "2026-11-28T06:01:53.242839+00:00"
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
+      "last_success": "2026-11-28T07:15:36.298314+00:00"
     },
     "Equiideas": {
       "state": "ok",
       "message": "Latest public preview checked",
       "pages": 1,
-      "newest_id": 113273,
+      "newest_id": 113274,
       "gap_detected": false,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
-      "last_success": "2026-11-28T06:01:53.242839+00:00"
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
+      "last_success": "2026-11-28T07:15:36.298314+00:00"
     },
     "STOCKGAINERSS": {
       "state": "ok",
@@ -9732,8 +9732,8 @@
       "pages": 1,
       "newest_id": 155456,
       "gap_detected": false,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
-      "last_success": "2026-11-28T06:01:53.242839+00:00"
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
+      "last_success": "2026-11-28T07:15:36.298314+00:00"
     },
     "eagleeyesmarketanalysis": {
       "state": "ok",
@@ -9741,8 +9741,8 @@
       "pages": 1,
       "newest_id": 65028,
       "gap_detected": false,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
-      "last_success": "2026-11-28T06:01:53.242839+00:00"
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
+      "last_success": "2026-11-28T07:15:36.298314+00:00"
     },
     "stockmarketadviser91": {
       "state": "ok",
@@ -9750,8 +9750,8 @@
       "pages": 1,
       "newest_id": 13723,
       "gap_detected": false,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
-      "last_success": "2026-11-28T06:01:53.242839+00:00"
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
+      "last_success": "2026-11-28T07:15:36.298314+00:00"
     },
     "stockboxtradinggg": {
       "state": "error",
@@ -9759,7 +9759,7 @@
       "pages": 1,
       "newest_id": 0,
       "gap_detected": true,
-      "checked_at": "2026-11-28T06:01:53.242839+00:00",
+      "checked_at": "2026-11-28T07:15:36.298314+00:00",
       "last_success": null
     }
   },
@@ -9771,10 +9771,43 @@
     "last_attempt": "2026-11-28T06:01:53.242839+00:00",
     "last_error": null,
     "pending": 0,
-    "status": "ok",
-    "message": "AI processed 1/1 shortlisted posts; outputs unverified."
+    "status": "idle",
+    "message": "No text shortlisted for AI."
   },
   "events": [
+    {
+      "channel": "Equiideas",
+      "message_id": 113274,
+      "posted_at": "2026-11-28T07:11:52+00:00",
+      "excerpt": "Major Textile Stocks that one should Focus Indo Count Arvind mills Sport King Gokuldas Exports Nitin Spinners Ambika Cotton KPR Mills Kitex Vardhman Textiles Monte Carlo Trident Alok Industries PDS Sutlej Textiles THE GAME HAS JUST BEGAN !!!!",
+      "has_media": false,
+      "version": "3908fb767860f631",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T07:15:36.298314+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137545,
+      "posted_at": "2026-11-28T06:37:35+00:00",
+      "excerpt": "🔰 YESTERDAY WE HAD A WONDERFUL INTRODUCTORY CLASS OF MASTER TRADER COURSE NOVEMBER  2026 BATCH 😎 😎 🔥 Admissions Are Still Open! ✅ Course Highlights * 📚 6–7 Months of LIVE Classes * 🎯 10 Months of Stock Selection Sessions * 📈 10 Months of LIVE Market Sessions (3 times daily) * 🧾 Separate Classes for Equity & Options * 👨‍🏫 7–9 Expert Mentors guiding you throughout * 🤝 Full-Time Support Team available for assistance ⏳ Hurry Up! Last 3 Seats Left 💥 Enroll Before It’s Gone! 📞 Contact StockPro-Team Now [phone] 📱 WhatsApp: [link]",
+      "has_media": false,
+      "version": "af4ac1bdd6576dba",
+      "category": "review",
+      "reason": "Unclassified public post; manual review required.",
+      "observed_at": "2026-11-28T07:15:36.298314+00:00"
+    },
+    {
+      "channel": "stockpro_online",
+      "message_id": 137544,
+      "posted_at": "2026-11-28T06:37:20+00:00",
+      "excerpt": "",
+      "has_media": true,
+      "version": "e85145a2aa024eec",
+      "category": "review",
+      "reason": "Media or no readable text; open the original post.",
+      "observed_at": "2026-11-28T07:15:36.298314+00:00"
+    },
     {
       "channel": "eagleeyesmarketanalysis",
       "message_id": 65028,
